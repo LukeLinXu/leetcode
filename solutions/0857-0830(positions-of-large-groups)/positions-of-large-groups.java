@@ -1,0 +1,76 @@
+// In a string S of lowercase letters, these letters form consecutive groups of the same character.
+//
+// For example, a string like S = "abbxxxxzyy" has the groups "a", "bb", "xxxx", "z" and "yy".
+//
+// Call a group large if it has 3 or more characters.  We would like the starting and ending positions of every large group.
+//
+// The final answer should be in lexicographic order.
+//
+//  
+//
+// Example 1:
+//
+//
+// Input: "abbxxxxzzy"
+// Output: [[3,6]]
+// Explanation: "xxxx" is the single large group with starting  3 and ending positions 6.
+//
+//
+// Example 2:
+//
+//
+// Input: "abc"
+// Output: []
+// Explanation: We have "a","b" and "c" but no large group.
+//
+//
+// Example 3:
+//
+//
+// Input: "abcdddeeeeaabbbcd"
+// Output: [[3,5],[6,9],[12,14]]
+//
+//  
+//
+// Note:  1 <= S.length <= 1000
+//
+
+
+class Solution {
+    public List<List<Integer>> largeGroupPositions(String S) {
+        ArrayList<List<Integer>> list = new ArrayList<>();
+        char[] chars = S.toCharArray();
+        int len = chars.length;
+        if(len<3) return new ArrayList<>();
+        int index = 0;
+        char current = chars[0];
+        int start = 0;
+        int end = 0;
+
+
+        while (true){
+            while(index < len && chars[index]==current){
+                index++;
+            }
+            if(index > len){
+                break;
+            }
+            end = index - 1;
+            if(end - start >= 2){
+                ArrayList<Integer> list1 = new ArrayList<>(2);
+                list1.add(start);
+                list1.add(end);
+                list.add(list1);
+            }
+            if(index < len){
+                current = chars[index];
+                start = index;
+                end = index;
+            }else{
+                break;
+            }
+            
+        }
+        return list;
+    }
+}

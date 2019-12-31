@@ -289,6 +289,7 @@ class Leetcode:
             data['total_acs'] = quiz['stat']['total_acs']
             data['total_submitted'] = quiz['stat']['total_submitted']
             data['question_id'] = quiz['stat']['question_id']
+            data['frontend_question_id'] = quiz['stat']['frontend_question_id']
             data['status'] = quiz['status']
             item = QuizItem(**data)
             yield item
@@ -534,8 +535,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 (Notes: :lock: means you need to buy a book from Leetcode to unlock the problem)
 
-| # | Title | Source Code | Article | Difficulty |
-|:---:|:---:|:---:|:---:|:---:|'''.format(
+| DB# | UI# | Title | Source Code | Article | Difficulty |
+|:---:|:---:|:---:|:---:|:---:|:---:|'''.format(
             language=languages_readme,
             tm=time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())),
             num_solved=self.num_solved,
@@ -578,8 +579,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
                 else:
                     language = ''
             language = language.strip()
-            md += '|{id}|[{title}]({url})|{language}|{article}|{difficulty}|\n'.format(
+            md += '|{id}|{uiid}|[{title}]({url})|{language}|{article}|{difficulty}|\n'.format(
                 id=item.question_id,
+                uiid=item.frontend_question_id,
                 title=item.question__title_slug,
                 url=item.url,
                 language=language,

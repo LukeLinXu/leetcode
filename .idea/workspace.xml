@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="555183ed-1257-4c10-a970-d032ca02dc4f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="555183ed-1257-4c10-a970-d032ca02dc4f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +85,7 @@
       <workItem from="1577771212107" duration="1091000" />
       <workItem from="1577772307711" duration="2222000" />
       <workItem from="1577801780127" duration="544000" />
+      <workItem from="1578407279815" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="add git branch support.">
       <created>1577771294306</created>

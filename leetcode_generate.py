@@ -611,6 +611,85 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
         os.system(cmd_git_commit)
         os.system(cmd_git_push)
 
+    def write_sort_by_ac(self):
+        """Write Readme to current folder"""
+        languages_readme = ','.join([x.capitalize() for x in self.languages])
+        md = '''# :pencil2: Leetcode Solutions with {language}
+Update time:  {tm}
+
+Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
+
+I have solved **{num_solved}   /   {num_total}** problems
+while there are **{num_lock}** problems still locked.
+
+If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
+
+If you have any question, please give me an [issue]({repo}/issues).
+
+If you are loving solving problems in leetcode, please contact me to enjoy it together!
+
+(Notes: :lock: means you need to buy a book from Leetcode to unlock the problem)
+
+| DB# | UI# | Title | Source Code | Article | Acceptance |
+|:---:|:---:|:---:|:---:|:---:|:---:|'''.format(
+            language=languages_readme,
+            tm=time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())),
+            num_solved=self.num_solved,
+            num_total=self.num_total,
+            num_lock=self.num_lock,
+            repo=CONFIG['repo'],
+        )
+        md += '\n'
+        temp_list = filter(lambda x: not x.is_lock, self.items)
+        temp_list = sorted(temp_list, key=lambda x: x.acceptance, reverse=True)
+        for item in temp_list:
+            article = ''
+            if item.question__article__slug:
+                article = '[:memo:](https://leetcode.com/articles/{article}/)'.format(
+                    article=item.question__article__slug
+                )
+            if item.is_lock:
+                language = ':lock:'
+            else:
+                if item.solutions:
+                    dirname = '{folder}/{id}-{uiid}({title})'.format(
+                        folder=SOLUTION_FOLDER_NAME,
+                        id=str(item.question_id).zfill(MAX_DIGIT_LEN),
+                        uiid=str(item.frontend_question_id).zfill(MAX_DIGIT_LEN),
+                        title=item.question__title_slug,
+                    )
+                    language = ''
+                    language_lst = [
+                        i['lang']
+                        for i in item.solutions
+                        if i['lang'] in self.languages
+                    ]
+                    while language_lst:
+                        lan = language_lst.pop()
+                        language += '[{language}]({repo}/blob/{branch}/{dirname}/{title}.{ext})'.format(
+                            branch=REPO_BRANCH,
+                            language=lan.capitalize(),
+                            repo=CONFIG['repo'],
+                            dirname=dirname,
+                            title=item.question__title_slug,
+                            ext=self.prolangdict[lan].ext,
+                        )
+                        language += ' '
+                else:
+                    language = ''
+            language = language.strip()
+            md += '|{id}|{uiid}|[{title}]({url})|{language}|{article}|{difficulty}|\n'.format(
+                id=item.question_id,
+                uiid=item.frontend_question_id,
+                title=item.question__title_slug,
+                url=item.url,
+                language=language,
+                article=article,
+                difficulty=item.acceptance,
+            )
+        with open('SortByAC.md', 'w') as f:
+            f.write(md)
+
 
 def do_job(leetcode):
     leetcode.load()
@@ -629,6 +708,8 @@ def do_job(leetcode):
     print('Leetcode finish dowload')
     leetcode.write_readme()
     print('Leetcode finish write readme')
+    leetcode.write_sort_by_ac()
+    print('Leetcode finish write SortByAC')
     leetcode.push_to_github()
     print('push to github')
 

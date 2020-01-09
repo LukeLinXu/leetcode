@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="555183ed-1257-4c10-a970-d032ca02dc4f" name="Default Changelist" comment="" />
+    <list default="true" id="555183ed-1257-4c10-a970-d032ca02dc4f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode_generate.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_generate.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +14,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev_luke_1" />
+        <entry key="$PROJECT_DIR$" value="dev_test" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,6 +72,7 @@
         <item itemvalue="Python.leetcode_generate" />
         <item itemvalue="Python.leetcode_generate" />
         <item itemvalue="Python.leetcode_generate" />
+        <item itemvalue="Python.leetcode_generate" />
       </list>
     </recent_temporary>
   </component>
@@ -86,6 +90,7 @@
       <workItem from="1577772307711" duration="2222000" />
       <workItem from="1577801780127" duration="544000" />
       <workItem from="1578407279815" duration="6000" />
+      <workItem from="1578582715101" duration="5170000" />
     </task>
     <task id="LOCAL-00001" summary="add git branch support.">
       <created>1577771294306</created>
@@ -101,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577772388127</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add TODO_LIST.md">
+      <created>1578589119188</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578589119188</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,9 +135,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add git branch support." />
     <MESSAGE value="change folder name" />
-    <option name="LAST_COMMIT_MESSAGE" value="change folder name" />
+    <MESSAGE value="add TODO_LIST.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="add TODO_LIST.md" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/leetcode$leetcode_generate.coverage" NAME="leetcode_generate Coverage Results" MODIFIED="1577801793526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$leetcode_generate.coverage" NAME="leetcode_generate Coverage Results" MODIFIED="1578589520257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-09 23:24:56
+Update time:  2020-01-09 23:44:15
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **185   /   1208** problems
+I have solved **186   /   1208** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -17,7 +17,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 | DB# | UI# | Title | Source Code | Article | Acceptance |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1205|1108|[defanging-an-ip-address](https://leetcode.com/problems/defanging-an-ip-address)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1205-1108(defanging-an-ip-address)/defanging-an-ip-address.java)||85.5%|
-|1254|1302|[deepest-leaves-sum](https://leetcode.com/problems/deepest-leaves-sum)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1254-1302(deepest-leaves-sum)/deepest-leaves-sum.java)||85.1%|
+|1254|1302|[deepest-leaves-sum](https://leetcode.com/problems/deepest-leaves-sum)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1254-1302(deepest-leaves-sum)/deepest-leaves-sum.java)||85.2%|
 |1406|1281|[subtract-the-product-and-sum-of-digits-of-an-integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1406-1281(subtract-the-product-and-sum-of-digits-of-an-integer)/subtract-the-product-and-sum-of-digits-of-an-integer.java)||84.7%|
 |1421|1295|[find-numbers-with-even-number-of-digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1421-1295(find-numbers-with-even-number-of-digits)/find-numbers-with-even-number-of-digits.java)||84.6%|
 |782|771|[jewels-and-stones](https://leetcode.com/problems/jewels-and-stones)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0782-0771(jewels-and-stones)/jewels-and-stones.java)|[:memo:](https://leetcode.com/articles/jewels-and-stones/)|84.3%|
@@ -29,10 +29,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1114|1038|[binary-search-tree-to-greater-sum-tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1114-1038(binary-search-tree-to-greater-sum-tree)/binary-search-tree-to-greater-sum-tree.java)||78.8%|
 |1395|1266|[minimum-time-visiting-all-points](https://leetcode.com/problems/minimum-time-visiting-all-points)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1395-1266(minimum-time-visiting-all-points)/minimum-time-visiting-all-points.java)||78.8%|
 |535|535|[encode-and-decode-tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0535-0535(encode-and-decode-tinyurl)/encode-and-decode-tinyurl.java)|[:memo:](https://leetcode.com/articles/encode-and-decode-tinyurl/)|78.4%|
-|742|709|[to-lower-case](https://leetcode.com/problems/to-lower-case)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0742-0709(to-lower-case)/to-lower-case.java)||78.2%|
+|742|709|[to-lower-case](https://leetcode.com/problems/to-lower-case)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0742-0709(to-lower-case)/to-lower-case.java)||78.3%|
 |784|701|[insert-into-a-binary-search-tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0784-0701(insert-into-a-binary-search-tree)/insert-into-a-binary-search-tree.java)|[:memo:](https://leetcode.com/articles/insert-into-a-bst/)|78.2%|
 |654|654|[maximum-binary-tree](https://leetcode.com/problems/maximum-binary-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0654-0654(maximum-binary-tree)/maximum-binary-tree.java)|[:memo:](https://leetcode.com/articles/maximum-binary-tree/)|78.0%|
-|1378|1252|[cells-with-odd-values-in-a-matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)|||78.0%|
+|1378|1252|[cells-with-odd-values-in-a-matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1378-1252(cells-with-odd-values-in-a-matrix)/cells-with-odd-values-in-a-matrix.java)||78.0%|
 |1434|1309|[decrypt-string-from-alphabet-to-integer-mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping)|||77.8%|
 |1426|1304|[find-n-unique-integers-sum-up-to-zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero)|||77.6%|
 |1078|1021|[remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|||76.2%|
@@ -323,11 +323,11 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |454|454|[4sum-ii](https://leetcode.com/problems/4sum-ii)|||52.1%|
 |530|530|[minimum-absolute-difference-in-bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|||52.1%|
 |893|863|[all-nodes-distance-k-in-binary-tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)||[:memo:](https://leetcode.com/articles/all-nodes-distance-k-in-binary-tree/)|52.0%|
+|1023|981|[time-based-key-value-store](https://leetcode.com/problems/time-based-key-value-store)||[:memo:](https://leetcode.com/articles/time-based-key-value-store/)|52.0%|
 |1035|993|[cousins-in-binary-tree](https://leetcode.com/problems/cousins-in-binary-tree)||[:memo:](https://leetcode.com/articles/cousins-in-binary-tree/)|52.0%|
 |1129|1048|[longest-string-chain](https://leetcode.com/problems/longest-string-chain)|||52.0%|
 |1372|1250|[check-if-it-is-a-good-array](https://leetcode.com/problems/check-if-it-is-a-good-array)|||52.0%|
 |976|939|[minimum-area-rectangle](https://leetcode.com/problems/minimum-area-rectangle)||[:memo:](https://leetcode.com/articles/minimum-area-rectangle/)|51.9%|
-|1023|981|[time-based-key-value-store](https://leetcode.com/problems/time-based-key-value-store)||[:memo:](https://leetcode.com/articles/time-based-key-value-store/)|51.9%|
 |378|378|[kth-smallest-element-in-a-sorted-matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)|||51.8%|
 |900|869|[reordered-power-of-2](https://leetcode.com/problems/reordered-power-of-2)||[:memo:](https://leetcode.com/articles/reordered-power-of-2/)|51.8%|
 |49|49|[group-anagrams](https://leetcode.com/problems/group-anagrams)||[:memo:](https://leetcode.com/articles/group-anagrams/)|51.7%|
@@ -447,11 +447,11 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |563|563|[binary-tree-tilt](https://leetcode.com/problems/binary-tree-tilt)||[:memo:](https://leetcode.com/articles/binary-tree-tilt/)|47.6%|
 |740|740|[delete-and-earn](https://leetcode.com/problems/delete-and-earn)||[:memo:](https://leetcode.com/articles/delete-and-earn/)|47.6%|
 |1038|996|[number-of-squareful-arrays](https://leetcode.com/problems/number-of-squareful-arrays)||[:memo:](https://leetcode.com/articles/number-of-squareful-arrays/)|47.6%|
-|1422|1296|[divide-array-in-sets-of-k-consecutive-numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers)|||47.6%|
 |235|235|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0235-0235(lowest-common-ancestor-of-a-binary-search-tree)/lowest-common-ancestor-of-a-binary-search-tree.java)|[:memo:](https://leetcode.com/articles/lowest-common-ancestor-of-a-binary-search-tree/)|47.5%|
 |766|430|[flatten-a-multilevel-doubly-linked-list](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list)||[:memo:](https://leetcode.com/articles/flatten-a-multilevel-doubly-linked-list/)|47.5%|
 |779|768|[max-chunks-to-make-sorted-ii](https://leetcode.com/problems/max-chunks-to-make-sorted-ii)||[:memo:](https://leetcode.com/articles/max-chunks-to-make-sorted-ii/)|47.5%|
 |905|873|[length-of-longest-fibonacci-subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence)||[:memo:](https://leetcode.com/articles/length-of-longest-fibonacci-subsequence/)|47.5%|
+|1422|1296|[divide-array-in-sets-of-k-consecutive-numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers)|||47.5%|
 |524|524|[longest-word-in-dictionary-through-deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting)||[:memo:](https://leetcode.com/articles/longest-word-in-dictionary-through-deletion/)|47.4%|
 |939|903|[valid-permutations-for-di-sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence)||[:memo:](https://leetcode.com/articles/valid-permutations-for-di-sequence/)|47.4%|
 |1016|974|[subarray-sums-divisible-by-k](https://leetcode.com/problems/subarray-sums-divisible-by-k)||[:memo:](https://leetcode.com/articles/subarray-sums-divisible-by-k/)|47.4%|
@@ -475,11 +475,11 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |726|726|[number-of-atoms](https://leetcode.com/problems/number-of-atoms)||[:memo:](https://leetcode.com/articles/number-of-atoms/)|46.6%|
 |781|770|[basic-calculator-iv](https://leetcode.com/problems/basic-calculator-iv)||[:memo:](https://leetcode.com/articles/basic-calculator-iv/)|46.6%|
 |820|802|[find-eventual-safe-states](https://leetcode.com/problems/find-eventual-safe-states)||[:memo:](https://leetcode.com/articles/find-eventual-safe-states/)|46.6%|
-|1227|1128|[number-of-equivalent-domino-pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1227-1128(number-of-equivalent-domino-pairs)/number-of-equivalent-domino-pairs.java)||46.6%|
 |27|27|[remove-element](https://leetcode.com/problems/remove-element)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0027-0027(remove-element)/remove-element.java)|[:memo:](https://leetcode.com/articles/remove-element/)|46.5%|
 |458|458|[poor-pigs](https://leetcode.com/problems/poor-pigs)||[:memo:](https://leetcode.com/articles/poor-pigs/)|46.5%|
 |498|498|[diagonal-traverse](https://leetcode.com/problems/diagonal-traverse)||[:memo:](https://leetcode.com/articles/diagonal-traverse/)|46.5%|
 |952|916|[word-subsets](https://leetcode.com/problems/word-subsets)||[:memo:](https://leetcode.com/articles/word-subsets/)|46.5%|
+|1227|1128|[number-of-equivalent-domino-pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1227-1128(number-of-equivalent-domino-pairs)/number-of-equivalent-domino-pairs.java)||46.5%|
 |119|119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0119-0119(pascals-triangle-ii)/pascals-triangle-ii.java)||46.4%|
 |232|232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks)||[:memo:](https://leetcode.com/articles/implement-queue-using-stacks/)|46.4%|
 |583|583|[delete-operation-for-two-strings](https://leetcode.com/problems/delete-operation-for-two-strings)||[:memo:](https://leetcode.com/articles/delete-operation-for-two-strings/)|46.4%|

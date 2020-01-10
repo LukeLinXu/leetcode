@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-09 23:24:56
+Update time:  2020-01-09 23:44:15
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **185   /   1208** problems
+I have solved **186   /   1208** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1188,7 +1188,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1370|1248|[count-number-of-nice-subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays)|||Medium|
 |1371|1249|[minimum-remove-to-make-valid-parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)||[:memo:](https://leetcode.com/articles/minimum-remove-to-make-valid-parentheses/)|Medium|
 |1372|1250|[check-if-it-is-a-good-array](https://leetcode.com/problems/check-if-it-is-a-good-array)|||Hard|
-|1378|1252|[cells-with-odd-values-in-a-matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)|||Easy|
+|1378|1252|[cells-with-odd-values-in-a-matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1378-1252(cells-with-odd-values-in-a-matrix)/cells-with-odd-values-in-a-matrix.java)||Easy|
 |1379|1253|[reconstruct-a-2-row-binary-matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix)|||Medium|
 |1380|1254|[number-of-closed-islands](https://leetcode.com/problems/number-of-closed-islands)|||Medium|
 |1381|1255|[maximum-score-words-formed-by-letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters)|||Hard|

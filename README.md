@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-09 12:10:36
+Update time:  2020-01-09 22:22:41
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **181   /   1208** problems
+I have solved **182   /   1208** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -80,7 +80,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |62|62|[unique-paths](https://leetcode.com/problems/unique-paths)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0062-0062(unique-paths)/unique-paths.java)||Medium|
 |63|63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0063-0063(unique-paths-ii)/unique-paths-ii.java)|[:memo:](https://leetcode.com/articles/unique-paths-ii/)|Medium|
 |64|64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0064-0064(minimum-path-sum)/minimum-path-sum.java)|[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
-|65|65|[valid-number](https://leetcode.com/problems/valid-number)|||Hard|
+|65|65|[valid-number](https://leetcode.com/problems/valid-number)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0065-0065(valid-number)/valid-number.java)||Hard|
 |66|66|[plus-one](https://leetcode.com/problems/plus-one)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0066-0066(plus-one)/plus-one.java)||Easy|
 |67|67|[add-binary](https://leetcode.com/problems/add-binary)||[:memo:](https://leetcode.com/articles/add-binary/)|Easy|
 |68|68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|

@@ -101,6 +101,9 @@
       <workItem from="1578634817086" duration="48000" />
       <workItem from="1578685909986" duration="600000" />
       <workItem from="1578687603062" duration="52000" />
+      <workItem from="1578688144905" duration="50000" />
+      <workItem from="1578688335899" duration="29000" />
+      <workItem from="1578688385283" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="add git branch support.">
       <created>1577771294306</created>
@@ -149,10 +152,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="add TODO_LIST.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="157" y="143" width="1173" height="637" key="DiffContextDialog" timestamp="1578687655035">
+    <state x="157" y="143" width="1173" height="637" key="DiffContextDialog" timestamp="1578688194020">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
-    <state x="157" y="143" width="1173" height="637" key="DiffContextDialog/47.23.1393.877@47.23.1393.877" timestamp="1578687655035" />
+    <state x="157" y="143" width="1173" height="637" key="DiffContextDialog/47.23.1393.877@47.23.1393.877" timestamp="1578688194020" />
     <state width="1331" height="428" key="GridCell.Tab.0.bottom" timestamp="1578687065040">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
@@ -169,12 +172,17 @@
       <screen x="47" y="23" width="1393" height="877" />
     </state>
     <state width="1331" height="428" key="GridCell.Tab.0.right/47.23.1393.877@47.23.1393.877" timestamp="1578687065040" />
-    <state x="420" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1578687606162">
+    <state x="343" y="201" key="Vcs.Push.Dialog.v2" timestamp="1578688361207">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
-    <state x="420" y="294" key="com.intellij.ide.util.TipDialog/47.23.1393.877@47.23.1393.877" timestamp="1578687606162" />
+    <state x="343" y="201" key="Vcs.Push.Dialog.v2/47.23.1393.877@47.23.1393.877" timestamp="1578688361207" />
+    <state x="1954" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1578691312359">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1954" y="350" key="com.intellij.ide.util.TipDialog/47.23.1393.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1578691312359" />
+    <state x="420" y="294" key="com.intellij.ide.util.TipDialog/47.23.1393.877@47.23.1393.877" timestamp="1578688335998" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/leetcode$leetcode_generate.coverage" NAME="leetcode_generate Coverage Results" MODIFIED="1578686035670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$leetcode_generate.coverage" NAME="leetcode_generate Coverage Results" MODIFIED="1578691316705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

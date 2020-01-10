@@ -35,24 +35,46 @@
 
 
 class Solution {
-    public int oddCells(int n, int m, int[][] indices) {
-        int[][] res = new int[n][m];
-        for (int[] k : indices){
-            int nT = k[0];
-            int mT = k[1];
-            for(int i = 0; i < m; i++){
-                res[nT][i]++;
-            }
-            for(int i = 0; i < n; i++){
-                res[i][mT]++;
-            }
+    // public int oddCells(int n, int m, int[][] indices) {
+    //     int[][] res = new int[n][m];
+    //     for (int[] k : indices){
+    //         int nT = k[0];
+    //         int mT = k[1];
+    //         for(int i = 0; i < m; i++){
+    //             res[nT][i]++;
+    //         }
+    //         for(int i = 0; i < n; i++){
+    //             res[i][mT]++;
+    //         }
+    //     }
+    //     int count = 0;
+    //     for(int i = 0; i < n; i++){
+    //         for(int j = 0; j < m; j++){
+    //             if(res[i][j]%2==1) count++;
+    //         }
+    //     }
+    //     return count;
+    // }
+    /**
+     * 有点小技巧，仔细思考
+     */
+    public static int oddCells(int n, int m, int[][] indices) {
+        boolean[] mBoolean = new boolean[m];
+        boolean[] nBoolean = new boolean[n];
+        for(int[] item : indices){
+            int indexN = item[0];
+            int indexM = item[1];
+            mBoolean[indexM] = !mBoolean[indexM];
+            nBoolean[indexN] = !nBoolean[indexN];
         }
-        int count = 0;
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(res[i][j]%2==1) count++;
-            }
+        int checkedM = 0;
+        int checkedN = 0;
+        for(boolean k : mBoolean){
+            if(k) checkedM++;
         }
-        return count;
+        for(boolean k : nBoolean){
+            if(k) checkedN++;
+        }
+        return checkedM*n+checkedN*m - 2*checkedM*checkedN;
     }
 }

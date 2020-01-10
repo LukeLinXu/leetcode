@@ -309,6 +309,7 @@ class Leetcode:
             for cookie in webdriver_cookies
         }
         self.session.cookies.update(self.cookies)
+        self.session.trust_env = False
         r = self.session.get(api_url, proxies=PROXIES)
         if r.status_code != 200:
             return False

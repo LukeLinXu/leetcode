@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-11 11:25:44
+Update time:  2020-01-11 16:41:45
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **192   /   1212** problems
+I have solved **193   /   1212** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -974,7 +974,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1047|1005|[maximize-sum-of-array-after-k-negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations)|||Easy|
 |1048|1006|[clumsy-factorial](https://leetcode.com/problems/clumsy-factorial)|||Medium|
 |1049|1007|[minimum-domino-rotations-for-equal-row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)||[:memo:](https://leetcode.com/articles/minimum-domino-rotations-for-equal-row/)|Medium|
-|1050|1008|[construct-binary-search-tree-from-preorder-traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)||[:memo:](https://leetcode.com/articles/construct-bst-from-preorder-traversal/)|Medium|
+|1050|1008|[construct-binary-search-tree-from-preorder-traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1050-1008(construct-binary-search-tree-from-preorder-traversal)/construct-binary-search-tree-from-preorder-traversal.java)|[:memo:](https://leetcode.com/articles/construct-bst-from-preorder-traversal/)|Medium|
 |1051|1055|[shortest-way-to-form-string](https://leetcode.com/problems/shortest-way-to-form-string)|:lock:||Medium|
 |1052|1057|[campus-bikes](https://leetcode.com/problems/campus-bikes)|:lock:||Medium|
 |1053|1058|[minimize-rounding-error-to-meet-target](https://leetcode.com/problems/minimize-rounding-error-to-meet-target)|:lock:||Medium|
@@ -1131,10 +1131,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1238|1138|[alphabet-board-path](https://leetcode.com/problems/alphabet-board-path)|||Medium|
 |1239|1139|[largest-1-bordered-square](https://leetcode.com/problems/largest-1-bordered-square)|||Medium|
 |1240|1140|[stone-game-ii](https://leetcode.com/problems/stone-game-ii)|||Medium|
-|1241|5143|[decompress-run-length-encoded-list](https://leetcode.com/problems/decompress-run-length-encoded-list)|||Easy|
-|1242|5144|[matrix-block-sum](https://leetcode.com/problems/matrix-block-sum)|||Medium|
-|1243|5145|[sum-of-nodes-with-even-valued-grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent)|||Medium|
-|1244|5146|[distinct-echo-substrings](https://leetcode.com/problems/distinct-echo-substrings)|||Hard|
+|1241|1313|[decompress-run-length-encoded-list](https://leetcode.com/problems/decompress-run-length-encoded-list)|||Easy|
+|1242|1314|[matrix-block-sum](https://leetcode.com/problems/matrix-block-sum)|||Medium|
+|1243|1315|[sum-of-nodes-with-even-valued-grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent)|||Medium|
+|1244|1316|[distinct-echo-substrings](https://leetcode.com/problems/distinct-echo-substrings)|||Hard|
 |1247|1144|[decrease-elements-to-make-array-zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag)|||Medium|
 |1248|1145|[binary-tree-coloring-game](https://leetcode.com/problems/binary-tree-coloring-game)|||Medium|
 |1249|1146|[snapshot-array](https://leetcode.com/problems/snapshot-array)|||Medium|

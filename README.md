@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-10 17:02:31
+Update time:  2020-01-11 11:25:44
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **189   /   1208** problems
+I have solved **192   /   1212** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -758,7 +758,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |819|801|[minimum-swaps-to-make-sequences-increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing)||[:memo:](https://leetcode.com/articles/minimum-swaps-to-make-sequences-increasing/)|Medium|
 |820|802|[find-eventual-safe-states](https://leetcode.com/problems/find-eventual-safe-states)||[:memo:](https://leetcode.com/articles/find-eventual-safe-states/)|Medium|
 |821|803|[bricks-falling-when-hit](https://leetcode.com/problems/bricks-falling-when-hit)||[:memo:](https://leetcode.com/articles/bricks-falling-when-hit/)|Hard|
-|822|804|[unique-morse-code-words](https://leetcode.com/problems/unique-morse-code-words)||[:memo:](https://leetcode.com/articles/unique-morse-code-words/)|Easy|
+|822|804|[unique-morse-code-words](https://leetcode.com/problems/unique-morse-code-words)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0822-0804(unique-morse-code-words)/unique-morse-code-words.java)|[:memo:](https://leetcode.com/articles/unique-morse-code-words/)|Easy|
 |823|805|[split-array-with-same-average](https://leetcode.com/problems/split-array-with-same-average)||[:memo:](https://leetcode.com/articles/split-array-with-same-average/)|Hard|
 |824|806|[number-of-lines-to-write-string](https://leetcode.com/problems/number-of-lines-to-write-string)||[:memo:](https://leetcode.com/articles/number-of-lines-to-write-string/)|Easy|
 |825|807|[max-increase-to-keep-city-skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0825-0807(max-increase-to-keep-city-skyline)/max-increase-to-keep-city-skyline.java)|[:memo:](https://leetcode.com/articles/max-increase-to-keep-city-skyline/)|Medium|
@@ -1123,7 +1123,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1228|1130|[minimum-cost-tree-from-leaf-values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)|||Medium|
 |1229|1129|[shortest-path-with-alternating-colors](https://leetcode.com/problems/shortest-path-with-alternating-colors)|||Medium|
 |1230|1131|[maximum-of-absolute-value-expression](https://leetcode.com/problems/maximum-of-absolute-value-expression)|||Medium|
-|1231|1299|[replace-elements-with-greatest-element-on-right-side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side)|||Easy|
+|1231|1299|[replace-elements-with-greatest-element-on-right-side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1231-1299(replace-elements-with-greatest-element-on-right-side)/replace-elements-with-greatest-element-on-right-side.java)||Easy|
 |1232|1300|[sum-of-mutated-array-closest-to-target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target)|||Medium|
 |1233|1274|[number-of-ships-in-a-rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle)|:lock:||Hard|
 |1234|1301|[number-of-paths-with-max-score](https://leetcode.com/problems/number-of-paths-with-max-score)|||Hard|
@@ -1131,6 +1131,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1238|1138|[alphabet-board-path](https://leetcode.com/problems/alphabet-board-path)|||Medium|
 |1239|1139|[largest-1-bordered-square](https://leetcode.com/problems/largest-1-bordered-square)|||Medium|
 |1240|1140|[stone-game-ii](https://leetcode.com/problems/stone-game-ii)|||Medium|
+|1241|5143|[decompress-run-length-encoded-list](https://leetcode.com/problems/decompress-run-length-encoded-list)|||Easy|
+|1242|5144|[matrix-block-sum](https://leetcode.com/problems/matrix-block-sum)|||Medium|
+|1243|5145|[sum-of-nodes-with-even-valued-grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent)|||Medium|
+|1244|5146|[distinct-echo-substrings](https://leetcode.com/problems/distinct-echo-substrings)|||Hard|
 |1247|1144|[decrease-elements-to-make-array-zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag)|||Medium|
 |1248|1145|[binary-tree-coloring-game](https://leetcode.com/problems/binary-tree-coloring-game)|||Medium|
 |1249|1146|[snapshot-array](https://leetcode.com/problems/snapshot-array)|||Medium|
@@ -1217,7 +1221,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1423|1297|[maximum-number-of-occurrences-of-a-substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring)|||Medium|
 |1424|1298|[maximum-candies-you-can-get-from-boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes)|||Hard|
 |1426|1304|[find-n-unique-integers-sum-up-to-zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1426-1304(find-n-unique-integers-sum-up-to-zero)/find-n-unique-integers-sum-up-to-zero.java)||Easy|
-|1427|1305|[all-elements-in-two-binary-search-trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees)|||Medium|
+|1427|1305|[all-elements-in-two-binary-search-trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1427-1305(all-elements-in-two-binary-search-trees)/all-elements-in-two-binary-search-trees.java)||Medium|
 |1428|1306|[jump-game-iii](https://leetcode.com/problems/jump-game-iii)|||Medium|
 |1429|1307|[verbal-arithmetic-puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle)|||Hard|
 |1434|1309|[decrypt-string-from-alphabet-to-integer-mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1434-1309(decrypt-string-from-alphabet-to-integer-mapping)/decrypt-string-from-alphabet-to-integer-mapping.java)||Easy|

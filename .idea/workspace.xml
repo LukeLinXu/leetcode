@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="555183ed-1257-4c10-a970-d032ca02dc4f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortByAC.md" beforeDir="false" afterPath="$PROJECT_DIR$/SortByAC.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode_generate.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_generate.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +109,7 @@
       <workItem from="1578688385283" duration="19000" />
       <workItem from="1578691308081" duration="966000" />
       <workItem from="1578693403581" duration="261000" />
-      <workItem from="1578759594911" duration="1955000" />
+      <workItem from="1578759594911" duration="4548000" />
     </task>
     <task id="LOCAL-00001" summary="add git branch support.">
       <created>1577771294306</created>
@@ -155,31 +158,31 @@
     <option name="LAST_COMMIT_MESSAGE" value="add TODO_LIST.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="157" y="143" width="1173" height="637" key="DiffContextDialog" timestamp="1578780718973">
+    <state x="157" y="143" width="1173" height="637" key="DiffContextDialog" timestamp="1578866183448">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
     <state x="1592" y="168" width="1617" height="768" key="DiffContextDialog/47.23.1393.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1578692410233" />
-    <state x="157" y="143" width="1173" height="637" key="DiffContextDialog/47.23.1393.877@47.23.1393.877" timestamp="1578780718973" />
-    <state width="1331" height="212" key="GridCell.Tab.0.bottom" timestamp="1578792263020">
+    <state x="157" y="143" width="1173" height="637" key="DiffContextDialog/47.23.1393.877@47.23.1393.877" timestamp="1578866183448" />
+    <state width="1351" height="225" key="GridCell.Tab.0.bottom" timestamp="1578865948230">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
     <state width="1331" height="428" key="GridCell.Tab.0.bottom/47.23.1393.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1578693854590" />
-    <state width="1331" height="212" key="GridCell.Tab.0.bottom/47.23.1393.877@47.23.1393.877" timestamp="1578792263020" />
-    <state width="1331" height="212" key="GridCell.Tab.0.center" timestamp="1578792263019">
+    <state width="1351" height="225" key="GridCell.Tab.0.bottom/47.23.1393.877@47.23.1393.877" timestamp="1578865948230" />
+    <state width="1351" height="225" key="GridCell.Tab.0.center" timestamp="1578865948229">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
     <state width="1331" height="428" key="GridCell.Tab.0.center/47.23.1393.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1578693854589" />
-    <state width="1331" height="212" key="GridCell.Tab.0.center/47.23.1393.877@47.23.1393.877" timestamp="1578792263019" />
-    <state width="1331" height="212" key="GridCell.Tab.0.left" timestamp="1578792263017">
+    <state width="1351" height="225" key="GridCell.Tab.0.center/47.23.1393.877@47.23.1393.877" timestamp="1578865948229" />
+    <state width="1351" height="225" key="GridCell.Tab.0.left" timestamp="1578865948229">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
     <state width="1331" height="428" key="GridCell.Tab.0.left/47.23.1393.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1578693854588" />
-    <state width="1331" height="212" key="GridCell.Tab.0.left/47.23.1393.877@47.23.1393.877" timestamp="1578792263017" />
-    <state width="1331" height="212" key="GridCell.Tab.0.right" timestamp="1578792263020">
+    <state width="1351" height="225" key="GridCell.Tab.0.left/47.23.1393.877@47.23.1393.877" timestamp="1578865948229" />
+    <state width="1351" height="225" key="GridCell.Tab.0.right" timestamp="1578865948230">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
     <state width="1331" height="428" key="GridCell.Tab.0.right/47.23.1393.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1578693854589" />
-    <state width="1331" height="212" key="GridCell.Tab.0.right/47.23.1393.877@47.23.1393.877" timestamp="1578792263020" />
+    <state width="1351" height="225" key="GridCell.Tab.0.right/47.23.1393.877@47.23.1393.877" timestamp="1578865948230" />
     <state x="1848" y="238" key="Vcs.Push.Dialog.v2" timestamp="1578693847990">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
@@ -192,6 +195,6 @@
     <state x="420" y="294" key="com.intellij.ide.util.TipDialog/47.23.1393.877@47.23.1393.877" timestamp="1578759596944" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/leetcode$leetcode_generate.coverage" NAME="leetcode_generate Coverage Results" MODIFIED="1578792262980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$leetcode_generate.coverage" NAME="leetcode_generate Coverage Results" MODIFIED="1578865948216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

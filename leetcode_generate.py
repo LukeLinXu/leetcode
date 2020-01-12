@@ -642,7 +642,12 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
         )
         md += '\n'
         temp_list = filter(lambda x: not x.is_lock, self.items)
-        temp_list = sorted(temp_list, key=lambda x: x.acceptance, reverse=True)
+        difficulty_map = {
+            'Easy': 3,
+            'Medium': 2,
+            'Hard': 1
+        }
+        temp_list = sorted(temp_list, key=lambda x: (difficulty_map[x.difficulty], x.acceptance), reverse=True)
         for item in temp_list:
             article = ''
             if item.question__article__slug:

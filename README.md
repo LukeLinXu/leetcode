@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-11 20:30:19
+Update time:  2020-01-12 16:58:30
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **195   /   1212** problems
+I have solved **196   /   1216** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -73,7 +73,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |55|55|[jump-game](https://leetcode.com/problems/jump-game)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0055-0055(jump-game)/jump-game.java)|[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
 |56|56|[merge-intervals](https://leetcode.com/problems/merge-intervals)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0056-0056(merge-intervals)/merge-intervals.java)|[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
 |57|57|[insert-interval](https://leetcode.com/problems/insert-interval)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0057-0057(insert-interval)/insert-interval.java)|[:memo:](https://leetcode.com/articles/insert-interval/)|Hard|
-|58|58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|||Easy|
+|58|58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0058-0058(length-of-last-word)/length-of-last-word.java)||Easy|
 |59|59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0059-0059(spiral-matrix-ii)/spiral-matrix-ii.java)||Medium|
 |60|60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)||[:memo:](https://leetcode.com/articles/permutation-sequence/)|Medium|
 |61|61|[rotate-list](https://leetcode.com/problems/rotate-list)||[:memo:](https://leetcode.com/articles/rotate-list/)|Medium|
@@ -752,7 +752,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |813|797|[all-paths-from-source-to-target](https://leetcode.com/problems/all-paths-from-source-to-target)||[:memo:](https://leetcode.com/articles/all-paths-from-source-to-target/)|Medium|
 |814|798|[smallest-rotation-with-highest-score](https://leetcode.com/problems/smallest-rotation-with-highest-score)||[:memo:](https://leetcode.com/articles/smallest-rotation-with-highest-score/)|Hard|
 |815|799|[champagne-tower](https://leetcode.com/problems/champagne-tower)||[:memo:](https://leetcode.com/articles/champagne-tower/)|Medium|
-|816|705|[design-hashset](https://leetcode.com/problems/design-hashset)|||Easy|
+|816|705|[design-hashset](https://leetcode.com/problems/design-hashset)||[:memo:](https://leetcode.com/articles/design-hashset/)|Easy|
 |817|706|[design-hashmap](https://leetcode.com/problems/design-hashmap)||[:memo:](https://leetcode.com/articles/design-hashmap/)|Easy|
 |818|800|[similar-rgb-color](https://leetcode.com/problems/similar-rgb-color)|:lock:|[:memo:](https://leetcode.com/articles/similar-rgb-color/)|Easy|
 |819|801|[minimum-swaps-to-make-sequences-increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing)||[:memo:](https://leetcode.com/articles/minimum-swaps-to-make-sequences-increasing/)|Medium|
@@ -1228,3 +1228,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1435|1310|[xor-queries-of-a-subarray](https://leetcode.com/problems/xor-queries-of-a-subarray)|||Medium|
 |1436|1311|[get-watched-videos-by-your-friends](https://leetcode.com/problems/get-watched-videos-by-your-friends)|||Medium|
 |1437|1312|[minimum-insertion-steps-to-make-a-string-palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome)|||Hard|
+|1440|1317|[convert-integer-to-the-sum-of-two-no-zero-integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers)|||Easy|
+|1441|1318|[minimum-flips-to-make-a-or-b-equal-to-c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c)|||Medium|
+|1442|1319|[number-of-operations-to-make-network-connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected)|||Medium|
+|1443|1320|[minimum-distance-to-type-a-word-using-two-fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers)|||Hard|

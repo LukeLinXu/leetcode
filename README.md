@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-11 16:57:53
+Update time:  2020-01-11 20:30:19
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **194   /   1212** problems
+I have solved **195   /   1212** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1131,7 +1131,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1238|1138|[alphabet-board-path](https://leetcode.com/problems/alphabet-board-path)|||Medium|
 |1239|1139|[largest-1-bordered-square](https://leetcode.com/problems/largest-1-bordered-square)|||Medium|
 |1240|1140|[stone-game-ii](https://leetcode.com/problems/stone-game-ii)|||Medium|
-|1241|1313|[decompress-run-length-encoded-list](https://leetcode.com/problems/decompress-run-length-encoded-list)|||Easy|
+|1241|1313|[decompress-run-length-encoded-list](https://leetcode.com/problems/decompress-run-length-encoded-list)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1241-1313(decompress-run-length-encoded-list)/decompress-run-length-encoded-list.java)||Easy|
 |1242|1314|[matrix-block-sum](https://leetcode.com/problems/matrix-block-sum)|||Medium|
 |1243|1315|[sum-of-nodes-with-even-valued-grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1243-1315(sum-of-nodes-with-even-valued-grandparent)/sum-of-nodes-with-even-valued-grandparent.java)||Medium|
 |1244|1316|[distinct-echo-substrings](https://leetcode.com/problems/distinct-echo-substrings)|||Hard|

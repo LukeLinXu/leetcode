@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-13 13:16:54
+Update time:  2020-01-13 15:27:15
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **203   /   1216** problems
+I have solved **207   /   1216** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -711,8 +711,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |772|427|[construct-quad-tree](https://leetcode.com/problems/construct-quad-tree)|||Medium|
 |773|558|[quad-tree-intersection](https://leetcode.com/problems/quad-tree-intersection)|||Easy|
 |774|559|[maximum-depth-of-n-ary-tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)||[:memo:](https://leetcode.com/articles/maximum-depth-of-n-ary-tree/)|Easy|
-|775|589|[n-ary-tree-preorder-traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/n-ary-tree-preorder-traversal/)|Easy|
-|776|590|[n-ary-tree-postorder-traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/n-ary-tree-postorder-transversal/)|Easy|
+|775|589|[n-ary-tree-preorder-traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0775-0589(n-ary-tree-preorder-traversal)/n-ary-tree-preorder-traversal.java)|[:memo:](https://leetcode.com/articles/n-ary-tree-preorder-traversal/)|Easy|
+|776|590|[n-ary-tree-postorder-traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0776-0590(n-ary-tree-postorder-traversal)/n-ary-tree-postorder-traversal.java)|[:memo:](https://leetcode.com/articles/n-ary-tree-postorder-transversal/)|Easy|
 |777|766|[toeplitz-matrix](https://leetcode.com/problems/toeplitz-matrix)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0777-0766(toeplitz-matrix)/toeplitz-matrix.java)|[:memo:](https://leetcode.com/articles/toeplitz-matrix/)|Easy|
 |778|767|[reorganize-string](https://leetcode.com/problems/reorganize-string)||[:memo:](https://leetcode.com/articles/reorganized-string/)|Medium|
 |779|768|[max-chunks-to-make-sorted-ii](https://leetcode.com/problems/max-chunks-to-make-sorted-ii)||[:memo:](https://leetcode.com/articles/max-chunks-to-make-sorted-ii/)|Hard|
@@ -898,7 +898,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |966|930|[binary-subarrays-with-sum](https://leetcode.com/problems/binary-subarrays-with-sum)||[:memo:](https://leetcode.com/articles/binary-subarrays-with-sum/)|Medium|
 |967|931|[minimum-falling-path-sum](https://leetcode.com/problems/minimum-falling-path-sum)||[:memo:](https://leetcode.com/articles/minimum-path-falling-sum/)|Medium|
 |968|932|[beautiful-array](https://leetcode.com/problems/beautiful-array)||[:memo:](https://leetcode.com/articles/beautiful-array/)|Medium|
-|969|933|[number-of-recent-calls](https://leetcode.com/problems/number-of-recent-calls)||[:memo:](https://leetcode.com/articles/number-of-recent-calls/)|Easy|
+|969|933|[number-of-recent-calls](https://leetcode.com/problems/number-of-recent-calls)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0969-0933(number-of-recent-calls)/number-of-recent-calls.java)|[:memo:](https://leetcode.com/articles/number-of-recent-calls/)|Easy|
 |971|934|[shortest-bridge](https://leetcode.com/problems/shortest-bridge)||[:memo:](https://leetcode.com/articles/shortest-bridge/)|Medium|
 |972|935|[knight-dialer](https://leetcode.com/problems/knight-dialer)||[:memo:](https://leetcode.com/articles/knight-dialer/)|Medium|
 |973|936|[stamping-the-sequence](https://leetcode.com/problems/stamping-the-sequence)||[:memo:](https://leetcode.com/articles/stamping-the-sequence/)|Hard|
@@ -909,7 +909,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |978|941|[valid-mountain-array](https://leetcode.com/problems/valid-mountain-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0978-0941(valid-mountain-array)/valid-mountain-array.java)|[:memo:](https://leetcode.com/articles/valid-mountain-array/)|Easy|
 |979|942|[di-string-match](https://leetcode.com/problems/di-string-match)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0979-0942(di-string-match)/di-string-match.java)|[:memo:](https://leetcode.com/articles/di-string-match/)|Easy|
 |980|943|[find-the-shortest-superstring](https://leetcode.com/problems/find-the-shortest-superstring)||[:memo:](https://leetcode.com/articles/find-the-shortest-superstring/)|Hard|
-|981|944|[delete-columns-to-make-sorted](https://leetcode.com/problems/delete-columns-to-make-sorted)||[:memo:](https://leetcode.com/articles/delete-columns-to-make-sorted/)|Easy|
+|981|944|[delete-columns-to-make-sorted](https://leetcode.com/problems/delete-columns-to-make-sorted)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0981-0944(delete-columns-to-make-sorted)/delete-columns-to-make-sorted.java)|[:memo:](https://leetcode.com/articles/delete-columns-to-make-sorted/)|Easy|
 |982|945|[minimum-increment-to-make-array-unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique)||[:memo:](https://leetcode.com/articles/minimum-increment-to-make-array-unique/)|Medium|
 |983|946|[validate-stack-sequences](https://leetcode.com/problems/validate-stack-sequences)||[:memo:](https://leetcode.com/articles/validate-stack-sequences/)|Medium|
 |984|947|[most-stones-removed-with-same-row-or-column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column)||[:memo:](https://leetcode.com/articles/most-stones-removed-with-same-row-or-column/)|Medium|

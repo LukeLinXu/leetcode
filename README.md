@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-14 16:09:57
+Update time:  2020-01-14 16:27:48
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 

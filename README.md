@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-14 08:50:04
+Update time:  2020-01-14 10:59:43
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **213   /   1216** problems
+I have solved **217   /   1216** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -837,7 +837,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |905|873|[length-of-longest-fibonacci-subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence)||[:memo:](https://leetcode.com/articles/length-of-longest-fibonacci-subsequence/)|Medium|
 |906|874|[walking-robot-simulation](https://leetcode.com/problems/walking-robot-simulation)||[:memo:](https://leetcode.com/articles/walking-robot-simulation/)|Easy|
 |907|875|[koko-eating-bananas](https://leetcode.com/problems/koko-eating-bananas)||[:memo:](https://leetcode.com/articles/koko-eating-bananas/)|Medium|
-|908|876|[middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list)||[:memo:](https://leetcode.com/articles/middle-of-the-linked-list/)|Easy|
+|908|876|[middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0908-0876(middle-of-the-linked-list)/middle-of-the-linked-list.java)|[:memo:](https://leetcode.com/articles/middle-of-the-linked-list/)|Easy|
 |909|877|[stone-game](https://leetcode.com/problems/stone-game)||[:memo:](https://leetcode.com/articles/stone-game/)|Medium|
 |910|878|[nth-magical-number](https://leetcode.com/problems/nth-magical-number)||[:memo:](https://leetcode.com/articles/nth-magical-number/)|Hard|
 |911|879|[profitable-schemes](https://leetcode.com/problems/profitable-schemes)||[:memo:](https://leetcode.com/articles/profitable-schemes/)|Hard|
@@ -848,7 +848,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |916|880|[decoded-string-at-index](https://leetcode.com/problems/decoded-string-at-index)||[:memo:](https://leetcode.com/articles/decoded-string-at-index/)|Medium|
 |917|881|[boats-to-save-people](https://leetcode.com/problems/boats-to-save-people)||[:memo:](https://leetcode.com/articles/boats-to-save-people/)|Medium|
 |918|882|[reachable-nodes-in-subdivided-graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph)||[:memo:](https://leetcode.com/articles/reachable-nodes-in-subdivided-graph/)|Hard|
-|919|883|[projection-area-of-3d-shapes](https://leetcode.com/problems/projection-area-of-3d-shapes)||[:memo:](https://leetcode.com/articles/projection-area-of-3d-shapes/)|Easy|
+|919|883|[projection-area-of-3d-shapes](https://leetcode.com/problems/projection-area-of-3d-shapes)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0919-0883(projection-area-of-3d-shapes)/projection-area-of-3d-shapes.java)|[:memo:](https://leetcode.com/articles/projection-area-of-3d-shapes/)|Easy|
 |920|884|[uncommon-words-from-two-sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)||[:memo:](https://leetcode.com/articles/uncommon-words-from-two-sentences/)|Easy|
 |921|885|[spiral-matrix-iii](https://leetcode.com/problems/spiral-matrix-iii)||[:memo:](https://leetcode.com/articles/spiral-matrix-iii/)|Medium|
 |922|886|[possible-bipartition](https://leetcode.com/problems/possible-bipartition)||[:memo:](https://leetcode.com/articles/possible-bipartition/)|Medium|
@@ -1050,7 +1050,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1125|1166|[design-file-system](https://leetcode.com/problems/design-file-system)|:lock:||Medium|
 |1126|1167|[minimum-cost-to-connect-sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks)|:lock:||Medium|
 |1127|1046|[last-stone-weight](https://leetcode.com/problems/last-stone-weight)|||Easy|
-|1128|1047|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)||[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string/)|Easy|
+|1128|1047|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1128-1047(remove-all-adjacent-duplicates-in-string)/remove-all-adjacent-duplicates-in-string.java)|[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string/)|Easy|
 |1129|1048|[longest-string-chain](https://leetcode.com/problems/longest-string-chain)|||Medium|
 |1130|1049|[last-stone-weight-ii](https://leetcode.com/problems/last-stone-weight-ii)|||Medium|
 |1131|1180|[count-substrings-with-only-one-distinct-letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter)|:lock:||Easy|
@@ -1162,7 +1162,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1298|1190|[reverse-substrings-between-each-pair-of-parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses)|||Medium|
 |1299|1191|[k-concatenation-maximum-sum](https://leetcode.com/problems/k-concatenation-maximum-sum)|||Medium|
 |1300|1192|[critical-connections-in-a-network](https://leetcode.com/problems/critical-connections-in-a-network)|||Hard|
-|1306|1200|[minimum-absolute-difference](https://leetcode.com/problems/minimum-absolute-difference)|||Easy|
+|1306|1200|[minimum-absolute-difference](https://leetcode.com/problems/minimum-absolute-difference)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1306-1200(minimum-absolute-difference)/minimum-absolute-difference.java)||Easy|
 |1307|1201|[ugly-number-iii](https://leetcode.com/problems/ugly-number-iii)|||Medium|
 |1308|1202|[smallest-string-with-swaps](https://leetcode.com/problems/smallest-string-with-swaps)|||Medium|
 |1309|1203|[sort-items-by-groups-respecting-dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies)|||Hard|

@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-14 15:52:19
+Update time:  2020-01-14 16:09:57
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **220   /   1216** problems
+I have solved **221   /   1216** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -640,7 +640,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |690|690|[employee-importance](https://leetcode.com/problems/employee-importance)||[:memo:](https://leetcode.com/articles/employee-importance/)|Easy|
 |691|691|[stickers-to-spell-word](https://leetcode.com/problems/stickers-to-spell-word)||[:memo:](https://leetcode.com/articles/stickers-to-spell-word/)|Hard|
 |692|692|[top-k-frequent-words](https://leetcode.com/problems/top-k-frequent-words)||[:memo:](https://leetcode.com/articles/top-k-frequent-words/)|Medium|
-|693|693|[binary-number-with-alternating-bits](https://leetcode.com/problems/binary-number-with-alternating-bits)||[:memo:](https://leetcode.com/articles/binary-number-with-alternating-bits/)|Easy|
+|693|693|[binary-number-with-alternating-bits](https://leetcode.com/problems/binary-number-with-alternating-bits)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0693-0693(binary-number-with-alternating-bits)/binary-number-with-alternating-bits.java)|[:memo:](https://leetcode.com/articles/binary-number-with-alternating-bits/)|Easy|
 |694|694|[number-of-distinct-islands](https://leetcode.com/problems/number-of-distinct-islands)|:lock:|[:memo:](https://leetcode.com/articles/number-of-distinct-islands/)|Medium|
 |695|695|[max-area-of-island](https://leetcode.com/problems/max-area-of-island)||[:memo:](https://leetcode.com/articles/max-area-of-island/)|Medium|
 |696|696|[count-binary-substrings](https://leetcode.com/problems/count-binary-substrings)||[:memo:](https://leetcode.com/articles/count-binary-substrings/)|Easy|

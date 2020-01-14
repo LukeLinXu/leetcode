@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-14 15:52:19
+Update time:  2020-01-14 16:09:57
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **220   /   1216** problems
+I have solved **221   /   1216** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -109,7 +109,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1054|1009|[complement-of-base-10-integer](https://leetcode.com/problems/complement-of-base-10-integer)|||59.5%|
 |206|206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0206-0206(reverse-linked-list)/reverse-linked-list.java)|[:memo:](https://leetcode.com/articles/reverse-linked-list/)|58.9%|
 |349|349|[intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0349-0349(intersection-of-two-arrays)/intersection-of-two-arrays.java)|[:memo:](https://leetcode.com/articles/intersection-of-two-arrays/)|58.7%|
-|693|693|[binary-number-with-alternating-bits](https://leetcode.com/problems/binary-number-with-alternating-bits)||[:memo:](https://leetcode.com/articles/binary-number-with-alternating-bits/)|58.7%|
+|693|693|[binary-number-with-alternating-bits](https://leetcode.com/problems/binary-number-with-alternating-bits)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0693-0693(binary-number-with-alternating-bits)/binary-number-with-alternating-bits.java)|[:memo:](https://leetcode.com/articles/binary-number-with-alternating-bits/)|58.7%|
 |1168|1089|[duplicate-zeros](https://leetcode.com/problems/duplicate-zeros)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1168-1089(duplicate-zeros)/duplicate-zeros.java)|[:memo:](https://leetcode.com/articles/duplicate-zeros/)|58.5%|
 |817|706|[design-hashmap](https://leetcode.com/problems/design-hashmap)||[:memo:](https://leetcode.com/articles/design-hashmap/)|58.3%|
 |1273|1170|[compare-strings-by-frequency-of-the-smallest-character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1273-1170(compare-strings-by-frequency-of-the-smallest-character)/compare-strings-by-frequency-of-the-smallest-character.java)||58.2%|
@@ -284,8 +284,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |190|190|[reverse-bits](https://leetcode.com/problems/reverse-bits)|||34.4%|
 |950|914|[x-of-a-kind-in-a-deck-of-cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0950-0914(x-of-a-kind-in-a-deck-of-cards)/x-of-a-kind-in-a-deck-of-cards.java)|[:memo:](https://leetcode.com/articles/x-of-a-kind-in-a-deck-of-cards/)|34.0%|
 |906|874|[walking-robot-simulation](https://leetcode.com/problems/walking-robot-simulation)||[:memo:](https://leetcode.com/articles/walking-robot-simulation/)|33.9%|
+|28|28|[implement-strstr](https://leetcode.com/problems/implement-strstr)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0028-0028(implement-strstr)/implement-strstr.java)|[:memo:](https://leetcode.com/articles/implement-strstr/)|33.6%|
 |125|125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome)|||33.6%|
-|28|28|[implement-strstr](https://leetcode.com/problems/implement-strstr)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0028-0028(implement-strstr)/implement-strstr.java)|[:memo:](https://leetcode.com/articles/implement-strstr/)|33.5%|
 |69|69|[sqrtx](https://leetcode.com/problems/sqrtx)||[:memo:](https://leetcode.com/articles/sqrtx/)|32.7%|
 |189|189|[rotate-array](https://leetcode.com/problems/rotate-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0189-0189(rotate-array)/rotate-array.java)|[:memo:](https://leetcode.com/articles/rotate-array/)|32.6%|
 |278|278|[first-bad-version](https://leetcode.com/problems/first-bad-version)||[:memo:](https://leetcode.com/articles/first-bad-version/)|32.5%|
@@ -369,9 +369,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1147|1072|[flip-columns-for-maximum-number-of-equal-rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows)|||59.8%|
 |1371|1249|[minimum-remove-to-make-valid-parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)||[:memo:](https://leetcode.com/articles/minimum-remove-to-make-valid-parentheses/)|59.6%|
 |46|46|[permutations](https://leetcode.com/problems/permutations)||[:memo:](https://leetcode.com/articles/permutations/)|59.5%|
+|1441|1318|[minimum-flips-to-make-a-or-b-equal-to-c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c)|||59.3%|
 |515|515|[find-largest-value-in-each-tree-row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)|||59.2%|
 |1065|1016|[binary-string-with-substrings-representing-1-to-n](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n)|||59.2%|
-|1441|1318|[minimum-flips-to-make-a-or-b-equal-to-c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c)|||59.2%|
 |260|260|[single-number-iii](https://leetcode.com/problems/single-number-iii)||[:memo:](https://leetcode.com/articles/single-number-iii/)|59.1%|
 |22|22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses)||[:memo:](https://leetcode.com/articles/generate-parentheses/)|59.0%|
 |1298|1190|[reverse-substrings-between-each-pair-of-parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses)|||59.0%|
@@ -409,7 +409,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1046|1004|[max-consecutive-ones-iii](https://leetcode.com/problems/max-consecutive-ones-iii)||[:memo:](https://leetcode.com/articles/max-consecutive-ones-iii/)|56.1%|
 |1056|1011|[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|||56.1%|
 |553|553|[optimal-division](https://leetcode.com/problems/optimal-division)||[:memo:](https://leetcode.com/articles/optimal-division/)|56.0%|
-|1397|1268|[search-suggestions-system](https://leetcode.com/problems/search-suggestions-system)|||56.0%|
+|1397|1268|[search-suggestions-system](https://leetcode.com/problems/search-suggestions-system)|||55.9%|
 |1073|1020|[number-of-enclaves](https://leetcode.com/problems/number-of-enclaves)|||55.5%|
 |1096|1031|[maximum-sum-of-two-non-overlapping-subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays)|||55.5%|
 |864|835|[image-overlap](https://leetcode.com/problems/image-overlap)||[:memo:](https://leetcode.com/articles/image-overlap/)|55.4%|
@@ -553,11 +553,11 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |971|934|[shortest-bridge](https://leetcode.com/problems/shortest-bridge)||[:memo:](https://leetcode.com/articles/shortest-bridge/)|46.1%|
 |1020|978|[longest-turbulent-subarray](https://leetcode.com/problems/longest-turbulent-subarray)||[:memo:](https://leetcode.com/articles/longest-turbulent-subarray/)|46.1%|
 |834|816|[ambiguous-coordinates](https://leetcode.com/problems/ambiguous-coordinates)||[:memo:](https://leetcode.com/articles/ambiguous-coordinates/)|46.0%|
+|1183|1093|[statistics-from-a-large-sample](https://leetcode.com/problems/statistics-from-a-large-sample)|||45.9%|
 |1232|1300|[sum-of-mutated-array-closest-to-target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target)|||45.9%|
 |114|114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|||45.8%|
 |778|767|[reorganize-string](https://leetcode.com/problems/reorganize-string)||[:memo:](https://leetcode.com/articles/reorganized-string/)|45.8%|
 |903|470|[implement-rand10-using-rand7](https://leetcode.com/problems/implement-rand10-using-rand7)||[:memo:](https://leetcode.com/articles/implement-rand10-using-rand7/)|45.8%|
-|1183|1093|[statistics-from-a-large-sample](https://leetcode.com/problems/statistics-from-a-large-sample)|||45.8%|
 |16|16|[3sum-closest](https://leetcode.com/problems/3sum-closest)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0016-0016(3sum-closest)/3sum-closest.java)||45.7%|
 |518|518|[coin-change-2](https://leetcode.com/problems/coin-change-2)||[:memo:](https://leetcode.com/articles/coin-change-ii/)|45.7%|
 |801|785|[is-graph-bipartite](https://leetcode.com/problems/is-graph-bipartite)||[:memo:](https://leetcode.com/articles/is-graph-bipartite/)|45.7%|
@@ -831,7 +831,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1024|982|[triples-with-bitwise-and-equal-to-zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero)|||55.3%|
 |52|52|[n-queens-ii](https://leetcode.com/problems/n-queens-ii)||[:memo:](https://leetcode.com/articles/n-queens-ii/)|55.1%|
 |1437|1312|[minimum-insertion-steps-to-make-a-string-palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome)|||55.1%|
-|763|761|[special-binary-string](https://leetcode.com/problems/special-binary-string)||[:memo:](https://leetcode.com/articles/special-binary-string/)|54.1%|
+|763|761|[special-binary-string](https://leetcode.com/problems/special-binary-string)||[:memo:](https://leetcode.com/articles/special-binary-string/)|54.0%|
 |1000|960|[delete-columns-to-make-sorted-iii](https://leetcode.com/problems/delete-columns-to-make-sorted-iii)||[:memo:](https://leetcode.com/articles/delete-columns-to-make-sorted-iii/)|53.4%|
 |770|765|[couples-holding-hands](https://leetcode.com/problems/couples-holding-hands)||[:memo:](https://leetcode.com/articles/couples-holding-hands/)|53.1%|
 |1372|1250|[check-if-it-is-a-good-array](https://leetcode.com/problems/check-if-it-is-a-good-array)|||52.1%|

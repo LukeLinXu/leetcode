@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-14 10:59:43
+Update time:  2020-01-14 14:27:02
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **217   /   1216** problems
+I have solved **219   /   1216** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1003,7 +1003,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1076|1087|[brace-expansion](https://leetcode.com/problems/brace-expansion)|:lock:||Medium|
 |1077|1088|[confusing-number-ii](https://leetcode.com/problems/confusing-number-ii)|:lock:||Hard|
 |1078|1021|[remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1078-1021(remove-outermost-parentheses)/remove-outermost-parentheses.java)||Easy|
-|1079|1022|[sum-of-root-to-leaf-binary-numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|||Easy|
+|1079|1022|[sum-of-root-to-leaf-binary-numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1079-1022(sum-of-root-to-leaf-binary-numbers)/sum-of-root-to-leaf-binary-numbers.java)||Easy|
 |1080|1023|[camelcase-matching](https://leetcode.com/problems/camelcase-matching)|||Medium|
 |1081|1024|[video-stitching](https://leetcode.com/problems/video-stitching)|||Medium|
 |1082|1085|[sum-of-digits-in-the-minimum-number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number)|:lock:||Easy|
@@ -1049,7 +1049,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1124|1153|[string-transforms-into-another-string](https://leetcode.com/problems/string-transforms-into-another-string)|:lock:||Hard|
 |1125|1166|[design-file-system](https://leetcode.com/problems/design-file-system)|:lock:||Medium|
 |1126|1167|[minimum-cost-to-connect-sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks)|:lock:||Medium|
-|1127|1046|[last-stone-weight](https://leetcode.com/problems/last-stone-weight)|||Easy|
+|1127|1046|[last-stone-weight](https://leetcode.com/problems/last-stone-weight)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1127-1046(last-stone-weight)/last-stone-weight.java)||Easy|
 |1128|1047|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1128-1047(remove-all-adjacent-duplicates-in-string)/remove-all-adjacent-duplicates-in-string.java)|[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string/)|Easy|
 |1129|1048|[longest-string-chain](https://leetcode.com/problems/longest-string-chain)|||Medium|
 |1130|1049|[last-stone-weight-ii](https://leetcode.com/problems/last-stone-weight-ii)|||Medium|

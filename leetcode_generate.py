@@ -722,6 +722,6 @@ def do_job(leetcode):
 
 if __name__ == '__main__':
     leetcode = Leetcode()
-    while True:
-        do_job(leetcode)
-        time.sleep(24 * 60 * 60)
+    do_job(leetcode)
+    # while True:
+    #     time.sleep(24 * 60 * 60)

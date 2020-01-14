@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-13 21:39:16
+Update time:  2020-01-13 23:17:35
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **208   /   1216** problems
+I have solved **211   /   1216** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -710,7 +710,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |771|431|[encode-n-ary-tree-to-binary-tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/encode-n-ary-tree-to-binary-tree/)|Hard|
 |772|427|[construct-quad-tree](https://leetcode.com/problems/construct-quad-tree)|||Medium|
 |773|558|[quad-tree-intersection](https://leetcode.com/problems/quad-tree-intersection)|||Easy|
-|774|559|[maximum-depth-of-n-ary-tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)||[:memo:](https://leetcode.com/articles/maximum-depth-of-n-ary-tree/)|Easy|
+|774|559|[maximum-depth-of-n-ary-tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0774-0559(maximum-depth-of-n-ary-tree)/maximum-depth-of-n-ary-tree.java)|[:memo:](https://leetcode.com/articles/maximum-depth-of-n-ary-tree/)|Easy|
 |775|589|[n-ary-tree-preorder-traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0775-0589(n-ary-tree-preorder-traversal)/n-ary-tree-preorder-traversal.java)|[:memo:](https://leetcode.com/articles/n-ary-tree-preorder-traversal/)|Easy|
 |776|590|[n-ary-tree-postorder-traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0776-0590(n-ary-tree-postorder-traversal)/n-ary-tree-postorder-traversal.java)|[:memo:](https://leetcode.com/articles/n-ary-tree-postorder-transversal/)|Easy|
 |777|766|[toeplitz-matrix](https://leetcode.com/problems/toeplitz-matrix)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0777-0766(toeplitz-matrix)/toeplitz-matrix.java)|[:memo:](https://leetcode.com/articles/toeplitz-matrix/)|Easy|
@@ -930,7 +930,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1002|962|[maximum-width-ramp](https://leetcode.com/problems/maximum-width-ramp)||[:memo:](https://leetcode.com/articles/maximum-width-ramp/)|Medium|
 |1003|963|[minimum-area-rectangle-ii](https://leetcode.com/problems/minimum-area-rectangle-ii)||[:memo:](https://leetcode.com/articles/minimum-area-rectangle-ii/)|Medium|
 |1004|964|[least-operators-to-express-number](https://leetcode.com/problems/least-operators-to-express-number)||[:memo:](https://leetcode.com/articles/least-operators-to-express-number/)|Hard|
-|1005|965|[univalued-binary-tree](https://leetcode.com/problems/univalued-binary-tree)||[:memo:](https://leetcode.com/articles/univalued-binary-tree/)|Easy|
+|1005|965|[univalued-binary-tree](https://leetcode.com/problems/univalued-binary-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1005-0965(univalued-binary-tree)/univalued-binary-tree.java)|[:memo:](https://leetcode.com/articles/univalued-binary-tree/)|Easy|
 |1006|966|[vowel-spellchecker](https://leetcode.com/problems/vowel-spellchecker)||[:memo:](https://leetcode.com/articles/vowel-spellchecker/)|Medium|
 |1007|967|[numbers-with-same-consecutive-differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences)||[:memo:](https://leetcode.com/articles/numbers-with-same-consecutive-differences/)|Medium|
 |1008|968|[binary-tree-cameras](https://leetcode.com/problems/binary-tree-cameras)||[:memo:](https://leetcode.com/articles/binary-tree-cameras/)|Hard|
@@ -1183,7 +1183,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1350|1233|[remove-sub-folders-from-the-filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem)|||Medium|
 |1351|1234|[replace-the-substring-for-balanced-string](https://leetcode.com/problems/replace-the-substring-for-balanced-string)|||Medium|
 |1352|1235|[maximum-profit-in-job-scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)|||Hard|
-|1358|1237|[find-positive-integer-solution-for-a-given-equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation)|||Easy|
+|1358|1237|[find-positive-integer-solution-for-a-given-equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1358-1237(find-positive-integer-solution-for-a-given-equation)/find-positive-integer-solution-for-a-given-equation.java)||Easy|
 |1359|1238|[circular-permutation-in-binary-representation](https://leetcode.com/problems/circular-permutation-in-binary-representation)|||Medium|
 |1360|1239|[maximum-length-of-a-concatenated-string-with-unique-characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)|||Medium|
 |1361|1240|[tiling-a-rectangle-with-the-fewest-squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares)|||Hard|

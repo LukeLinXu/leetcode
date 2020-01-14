@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-13 23:17:35
+Update time:  2020-01-14 08:50:04
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **211   /   1216** problems
+I have solved **213   /   1216** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -539,7 +539,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |554|554|[brick-wall](https://leetcode.com/problems/brick-wall)||[:memo:](https://leetcode.com/articles/brick-wall/)|Medium|
 |555|555|[split-concatenated-strings](https://leetcode.com/problems/split-concatenated-strings)|:lock:|[:memo:](https://leetcode.com/articles/split-assembled-strings/)|Medium|
 |556|556|[next-greater-element-iii](https://leetcode.com/problems/next-greater-element-iii)||[:memo:](https://leetcode.com/articles/next-greater-element-iii/)|Medium|
-|557|557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii)||[:memo:](https://leetcode.com/articles/reverse-words-in-a-string-iii/)|Easy|
+|557|557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0557-0557(reverse-words-in-a-string-iii)/reverse-words-in-a-string-iii.java)|[:memo:](https://leetcode.com/articles/reverse-words-in-a-string-iii/)|Easy|
 |560|560|[subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k)||[:memo:](https://leetcode.com/articles/subarray-sum-equals-k/)|Medium|
 |561|561|[array-partition-i](https://leetcode.com/problems/array-partition-i)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0561-0561(array-partition-i)/array-partition-i.java)|[:memo:](https://leetcode.com/articles/array-partitioning-i/)|Easy|
 |562|562|[longest-line-of-consecutive-one-in-matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix)|:lock:|[:memo:](https://leetcode.com/articles/longest-line-of-consecutive-one-in-a-matrix/)|Medium|
@@ -862,7 +862,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |930|894|[all-possible-full-binary-trees](https://leetcode.com/problems/all-possible-full-binary-trees)||[:memo:](https://leetcode.com/articles/all-possible-full-binary-trees/)|Medium|
 |931|895|[maximum-frequency-stack](https://leetcode.com/problems/maximum-frequency-stack)||[:memo:](https://leetcode.com/articles/maximum-frequency-stack/)|Hard|
 |932|896|[monotonic-array](https://leetcode.com/problems/monotonic-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0932-0896(monotonic-array)/monotonic-array.java)|[:memo:](https://leetcode.com/articles/monotonic-array/)|Easy|
-|933|897|[increasing-order-search-tree](https://leetcode.com/problems/increasing-order-search-tree)||[:memo:](https://leetcode.com/articles/increasing-order-search-tree/)|Easy|
+|933|897|[increasing-order-search-tree](https://leetcode.com/problems/increasing-order-search-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0933-0897(increasing-order-search-tree)/increasing-order-search-tree.java)|[:memo:](https://leetcode.com/articles/increasing-order-search-tree/)|Easy|
 |934|898|[bitwise-ors-of-subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays)||[:memo:](https://leetcode.com/articles/bitwise-ors-of-subarrays/)|Medium|
 |935|899|[orderly-queue](https://leetcode.com/problems/orderly-queue)||[:memo:](https://leetcode.com/articles/orderly-queue/)|Hard|
 |936|900|[rle-iterator](https://leetcode.com/problems/rle-iterator)||[:memo:](https://leetcode.com/articles/rle-iterator/)|Medium|

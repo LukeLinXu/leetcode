@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-14 14:27:02
+Update time:  2020-01-14 15:52:19
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **219   /   1216** problems
+I have solved **220   /   1216** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -776,7 +776,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |837|819|[most-common-word](https://leetcode.com/problems/most-common-word)||[:memo:](https://leetcode.com/articles/most-common-word/)|Easy|
 |838|707|[design-linked-list](https://leetcode.com/problems/design-linked-list)||[:memo:](https://leetcode.com/articles/design-linked-list/)|Medium|
 |839|820|[short-encoding-of-words](https://leetcode.com/problems/short-encoding-of-words)||[:memo:](https://leetcode.com/articles/short-encoding-of-words/)|Medium|
-|841|821|[shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character)||[:memo:](https://leetcode.com/articles/shortest-distance-to-a-character/)|Easy|
+|841|821|[shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0841-0821(shortest-distance-to-a-character)/shortest-distance-to-a-character.java)|[:memo:](https://leetcode.com/articles/shortest-distance-to-a-character/)|Easy|
 |842|822|[card-flipping-game](https://leetcode.com/problems/card-flipping-game)||[:memo:](https://leetcode.com/articles/card-flipping-game/)|Medium|
 |843|823|[binary-trees-with-factors](https://leetcode.com/problems/binary-trees-with-factors)||[:memo:](https://leetcode.com/articles/binary-trees-with-factors/)|Medium|
 |850|708|[insert-into-a-sorted-circular-linked-list](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)|:lock:|[:memo:](https://leetcode.com/articles/insert-into-a-cyclic-sorted-list/)|Medium|

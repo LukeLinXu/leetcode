@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-14 19:35:05
+Update time:  2020-01-15 06:13:41
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **222   /   1216** problems
+I have solved **223   /   1216** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -873,7 +873,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |941|905|[sort-array-by-parity](https://leetcode.com/problems/sort-array-by-parity)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0941-0905(sort-array-by-parity)/sort-array-by-parity.java)|[:memo:](https://leetcode.com/articles/sort-array-by-parity/)|Easy|
 |942|906|[super-palindromes](https://leetcode.com/problems/super-palindromes)||[:memo:](https://leetcode.com/articles/super-palindromes/)|Hard|
 |943|907|[sum-of-subarray-minimums](https://leetcode.com/problems/sum-of-subarray-minimums)||[:memo:](https://leetcode.com/articles/sum-of-subarray-minimums/)|Medium|
-|944|908|[smallest-range-i](https://leetcode.com/problems/smallest-range-i)||[:memo:](https://leetcode.com/articles/smallest-range-i/)|Easy|
+|944|908|[smallest-range-i](https://leetcode.com/problems/smallest-range-i)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0944-0908(smallest-range-i)/smallest-range-i.java)|[:memo:](https://leetcode.com/articles/smallest-range-i/)|Easy|
 |945|909|[snakes-and-ladders](https://leetcode.com/problems/snakes-and-ladders)||[:memo:](https://leetcode.com/articles/snakes-and-ladders/)|Medium|
 |946|910|[smallest-range-ii](https://leetcode.com/problems/smallest-range-ii)||[:memo:](https://leetcode.com/articles/smallest-range-ii/)|Medium|
 |947|911|[online-election](https://leetcode.com/problems/online-election)||[:memo:](https://leetcode.com/articles/online-election/)|Medium|

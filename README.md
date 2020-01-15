@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-15 06:13:41
+Update time:  2020-01-15 10:11:06
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **223   /   1216** problems
+I have solved **226   /   1216** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -833,7 +833,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |901|870|[advantage-shuffle](https://leetcode.com/problems/advantage-shuffle)||[:memo:](https://leetcode.com/articles/advantage-shuffle/)|Medium|
 |902|871|[minimum-number-of-refueling-stops](https://leetcode.com/problems/minimum-number-of-refueling-stops)||[:memo:](https://leetcode.com/articles/minimum-number-of-refueling-stops/)|Hard|
 |903|470|[implement-rand10-using-rand7](https://leetcode.com/problems/implement-rand10-using-rand7)||[:memo:](https://leetcode.com/articles/implement-rand10-using-rand7/)|Medium|
-|904|872|[leaf-similar-trees](https://leetcode.com/problems/leaf-similar-trees)||[:memo:](https://leetcode.com/articles/leaf-similar-trees/)|Easy|
+|904|872|[leaf-similar-trees](https://leetcode.com/problems/leaf-similar-trees)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0904-0872(leaf-similar-trees)/leaf-similar-trees.java)|[:memo:](https://leetcode.com/articles/leaf-similar-trees/)|Easy|
 |905|873|[length-of-longest-fibonacci-subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence)||[:memo:](https://leetcode.com/articles/length-of-longest-fibonacci-subsequence/)|Medium|
 |906|874|[walking-robot-simulation](https://leetcode.com/problems/walking-robot-simulation)||[:memo:](https://leetcode.com/articles/walking-robot-simulation/)|Easy|
 |907|875|[koko-eating-bananas](https://leetcode.com/problems/koko-eating-bananas)||[:memo:](https://leetcode.com/articles/koko-eating-bananas/)|Medium|
@@ -1073,7 +1073,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1150|1214|[two-sum-bsts](https://leetcode.com/problems/two-sum-bsts)|:lock:||Medium|
 |1151|1215|[stepping-numbers](https://leetcode.com/problems/stepping-numbers)|:lock:||Medium|
 |1152|1183|[maximum-number-of-ones](https://leetcode.com/problems/maximum-number-of-ones)|:lock:||Hard|
-|1156|1078|[occurrences-after-bigram](https://leetcode.com/problems/occurrences-after-bigram)|||Easy|
+|1156|1078|[occurrences-after-bigram](https://leetcode.com/problems/occurrences-after-bigram)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1156-1078(occurrences-after-bigram)/occurrences-after-bigram.java)||Easy|
 |1157|1080|[insufficient-nodes-in-root-to-leaf-paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths)|||Medium|
 |1159|1081|[smallest-subsequence-of-distinct-characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters)|||Medium|
 |1160|1079|[letter-tile-possibilities](https://leetcode.com/problems/letter-tile-possibilities)|||Medium|
@@ -1156,7 +1156,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1282|1178|[number-of-valid-words-for-each-puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle)|||Hard|
 |1287|1184|[distance-between-bus-stops](https://leetcode.com/problems/distance-between-bus-stops)|||Easy|
 |1288|1186|[maximum-subarray-sum-with-one-deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion)|||Medium|
-|1289|1185|[day-of-the-week](https://leetcode.com/problems/day-of-the-week)|||Easy|
+|1289|1185|[day-of-the-week](https://leetcode.com/problems/day-of-the-week)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1289-1185(day-of-the-week)/day-of-the-week.java)||Easy|
 |1290|1187|[make-array-strictly-increasing](https://leetcode.com/problems/make-array-strictly-increasing)|||Hard|
 |1297|1189|[maximum-number-of-balloons](https://leetcode.com/problems/maximum-number-of-balloons)|||Easy|
 |1298|1190|[reverse-substrings-between-each-pair-of-parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses)|||Medium|

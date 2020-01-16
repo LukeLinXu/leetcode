@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-15 23:42:19
+Update time:  2020-01-15 23:49:31
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **230   /   1216** problems
+I have solved **231   /   1216** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -402,7 +402,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |401|401|[binary-watch](https://leetcode.com/problems/binary-watch)|||Easy|
 |402|402|[remove-k-digits](https://leetcode.com/problems/remove-k-digits)||[:memo:](https://leetcode.com/articles/remove-k-digits/)|Medium|
 |403|403|[frog-jump](https://leetcode.com/problems/frog-jump)||[:memo:](https://leetcode.com/articles/frog-jump/)|Hard|
-|404|404|[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves)|||Easy|
+|404|404|[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0404-0404(sum-of-left-leaves)/sum-of-left-leaves.java)||Easy|
 |405|405|[convert-a-number-to-hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)|||Easy|
 |406|406|[queue-reconstruction-by-height](https://leetcode.com/problems/queue-reconstruction-by-height)||[:memo:](https://leetcode.com/articles/queue-reconstruction-by-height/)|Medium|
 |407|407|[trapping-rain-water-ii](https://leetcode.com/problems/trapping-rain-water-ii)|||Hard|

@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-15 23:42:19
+Update time:  2020-01-15 23:49:31
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **230   /   1216** problems
+I have solved **231   /   1216** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -169,7 +169,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |792|704|[binary-search](https://leetcode.com/problems/binary-search)||[:memo:](https://leetcode.com/articles/binary-search/)|50.3%|
 |350|350|[intersection-of-two-arrays-ii](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0350-0350(intersection-of-two-arrays-ii)/intersection-of-two-arrays-ii.java)|[:memo:](https://leetcode.com/articles/intersection-of-two-arrays-ii/)|50.1%|
 |661|661|[image-smoother](https://leetcode.com/problems/image-smoother)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0661-0661(image-smoother)/image-smoother.java)|[:memo:](https://leetcode.com/articles/image-smoother/)|50.1%|
-|404|404|[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves)|||50.0%|
+|404|404|[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0404-0404(sum-of-left-leaves)/sum-of-left-leaves.java)||50.0%|
 |268|268|[missing-number](https://leetcode.com/problems/missing-number)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0268-0268(missing-number)/missing-number.java)|[:memo:](https://leetcode.com/articles/missing-number/)|49.9%|
 |453|453|[minimum-moves-to-equal-array-elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)||[:memo:](https://leetcode.com/articles/minimum-moves-to-equal-array-elements/)|49.7%|
 |1039|997|[find-the-town-judge](https://leetcode.com/problems/find-the-town-judge)|||49.6%|
@@ -543,8 +543,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |498|498|[diagonal-traverse](https://leetcode.com/problems/diagonal-traverse)||[:memo:](https://leetcode.com/articles/diagonal-traverse/)|46.6%|
 |952|916|[word-subsets](https://leetcode.com/problems/word-subsets)||[:memo:](https://leetcode.com/articles/word-subsets/)|46.6%|
 |583|583|[delete-operation-for-two-strings](https://leetcode.com/problems/delete-operation-for-two-strings)||[:memo:](https://leetcode.com/articles/delete-operation-for-two-strings/)|46.5%|
+|423|423|[reconstruct-original-digits-from-english](https://leetcode.com/problems/reconstruct-original-digits-from-english)||[:memo:](https://leetcode.com/articles/reconstruct-original-digits-from-english/)|46.4%|
 |868|838|[push-dominoes](https://leetcode.com/problems/push-dominoes)||[:memo:](https://leetcode.com/articles/push-dominoes/)|46.4%|
-|423|423|[reconstruct-original-digits-from-english](https://leetcode.com/problems/reconstruct-original-digits-from-english)||[:memo:](https://leetcode.com/articles/reconstruct-original-digits-from-english/)|46.3%|
 |1157|1080|[insufficient-nodes-in-root-to-leaf-paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths)|||46.3%|
 |36|36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku)||[:memo:](https://leetcode.com/articles/valid-sudoku/)|46.2%|
 |494|494|[target-sum](https://leetcode.com/problems/target-sum)||[:memo:](https://leetcode.com/articles/target-sum/)|46.2%|
@@ -648,9 +648,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |116|116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)||[:memo:](https://leetcode.com/articles/populating-next-right-pointers-in-each-node/)|41.2%|
 |640|640|[solve-the-equation](https://leetcode.com/problems/solve-the-equation)||[:memo:](https://leetcode.com/articles/solve-the-equation/)|41.2%|
 |885|855|[exam-room](https://leetcode.com/problems/exam-room)||[:memo:](https://leetcode.com/articles/exam-room/)|41.0%|
-|852|825|[friends-of-appropriate-ages](https://leetcode.com/problems/friends-of-appropriate-ages)||[:memo:](https://leetcode.com/articles/friends-of-appropriate-ages/)|40.8%|
 |388|388|[longest-absolute-file-path](https://leetcode.com/problems/longest-absolute-file-path)|||40.7%|
 |790|775|[global-and-local-inversions](https://leetcode.com/problems/global-and-local-inversions)||[:memo:](https://leetcode.com/articles/global-and-local-inversions/)|40.7%|
+|852|825|[friends-of-appropriate-ages](https://leetcode.com/problems/friends-of-appropriate-ages)||[:memo:](https://leetcode.com/articles/friends-of-appropriate-ages/)|40.7%|
 |1140|1054|[distant-barcodes](https://leetcode.com/problems/distant-barcodes)|||40.6%|
 |966|930|[binary-subarrays-with-sum](https://leetcode.com/problems/binary-subarrays-with-sum)||[:memo:](https://leetcode.com/articles/binary-subarrays-with-sum/)|40.5%|
 |207|207|[course-schedule](https://leetcode.com/problems/course-schedule)|||40.4%|
@@ -837,7 +837,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1372|1250|[check-if-it-is-a-good-array](https://leetcode.com/problems/check-if-it-is-a-good-array)|||52.2%|
 |145|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-transversal/)|51.8%|
 |1332|1220|[count-vowels-permutation](https://leetcode.com/problems/count-vowels-permutation)|||51.7%|
-|1443|1320|[minimum-distance-to-type-a-word-using-two-fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers)|||51.1%|
+|1443|1320|[minimum-distance-to-type-a-word-using-two-fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers)|||51.2%|
 |632|632|[smallest-range-covering-elements-from-k-lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists)||[:memo:](https://leetcode.com/articles/smallest-range/)|50.3%|
 |1170|1092|[shortest-common-supersequence](https://leetcode.com/problems/shortest-common-supersequence)|||50.3%|
 |794|778|[swim-in-rising-water](https://leetcode.com/problems/swim-in-rising-water)||[:memo:](https://leetcode.com/articles/swim-in-rising-water/)|50.1%|

@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-16 23:20:09
+Update time:  2020-01-16 23:41:07
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **239   /   1216** problems
+I have solved **240   /   1216** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -95,7 +95,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |767|762|[prime-number-of-set-bits-in-binary-representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)||[:memo:](https://leetcode.com/articles/prime-number-of-set-bits-in-binary-representation/)|61.4%|
 |1297|1189|[maximum-number-of-balloons](https://leetcode.com/problems/maximum-number-of-balloons)|||61.2%|
 |226|226|[invert-binary-tree](https://leetcode.com/problems/invert-binary-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0226-0226(invert-binary-tree)/invert-binary-tree.java)|[:memo:](https://leetcode.com/articles/invert-binary-tree/)|61.1%|
-|800|784|[letter-case-permutation](https://leetcode.com/problems/letter-case-permutation)||[:memo:](https://leetcode.com/articles/letter-case-permutation/)|61.1%|
+|800|784|[letter-case-permutation](https://leetcode.com/problems/letter-case-permutation)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0800-0784(letter-case-permutation)/letter-case-permutation.java)|[:memo:](https://leetcode.com/articles/letter-case-permutation/)|61.1%|
 |412|412|[fizz-buzz](https://leetcode.com/problems/fizz-buzz)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0412-0412(fizz-buzz)/fizz-buzz.java)|[:memo:](https://leetcode.com/articles/fizz-buzz/)|60.8%|
 |637|637|[average-of-levels-in-binary-tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)||[:memo:](https://leetcode.com/articles/average-of-levels/)|60.8%|
 |575|575|[distribute-candies](https://leetcode.com/problems/distribute-candies)||[:memo:](https://leetcode.com/articles/distribute-candies/)|60.5%|
@@ -317,8 +317,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |987|950|[reveal-cards-in-increasing-order](https://leetcode.com/problems/reveal-cards-in-increasing-order)||[:memo:](https://leetcode.com/articles/reveal-cards-in-increasing-order/)|73.0%|
 |813|797|[all-paths-from-source-to-target](https://leetcode.com/problems/all-paths-from-source-to-target)||[:memo:](https://leetcode.com/articles/all-paths-from-source-to-target/)|72.8%|
 |832|814|[binary-tree-pruning](https://leetcode.com/problems/binary-tree-pruning)||[:memo:](https://leetcode.com/articles/binary-tree-pruning/)|72.8%|
+|1387|1261|[find-elements-in-a-contaminated-binary-tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree)|||72.7%|
 |926|890|[find-and-replace-pattern](https://leetcode.com/problems/find-and-replace-pattern)||[:memo:](https://leetcode.com/articles/find-and-replace-pattern/)|72.6%|
-|1387|1261|[find-elements-in-a-contaminated-binary-tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree)|||72.6%|
 |930|894|[all-possible-full-binary-trees](https://leetcode.com/problems/all-possible-full-binary-trees)||[:memo:](https://leetcode.com/articles/all-possible-full-binary-trees/)|72.5%|
 |1242|1314|[matrix-block-sum](https://leetcode.com/problems/matrix-block-sum)|||72.0%|
 |957|921|[minimum-add-to-make-parentheses-valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)||[:memo:](https://leetcode.com/articles/minimum-add-to-make-parentheses-valid/)|71.5%|
@@ -397,8 +397,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1072|1019|[next-greater-node-in-linked-list](https://leetcode.com/problems/next-greater-node-in-linked-list)|||56.8%|
 |1320|1209|[remove-all-adjacent-duplicates-in-string-ii](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii)||[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string-ii/)|56.8%|
 |712|712|[minimum-ascii-delete-sum-for-two-strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings)||[:memo:](https://leetcode.com/articles/minimum-ascii-delete-sum-for-two-strings/)|56.6%|
+|1184|1094|[car-pooling](https://leetcode.com/problems/car-pooling)|||56.6%|
 |805|789|[escape-the-ghosts](https://leetcode.com/problems/escape-the-ghosts)||[:memo:](https://leetcode.com/articles/escape-the-ghosts/)|56.5%|
-|1184|1094|[car-pooling](https://leetcode.com/problems/car-pooling)|||56.5%|
 |508|508|[most-frequent-subtree-sum](https://leetcode.com/problems/most-frequent-subtree-sum)|||56.4%|
 |526|526|[beautiful-arrangement](https://leetcode.com/problems/beautiful-arrangement)||[:memo:](https://leetcode.com/articles/beautiful-arrangement/)|56.4%|
 |547|547|[friend-circles](https://leetcode.com/problems/friend-circles)||[:memo:](https://leetcode.com/articles/friend-circles/)|56.4%|
@@ -468,8 +468,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |77|77|[combinations](https://leetcode.com/problems/combinations)||[:memo:](https://leetcode.com/articles/combinations/)|51.5%|
 |1212|1291|[sequential-digits](https://leetcode.com/problems/sequential-digits)||[:memo:](https://leetcode.com/articles/sequential-digits/)|51.5%|
 |1113|1040|[moving-stones-until-consecutive-ii](https://leetcode.com/problems/moving-stones-until-consecutive-ii)|||51.4%|
+|962|926|[flip-string-to-monotone-increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing)||[:memo:](https://leetcode.com/articles/flip-string-to-monotone-increasing/)|51.3%|
 |876|846|[hand-of-straights](https://leetcode.com/problems/hand-of-straights)||[:memo:](https://leetcode.com/articles/hand-of-straights/)|51.2%|
-|962|926|[flip-string-to-monotone-increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing)||[:memo:](https://leetcode.com/articles/flip-string-to-monotone-increasing/)|51.2%|
 |199|199|[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view)||[:memo:](https://leetcode.com/articles/binary-tree-right-side-view/)|51.1%|
 |341|341|[flatten-nested-list-iterator](https://leetcode.com/problems/flatten-nested-list-iterator)|||50.9%|
 |859|641|[design-circular-deque](https://leetcode.com/problems/design-circular-deque)|||50.9%|
@@ -602,9 +602,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |113|113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)|||43.8%|
 |1423|1297|[maximum-number-of-occurrences-of-a-substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring)|||43.8%|
 |47|47|[permutations-ii](https://leetcode.com/problems/permutations-ii)|||43.7%|
+|1002|962|[maximum-width-ramp](https://leetcode.com/problems/maximum-width-ramp)||[:memo:](https://leetcode.com/articles/maximum-width-ramp/)|43.7%|
 |1104|1034|[coloring-a-border](https://leetcode.com/problems/coloring-a-border)|||43.7%|
 |491|491|[increasing-subsequences](https://leetcode.com/problems/increasing-subsequences)|||43.6%|
-|1002|962|[maximum-width-ramp](https://leetcode.com/problems/maximum-width-ramp)||[:memo:](https://leetcode.com/articles/maximum-width-ramp/)|43.6%|
 |1033|991|[broken-calculator](https://leetcode.com/problems/broken-calculator)||[:memo:](https://leetcode.com/articles/broken-calculator/)|43.6%|
 |1343|1223|[dice-roll-simulation](https://leetcode.com/problems/dice-roll-simulation)|||43.5%|
 |313|313|[super-ugly-number](https://leetcode.com/problems/super-ugly-number)|||43.4%|
@@ -612,10 +612,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |912|528|[random-pick-with-weight](https://leetcode.com/problems/random-pick-with-weight)||[:memo:](https://leetcode.com/articles/random-pick-with-weight/)|43.3%|
 |878|848|[shifting-letters](https://leetcode.com/problems/shifting-letters)||[:memo:](https://leetcode.com/articles/shifting-letters/)|43.2%|
 |738|738|[monotone-increasing-digits](https://leetcode.com/problems/monotone-increasing-digits)||[:memo:](https://leetcode.com/articles/monotone-increasing-digits/)|43.1%|
+|1413|1292|[maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold)|||43.1%|
 |208|208|[implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree)||[:memo:](https://leetcode.com/articles/implement-trie-prefix-tree/)|43.0%|
 |858|831|[masking-personal-information](https://leetcode.com/problems/masking-personal-information)||[:memo:](https://leetcode.com/articles/masking-personal-information/)|43.0%|
 |972|935|[knight-dialer](https://leetcode.com/problems/knight-dialer)||[:memo:](https://leetcode.com/articles/knight-dialer/)|43.0%|
-|1413|1292|[maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold)|||43.0%|
 |284|284|[peeking-iterator](https://leetcode.com/problems/peeking-iterator)|||42.9%|
 |659|659|[split-array-into-consecutive-subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences)||[:memo:](https://leetcode.com/articles/split-array-into-consecutive-subsequences/)|42.7%|
 |106|106|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0106-0106(construct-binary-tree-from-inorder-and-postorder-traversal)/construct-binary-tree-from-inorder-and-postorder-traversal.java)|[:memo:](https://leetcode.com/articles/construct-binary-tree-from-inorder-and-postorder-t/)|42.6%|
@@ -852,9 +852,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1038|996|[number-of-squareful-arrays](https://leetcode.com/problems/number-of-squareful-arrays)||[:memo:](https://leetcode.com/articles/number-of-squareful-arrays/)|47.5%|
 |939|903|[valid-permutations-for-di-sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence)||[:memo:](https://leetcode.com/articles/valid-permutations-for-di-sequence/)|47.4%|
 |726|726|[number-of-atoms](https://leetcode.com/problems/number-of-atoms)||[:memo:](https://leetcode.com/articles/number-of-atoms/)|46.7%|
-|781|770|[basic-calculator-iv](https://leetcode.com/problems/basic-calculator-iv)||[:memo:](https://leetcode.com/articles/basic-calculator-iv/)|46.7%|
 |828|810|[chalkboard-xor-game](https://leetcode.com/problems/chalkboard-xor-game)||[:memo:](https://leetcode.com/articles/chalkboard-xor-game/)|46.7%|
 |458|458|[poor-pigs](https://leetcode.com/problems/poor-pigs)||[:memo:](https://leetcode.com/articles/poor-pigs/)|46.6%|
+|781|770|[basic-calculator-iv](https://leetcode.com/problems/basic-calculator-iv)||[:memo:](https://leetcode.com/articles/basic-calculator-iv/)|46.6%|
 |1037|995|[minimum-number-of-k-consecutive-bit-flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips)||[:memo:](https://leetcode.com/articles/minimum-number-of-k-consecutive-bit-flips/)|46.4%|
 |42|42|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0042-0042(trapping-rain-water)/trapping-rain-water.java)|[:memo:](https://leetcode.com/articles/trapping-rain-water/)|46.3%|
 |1097|1032|[stream-of-characters](https://leetcode.com/problems/stream-of-characters)|||46.2%|
@@ -894,8 +894,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |977|940|[distinct-subsequences-ii](https://leetcode.com/problems/distinct-subsequences-ii)||[:memo:](https://leetcode.com/articles/distinct-subsequences-ii/)|41.1%|
 |691|691|[stickers-to-spell-word](https://leetcode.com/problems/stickers-to-spell-word)||[:memo:](https://leetcode.com/articles/stickers-to-spell-word/)|41.0%|
 |699|699|[falling-squares](https://leetcode.com/problems/falling-squares)||[:memo:](https://leetcode.com/articles/falling-squares/)|41.0%|
+|798|782|[transform-to-chessboard](https://leetcode.com/problems/transform-to-chessboard)||[:memo:](https://leetcode.com/articles/transform-to-chessboard/)|41.0%|
 |730|730|[count-different-palindromic-subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences)||[:memo:](https://leetcode.com/articles/count-different-palindromic-subsequences/)|40.9%|
-|798|782|[transform-to-chessboard](https://leetcode.com/problems/transform-to-chessboard)||[:memo:](https://leetcode.com/articles/transform-to-chessboard/)|40.9%|
 |72|72|[edit-distance](https://leetcode.com/problems/edit-distance)||[:memo:](https://leetcode.com/articles/edit-distance/)|40.8%|
 |1290|1187|[make-array-strictly-increasing](https://leetcode.com/problems/make-array-strictly-increasing)|||40.7%|
 |295|295|[find-median-from-data-stream](https://leetcode.com/problems/find-median-from-data-stream)||[:memo:](https://leetcode.com/articles/find-median-from-data-stream/)|40.6%|
@@ -984,8 +984,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |902|871|[minimum-number-of-refueling-stops](https://leetcode.com/problems/minimum-number-of-refueling-stops)||[:memo:](https://leetcode.com/articles/minimum-number-of-refueling-stops/)|30.8%|
 |927|891|[sum-of-subsequence-widths](https://leetcode.com/problems/sum-of-subsequence-widths)||[:memo:](https://leetcode.com/articles/sum-of-subsequence-widths/)|30.8%|
 |41|41|[first-missing-positive](https://leetcode.com/problems/first-missing-positive)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0041-0041(first-missing-positive)/first-missing-positive.java)|[:memo:](https://leetcode.com/articles/first-missing-positive/)|30.5%|
-|719|719|[find-k-th-smallest-pair-distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance)||[:memo:](https://leetcode.com/articles/find-k-th-smallest-pair-distance/)|30.4%|
 |629|629|[k-inverse-pairs-array](https://leetcode.com/problems/k-inverse-pairs-array)||[:memo:](https://leetcode.com/articles/k-inverse-pairs-array/)|30.3%|
+|719|719|[find-k-th-smallest-pair-distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance)||[:memo:](https://leetcode.com/articles/find-k-th-smallest-pair-distance/)|30.3%|
 |938|902|[numbers-at-most-n-given-digit-set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set)||[:memo:](https://leetcode.com/articles/numbers-at-most-n-given-digit-set/)|30.2%|
 |949|913|[cat-and-mouse](https://leetcode.com/problems/cat-and-mouse)||[:memo:](https://leetcode.com/articles/cat-and-mouse-game/)|30.2%|
 |135|135|[candy](https://leetcode.com/problems/candy)||[:memo:](https://leetcode.com/articles/candy/)|30.0%|

@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-16 23:20:09
+Update time:  2020-01-16 23:41:07
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **239   /   1216** problems
+I have solved **240   /   1216** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -736,7 +736,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |797|781|[rabbits-in-forest](https://leetcode.com/problems/rabbits-in-forest)||[:memo:](https://leetcode.com/articles/rabbits-in-forest/)|Medium|
 |798|782|[transform-to-chessboard](https://leetcode.com/problems/transform-to-chessboard)||[:memo:](https://leetcode.com/articles/transform-to-chessboard/)|Hard|
 |799|783|[minimum-distance-between-bst-nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes)||[:memo:](https://leetcode.com/articles/minimum-distance-between-bst-nodes/)|Easy|
-|800|784|[letter-case-permutation](https://leetcode.com/problems/letter-case-permutation)||[:memo:](https://leetcode.com/articles/letter-case-permutation/)|Easy|
+|800|784|[letter-case-permutation](https://leetcode.com/problems/letter-case-permutation)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0800-0784(letter-case-permutation)/letter-case-permutation.java)|[:memo:](https://leetcode.com/articles/letter-case-permutation/)|Easy|
 |801|785|[is-graph-bipartite](https://leetcode.com/problems/is-graph-bipartite)||[:memo:](https://leetcode.com/articles/is-graph-bipartite/)|Medium|
 |802|786|[k-th-smallest-prime-fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction)||[:memo:](https://leetcode.com/articles/k-th-smallest-prime-fraction/)|Hard|
 |803|787|[cheapest-flights-within-k-stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)||[:memo:](https://leetcode.com/articles/cheapest-flights-within-k-stops/)|Medium|

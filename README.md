@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-16 22:57:57
+Update time:  2020-01-16 23:20:09
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **238   /   1216** problems
+I have solved **239   /   1216** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1154,7 +1154,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1280|1176|[diet-plan-performance](https://leetcode.com/problems/diet-plan-performance)|:lock:||Easy|
 |1281|1177|[can-make-palindrome-from-substring](https://leetcode.com/problems/can-make-palindrome-from-substring)|||Medium|
 |1282|1178|[number-of-valid-words-for-each-puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle)|||Hard|
-|1287|1184|[distance-between-bus-stops](https://leetcode.com/problems/distance-between-bus-stops)|||Easy|
+|1287|1184|[distance-between-bus-stops](https://leetcode.com/problems/distance-between-bus-stops)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1287-1184(distance-between-bus-stops)/distance-between-bus-stops.java)||Easy|
 |1288|1186|[maximum-subarray-sum-with-one-deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion)|||Medium|
 |1289|1185|[day-of-the-week](https://leetcode.com/problems/day-of-the-week)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1289-1185(day-of-the-week)/day-of-the-week.java)||Easy|
 |1290|1187|[make-array-strictly-increasing](https://leetcode.com/problems/make-array-strictly-increasing)|||Hard|

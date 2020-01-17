@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-16 16:22:55
+Update time:  2020-01-16 22:57:57
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **237   /   1216** problems
+I have solved **238   /   1216** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -760,7 +760,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |821|803|[bricks-falling-when-hit](https://leetcode.com/problems/bricks-falling-when-hit)||[:memo:](https://leetcode.com/articles/bricks-falling-when-hit/)|Hard|
 |822|804|[unique-morse-code-words](https://leetcode.com/problems/unique-morse-code-words)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0822-0804(unique-morse-code-words)/unique-morse-code-words.java)|[:memo:](https://leetcode.com/articles/unique-morse-code-words/)|Easy|
 |823|805|[split-array-with-same-average](https://leetcode.com/problems/split-array-with-same-average)||[:memo:](https://leetcode.com/articles/split-array-with-same-average/)|Hard|
-|824|806|[number-of-lines-to-write-string](https://leetcode.com/problems/number-of-lines-to-write-string)||[:memo:](https://leetcode.com/articles/number-of-lines-to-write-string/)|Easy|
+|824|806|[number-of-lines-to-write-string](https://leetcode.com/problems/number-of-lines-to-write-string)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0824-0806(number-of-lines-to-write-string)/number-of-lines-to-write-string.java)|[:memo:](https://leetcode.com/articles/number-of-lines-to-write-string/)|Easy|
 |825|807|[max-increase-to-keep-city-skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0825-0807(max-increase-to-keep-city-skyline)/max-increase-to-keep-city-skyline.java)|[:memo:](https://leetcode.com/articles/max-increase-to-keep-city-skyline/)|Medium|
 |826|808|[soup-servings](https://leetcode.com/problems/soup-servings)||[:memo:](https://leetcode.com/articles/soup-servings/)|Medium|
 |827|809|[expressive-words](https://leetcode.com/problems/expressive-words)||[:memo:](https://leetcode.com/articles/expressive-words/)|Medium|

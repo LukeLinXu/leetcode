@@ -698,6 +698,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 
 def do_job(leetcode):
+    a = datetime.datetime.now()
     leetcode.load()
     print('Leetcode load self info')
     if len(sys.argv) == 1:
@@ -718,7 +719,9 @@ def do_job(leetcode):
     print('Leetcode finish write SortByAC')
     leetcode.push_to_github()
     print('push to github')
-
+    b = datetime.datetime.now()
+    print('the job takes:')
+    print(b - a)
 
 if __name__ == '__main__':
     leetcode = Leetcode()

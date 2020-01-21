@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-20 12:01:50
+Update time:  2020-01-20 23:06:35
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **246   /   1220** problems
+I have solved **247   /   1220** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -514,7 +514,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |526|526|[beautiful-arrangement](https://leetcode.com/problems/beautiful-arrangement)||[:memo:](https://leetcode.com/articles/beautiful-arrangement/)|Medium|
 |527|527|[word-abbreviation](https://leetcode.com/problems/word-abbreviation)|:lock:|[:memo:](https://leetcode.com/articles/word-abbreviation/)|Hard|
 |529|529|[minesweeper](https://leetcode.com/problems/minesweeper)|||Medium|
-|530|530|[minimum-absolute-difference-in-bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|||Easy|
+|530|530|[minimum-absolute-difference-in-bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0530-0530(minimum-absolute-difference-in-bst)/minimum-absolute-difference-in-bst.java)||Easy|
 |531|531|[lonely-pixel-i](https://leetcode.com/problems/lonely-pixel-i)|:lock:||Medium|
 |532|532|[k-diff-pairs-in-an-array](https://leetcode.com/problems/k-diff-pairs-in-an-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0532-0532(k-diff-pairs-in-an-array)/k-diff-pairs-in-an-array.java)||Easy|
 |533|533|[lonely-pixel-ii](https://leetcode.com/problems/lonely-pixel-ii)|:lock:||Medium|

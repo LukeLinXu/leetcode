@@ -32,10 +32,34 @@
  */
 class Solution {
     /**
-     * 直接
+     * BFS 有点意思
+     */    
+    public List < Double > averageOfLevels(TreeNode root) {
+        List < Double > res = new ArrayList < > ();
+        Queue < TreeNode > queue = new LinkedList < > ();
+        queue.add(root);
+        while (!queue.isEmpty()) {
+            long sum = 0, count = 0;
+            Queue < TreeNode > temp = new LinkedList < > ();
+            while (!queue.isEmpty()) {
+                TreeNode n = queue.remove();
+                sum += n.val;
+                count++;
+                if (n.left != null)
+                    temp.add(n.left);
+                if (n.right != null)
+                    temp.add(n.right);
+            }
+            queue = temp;
+            res.add(sum * 1.0 / count);
+        }
+        return res;
+    }
+    /**
+     * 我的第一反应：DFS
      */
     Map<Integer, Integer> map = new HashMap<>();
-    public List<Double> averageOfLevels(TreeNode root) {
+    public List<Double> averageOfLevels_dddd(TreeNode root) {
         List<Double> list =  new LinkedList();
         averageOfLevels(root, list, 0);
         return list;

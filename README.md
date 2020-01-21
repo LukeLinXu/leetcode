@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-20 23:06:35
+Update time:  2020-01-20 23:37:34
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **247   /   1220** problems
+I have solved **248   /   1220** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -381,7 +381,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |380|380|[insert-delete-getrandom-o1](https://leetcode.com/problems/insert-delete-getrandom-o1)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0380-0380(insert-delete-getrandom-o1)/insert-delete-getrandom-o1.java)|[:memo:](https://leetcode.com/articles/insert-delete-getrandom-o1/)|Medium|
 |381|381|[insert-delete-getrandom-o1-duplicates-allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0381-0381(insert-delete-getrandom-o1-duplicates-allowed)/insert-delete-getrandom-o1-duplicates-allowed.java)|[:memo:](https://leetcode.com/articles/insert-delete-getrandom-o1-duplicates-allowed/)|Hard|
 |382|382|[linked-list-random-node](https://leetcode.com/problems/linked-list-random-node)|||Medium|
-|383|383|[ransom-note](https://leetcode.com/problems/ransom-note)|||Easy|
+|383|383|[ransom-note](https://leetcode.com/problems/ransom-note)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0383-0383(ransom-note)/ransom-note.java)||Easy|
 |384|384|[shuffle-an-array](https://leetcode.com/problems/shuffle-an-array)||[:memo:](https://leetcode.com/articles/shuffle-an-array/)|Medium|
 |385|385|[mini-parser](https://leetcode.com/problems/mini-parser)|||Medium|
 |386|386|[lexicographical-numbers](https://leetcode.com/problems/lexicographical-numbers)|||Medium|

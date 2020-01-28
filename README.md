@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-28 13:45:22
+Update time:  2020-01-28 13:55:26
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **255   /   1228** problems
+I have solved **256   /   1228** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -780,7 +780,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |842|822|[card-flipping-game](https://leetcode.com/problems/card-flipping-game)||[:memo:](https://leetcode.com/articles/card-flipping-game/)|Medium|
 |843|823|[binary-trees-with-factors](https://leetcode.com/problems/binary-trees-with-factors)||[:memo:](https://leetcode.com/articles/binary-trees-with-factors/)|Medium|
 |850|708|[insert-into-a-sorted-circular-linked-list](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)|:lock:|[:memo:](https://leetcode.com/articles/insert-into-a-cyclic-sorted-list/)|Medium|
-|851|824|[goat-latin](https://leetcode.com/problems/goat-latin)||[:memo:](https://leetcode.com/articles/goat-latin/)|Easy|
+|851|824|[goat-latin](https://leetcode.com/problems/goat-latin)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0851-0824(goat-latin)/goat-latin.java)|[:memo:](https://leetcode.com/articles/goat-latin/)|Easy|
 |852|825|[friends-of-appropriate-ages](https://leetcode.com/problems/friends-of-appropriate-ages)||[:memo:](https://leetcode.com/articles/friends-of-appropriate-ages/)|Medium|
 |853|826|[most-profit-assigning-work](https://leetcode.com/problems/most-profit-assigning-work)||[:memo:](https://leetcode.com/articles/most-profit-assigning-work/)|Medium|
 |854|827|[making-a-large-island](https://leetcode.com/problems/making-a-large-island)||[:memo:](https://leetcode.com/articles/making-a-large-island/)|Hard|

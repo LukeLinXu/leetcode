@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-28 13:55:26
+Update time:  2020-01-28 15:02:12
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **256   /   1228** problems
+I have solved **257   /   1228** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1116,7 +1116,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1218|1123|[lowest-common-ancestor-of-deepest-leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves)|||Medium|
 |1219|1124|[longest-well-performing-interval](https://leetcode.com/problems/longest-well-performing-interval)|||Medium|
 |1220|1125|[smallest-sufficient-team](https://leetcode.com/problems/smallest-sufficient-team)|||Hard|
-|1221|1287|[element-appearing-more-than-25-in-sorted-array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)|||Easy|
+|1221|1287|[element-appearing-more-than-25-in-sorted-array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1221-1287(element-appearing-more-than-25-in-sorted-array)/element-appearing-more-than-25-in-sorted-array.java)||Easy|
 |1222|1288|[remove-covered-intervals](https://leetcode.com/problems/remove-covered-intervals)|||Medium|
 |1224|1289|[minimum-falling-path-sum-ii](https://leetcode.com/problems/minimum-falling-path-sum-ii)|||Hard|
 |1227|1128|[number-of-equivalent-domino-pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1227-1128(number-of-equivalent-domino-pairs)/number-of-equivalent-domino-pairs.java)||Easy|

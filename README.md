@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-28 11:30:13
+Update time:  2020-01-28 11:41:09
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **253   /   1228** problems
+I have solved **254   /   1228** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -703,7 +703,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |764|429|[n-ary-tree-level-order-traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)||[:memo:](https://leetcode.com/articles/n-ary-tree-level-order-traversal/)|Medium|
 |765|428|[serialize-and-deserialize-n-ary-tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree)|:lock:|[:memo:](https://leetcode.com/articles/serialize-and-deserialize-n-ary-tree/)|Hard|
 |766|430|[flatten-a-multilevel-doubly-linked-list](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list)||[:memo:](https://leetcode.com/articles/flatten-a-multilevel-doubly-linked-list/)|Medium|
-|767|762|[prime-number-of-set-bits-in-binary-representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)||[:memo:](https://leetcode.com/articles/prime-number-of-set-bits-in-binary-representation/)|Easy|
+|767|762|[prime-number-of-set-bits-in-binary-representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0767-0762(prime-number-of-set-bits-in-binary-representation)/prime-number-of-set-bits-in-binary-representation.java)|[:memo:](https://leetcode.com/articles/prime-number-of-set-bits-in-binary-representation/)|Easy|
 |768|763|[partition-labels](https://leetcode.com/problems/partition-labels)||[:memo:](https://leetcode.com/articles/partition-labels/)|Medium|
 |769|764|[largest-plus-sign](https://leetcode.com/problems/largest-plus-sign)||[:memo:](https://leetcode.com/articles/largest-plus-sign/)|Medium|
 |770|765|[couples-holding-hands](https://leetcode.com/problems/couples-holding-hands)||[:memo:](https://leetcode.com/articles/couples-holding-hands/)|Hard|

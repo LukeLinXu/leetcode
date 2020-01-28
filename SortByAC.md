@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-28 11:30:13
+Update time:  2020-01-28 11:41:09
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **253   /   1228** problems
+I have solved **254   /   1228** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -93,7 +93,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |496|496|[next-greater-element-i](https://leetcode.com/problems/next-greater-element-i)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0496-0496(next-greater-element-i)/next-greater-element-i.java)|[:memo:](https://leetcode.com/articles/greater-element-i/)|61.8%|
 |920|884|[uncommon-words-from-two-sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0920-0884(uncommon-words-from-two-sentences)/uncommon-words-from-two-sentences.java)|[:memo:](https://leetcode.com/articles/uncommon-words-from-two-sentences/)|61.8%|
 |669|669|[trim-a-binary-search-tree](https://leetcode.com/problems/trim-a-binary-search-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0669-0669(trim-a-binary-search-tree)/trim-a-binary-search-tree.java)|[:memo:](https://leetcode.com/articles/trim-a-binary-search-tree/)|61.7%|
-|767|762|[prime-number-of-set-bits-in-binary-representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)||[:memo:](https://leetcode.com/articles/prime-number-of-set-bits-in-binary-representation/)|61.4%|
+|767|762|[prime-number-of-set-bits-in-binary-representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0767-0762(prime-number-of-set-bits-in-binary-representation)/prime-number-of-set-bits-in-binary-representation.java)|[:memo:](https://leetcode.com/articles/prime-number-of-set-bits-in-binary-representation/)|61.4%|
 |226|226|[invert-binary-tree](https://leetcode.com/problems/invert-binary-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0226-0226(invert-binary-tree)/invert-binary-tree.java)|[:memo:](https://leetcode.com/articles/invert-binary-tree/)|61.3%|
 |800|784|[letter-case-permutation](https://leetcode.com/problems/letter-case-permutation)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0800-0784(letter-case-permutation)/letter-case-permutation.java)|[:memo:](https://leetcode.com/articles/letter-case-permutation/)|61.2%|
 |1297|1189|[maximum-number-of-balloons](https://leetcode.com/problems/maximum-number-of-balloons)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1297-1189(maximum-number-of-balloons)/maximum-number-of-balloons.java)||61.1%|
@@ -179,7 +179,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |107|107|[binary-tree-level-order-traversal-ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|||49.6%|
 |599|599|[minimum-index-sum-of-two-lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)||[:memo:](https://leetcode.com/articles/minimum-index-sum-of-two-lists/)|49.6%|
 |1039|997|[find-the-town-judge](https://leetcode.com/problems/find-the-town-judge)|||49.6%|
-|506|506|[relative-ranks](https://leetcode.com/problems/relative-ranks)|||49.5%|
+|506|506|[relative-ranks](https://leetcode.com/problems/relative-ranks)|||49.4%|
 |812|796|[rotate-string](https://leetcode.com/problems/rotate-string)||[:memo:](https://leetcode.com/articles/rotate-string/)|49.4%|
 |409|409|[longest-palindrome](https://leetcode.com/problems/longest-palindrome)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0409-0409(longest-palindrome)/longest-palindrome.java)|[:memo:](https://leetcode.com/articles/longest-palindrome/)|49.3%|
 |598|598|[range-addition-ii](https://leetcode.com/problems/range-addition-ii)||[:memo:](https://leetcode.com/articles/range-addition-ii/)|49.2%|
@@ -321,11 +321,11 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |768|763|[partition-labels](https://leetcode.com/problems/partition-labels)||[:memo:](https://leetcode.com/articles/partition-labels/)|73.3%|
 |987|950|[reveal-cards-in-increasing-order](https://leetcode.com/problems/reveal-cards-in-increasing-order)||[:memo:](https://leetcode.com/articles/reveal-cards-in-increasing-order/)|73.2%|
 |813|797|[all-paths-from-source-to-target](https://leetcode.com/problems/all-paths-from-source-to-target)||[:memo:](https://leetcode.com/articles/all-paths-from-source-to-target/)|73.0%|
-|832|814|[binary-tree-pruning](https://leetcode.com/problems/binary-tree-pruning)||[:memo:](https://leetcode.com/articles/binary-tree-pruning/)|72.8%|
+|832|814|[binary-tree-pruning](https://leetcode.com/problems/binary-tree-pruning)||[:memo:](https://leetcode.com/articles/binary-tree-pruning/)|72.9%|
 |930|894|[all-possible-full-binary-trees](https://leetcode.com/problems/all-possible-full-binary-trees)||[:memo:](https://leetcode.com/articles/all-possible-full-binary-trees/)|72.7%|
 |926|890|[find-and-replace-pattern](https://leetcode.com/problems/find-and-replace-pattern)||[:memo:](https://leetcode.com/articles/find-and-replace-pattern/)|72.6%|
 |1387|1261|[find-elements-in-a-contaminated-binary-tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree)|||72.4%|
-|1242|1314|[matrix-block-sum](https://leetcode.com/problems/matrix-block-sum)|||72.2%|
+|1242|1314|[matrix-block-sum](https://leetcode.com/problems/matrix-block-sum)|||72.1%|
 |957|921|[minimum-add-to-make-parentheses-valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)||[:memo:](https://leetcode.com/articles/minimum-add-to-make-parentheses-valid/)|71.6%|
 |891|861|[score-after-flipping-matrix](https://leetcode.com/problems/score-after-flipping-matrix)||[:memo:](https://leetcode.com/articles/score-after-flipping-matrix/)|71.3%|
 |1116|1161|[maximum-level-sum-of-a-binary-tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/maximum-level-sum-of-a-binary-tree/)|71.2%|
@@ -429,8 +429,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |216|216|[combination-sum-iii](https://leetcode.com/problems/combination-sum-iii)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0216-0216(combination-sum-iii)/combination-sum-iii.java)||54.3%|
 |1138|1052|[grumpy-bookstore-owner](https://leetcode.com/problems/grumpy-bookstore-owner)|||54.1%|
 |1045|1003|[check-if-word-is-valid-after-substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions)|||53.8%|
+|1370|1248|[count-number-of-nice-subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays)|||53.8%|
 |144|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-transversal/)|53.7%|
-|1370|1248|[count-number-of-nice-subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays)|||53.7%|
 |503|503|[next-greater-element-ii](https://leetcode.com/problems/next-greater-element-ii)||[:memo:](https://leetcode.com/articles/next-greater-element-ii/)|53.6%|
 |1048|1006|[clumsy-factorial](https://leetcode.com/problems/clumsy-factorial)|||53.6%|
 |757|756|[pyramid-transition-matrix](https://leetcode.com/problems/pyramid-transition-matrix)||[:memo:](https://leetcode.com/articles/pyramid-transition-matrix/)|53.5%|

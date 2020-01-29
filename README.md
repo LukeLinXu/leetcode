@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-28 21:06:57
+Update time:  2020-01-28 21:25:42
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **261   /   1228** problems
+I have solved **262   /   1228** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1127,7 +1127,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1232|1300|[sum-of-mutated-array-closest-to-target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target)|||Medium|
 |1233|1274|[number-of-ships-in-a-rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle)|:lock:||Hard|
 |1234|1301|[number-of-paths-with-max-score](https://leetcode.com/problems/number-of-paths-with-max-score)|||Hard|
-|1236|1137|[n-th-tribonacci-number](https://leetcode.com/problems/n-th-tribonacci-number)||[:memo:](https://leetcode.com/articles/n-th-tribonacci-number/)|Easy|
+|1236|1137|[n-th-tribonacci-number](https://leetcode.com/problems/n-th-tribonacci-number)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1236-1137(n-th-tribonacci-number)/n-th-tribonacci-number.java)|[:memo:](https://leetcode.com/articles/n-th-tribonacci-number/)|Easy|
 |1238|1138|[alphabet-board-path](https://leetcode.com/problems/alphabet-board-path)|||Medium|
 |1239|1139|[largest-1-bordered-square](https://leetcode.com/problems/largest-1-bordered-square)|||Medium|
 |1240|1140|[stone-game-ii](https://leetcode.com/problems/stone-game-ii)|||Medium|

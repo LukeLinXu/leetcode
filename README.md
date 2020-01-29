@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-01-28 15:51:13
+Update time:  2020-01-28 21:06:57
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **259   /   1228** problems
+I have solved **261   /   1228** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1098,7 +1098,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1191|1258|[synonymous-sentences](https://leetcode.com/problems/synonymous-sentences)|:lock:||Medium|
 |1192|1231|[divide-chocolate](https://leetcode.com/problems/divide-chocolate)|:lock:||Hard|
 |1194|1104|[path-in-zigzag-labelled-binary-tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree)|||Medium|
-|1195|1103|[distribute-candies-to-people](https://leetcode.com/problems/distribute-candies-to-people)||[:memo:](https://leetcode.com/articles/distribute-candies-to-people/)|Easy|
+|1195|1103|[distribute-candies-to-people](https://leetcode.com/problems/distribute-candies-to-people)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1195-1103(distribute-candies-to-people)/distribute-candies-to-people.java)|[:memo:](https://leetcode.com/articles/distribute-candies-to-people/)|Easy|
 |1196|1105|[filling-bookcase-shelves](https://leetcode.com/problems/filling-bookcase-shelves)|||Medium|
 |1197|1106|[parsing-a-boolean-expression](https://leetcode.com/problems/parsing-a-boolean-expression)|||Hard|
 |1199|1271|[hexspeak](https://leetcode.com/problems/hexspeak)|:lock:||Easy|
@@ -1144,7 +1144,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1253|1329|[sort-the-matrix-diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally)|||Medium|
 |1254|1302|[deepest-leaves-sum](https://leetcode.com/problems/deepest-leaves-sum)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1254-1302(deepest-leaves-sum)/deepest-leaves-sum.java)||Medium|
 |1255|1330|[reverse-subarray-to-maximize-array-value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value)|||Hard|
-|1256|1331|[rank-transform-of-an-array](https://leetcode.com/problems/rank-transform-of-an-array)|||Easy|
+|1256|1331|[rank-transform-of-an-array](https://leetcode.com/problems/rank-transform-of-an-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1256-1331(rank-transform-of-an-array)/rank-transform-of-an-array.java)||Easy|
 |1260|1154|[day-of-the-year](https://leetcode.com/problems/day-of-the-year)|||Easy|
 |1261|1156|[swap-for-longest-repeated-character-substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring)|||Medium|
 |1262|1157|[online-majority-element-in-subarray](https://leetcode.com/problems/online-majority-element-in-subarray)|||Hard|

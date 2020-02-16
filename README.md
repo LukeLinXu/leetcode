@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-02-15 10:28:22
+Update time:  2020-02-16 10:04:31
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **269   /   1240** problems
+I have solved **270   /   1244** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1248,7 +1248,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1455|1333|[filter-restaurants-by-vegan-friendly-price-and-distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance)|||Medium|
 |1456|1334|[find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)|||Medium|
 |1457|1335|[minimum-difficulty-of-a-job-schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule)|||Hard|
-|1463|1337|[the-k-weakest-rows-in-a-matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)||[:memo:](https://leetcode.com/articles/the-k-weakest-rows-in-a-matrix/)|Easy|
+|1463|1337|[the-k-weakest-rows-in-a-matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1463-1337(the-k-weakest-rows-in-a-matrix)/the-k-weakest-rows-in-a-matrix.java)|[:memo:](https://leetcode.com/articles/the-k-weakest-rows-in-a-matrix/)|Easy|
 |1464|1338|[reduce-array-size-to-the-half](https://leetcode.com/problems/reduce-array-size-to-the-half)|||Medium|
 |1465|1339|[maximum-product-of-splitted-binary-tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree)||[:memo:](https://leetcode.com/articles/maximum-product-of-splitted-binary-tree/)|Medium|
 |1466|1340|[jump-game-v](https://leetcode.com/problems/jump-game-v)|||Hard|
@@ -1256,3 +1256,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1469|1347|[minimum-number-of-steps-to-make-two-strings-anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram)|||Medium|
 |1470|1348|[tweet-counts-per-frequency](https://leetcode.com/problems/tweet-counts-per-frequency)|||Medium|
 |1471|1349|[maximum-students-taking-exam](https://leetcode.com/problems/maximum-students-taking-exam)|||Hard|
+|1476|1351|[count-negative-numbers-in-a-sorted-matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)|||Easy|
+|1477|1352|[product-of-the-last-k-numbers](https://leetcode.com/problems/product-of-the-last-k-numbers)|||Medium|
+|1478|1353|[maximum-number-of-events-that-can-be-attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended)|||Medium|
+|1479|1354|[construct-target-array-with-multiple-sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums)|||Hard|

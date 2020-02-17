@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-02-16 21:36:53
+Update time:  2020-02-17 10:31:43
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **273   /   1244** problems
+I have solved **274   /   1244** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1183,7 +1183,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1342|1222|[queens-that-can-attack-the-king](https://leetcode.com/problems/queens-that-can-attack-the-king)|||Medium|
 |1343|1223|[dice-roll-simulation](https://leetcode.com/problems/dice-roll-simulation)|||Medium|
 |1344|1224|[maximum-equal-frequency](https://leetcode.com/problems/maximum-equal-frequency)|||Hard|
-|1349|1232|[check-if-it-is-a-straight-line](https://leetcode.com/problems/check-if-it-is-a-straight-line)|||Easy|
+|1349|1232|[check-if-it-is-a-straight-line](https://leetcode.com/problems/check-if-it-is-a-straight-line)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1349-1232(check-if-it-is-a-straight-line)/check-if-it-is-a-straight-line.java)||Easy|
 |1350|1233|[remove-sub-folders-from-the-filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem)|||Medium|
 |1351|1234|[replace-the-substring-for-balanced-string](https://leetcode.com/problems/replace-the-substring-for-balanced-string)|||Medium|
 |1352|1235|[maximum-profit-in-job-scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)|||Hard|

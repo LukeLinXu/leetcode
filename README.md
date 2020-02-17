@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-02-16 10:04:31
+Update time:  2020-02-16 20:41:29
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **270   /   1244** problems
+I have solved **272   /   1244** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -86,7 +86,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |68|68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
 |69|69|[sqrtx](https://leetcode.com/problems/sqrtx)||[:memo:](https://leetcode.com/articles/sqrtx/)|Easy|
 |70|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0070-0070(climbing-stairs)/climbing-stairs.java)|[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
-|71|71|[simplify-path](https://leetcode.com/problems/simplify-path)|||Medium|
+|71|71|[simplify-path](https://leetcode.com/problems/simplify-path)||[:memo:](https://leetcode.com/articles/simplify-path/)|Medium|
 |72|72|[edit-distance](https://leetcode.com/problems/edit-distance)||[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
 |73|73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0073-0073(set-matrix-zeroes)/set-matrix-zeroes.java)|[:memo:](https://leetcode.com/articles/set-matrix-zeroes/)|Medium|
 |74|74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0074-0074(search-a-2d-matrix)/search-a-2d-matrix.java)|[:memo:](https://leetcode.com/articles/search-in-2d-matrix/)|Medium|
@@ -129,7 +129,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |111|111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)||[:memo:](https://leetcode.com/articles/minimum-depth-of-binary-tree/)|Easy|
 |112|112|[path-sum](https://leetcode.com/problems/path-sum)||[:memo:](https://leetcode.com/articles/path-sum/)|Easy|
 |113|113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)||[:memo:](https://leetcode.com/articles/path-sum-ii/)|Medium|
-|114|114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|||Medium|
+|114|114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)||[:memo:](https://leetcode.com/articles/flatten-binary-tree-to-linked-list/)|Medium|
 |115|115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)|||Hard|
 |116|116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)||[:memo:](https://leetcode.com/articles/populating-next-right-pointers-in-each-node/)|Medium|
 |117|117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)||[:memo:](https://leetcode.com/articles/populating-next-right-pointers-in-each-node-ii/)|Medium|
@@ -1208,7 +1208,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1396|1267|[count-servers-that-communicate](https://leetcode.com/problems/count-servers-that-communicate)|||Medium|
 |1397|1268|[search-suggestions-system](https://leetcode.com/problems/search-suggestions-system)|||Medium|
 |1398|1269|[number-of-ways-to-stay-in-the-same-place-after-some-steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps)|||Hard|
-|1400|1275|[find-winner-on-a-tic-tac-toe-game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game)|||Easy|
+|1400|1275|[find-winner-on-a-tic-tac-toe-game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1400-1275(find-winner-on-a-tic-tac-toe-game)/find-winner-on-a-tic-tac-toe-game.java)||Easy|
 |1401|1276|[number-of-burgers-with-no-waste-of-ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients)|||Medium|
 |1402|1277|[count-square-submatrices-with-all-ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)|||Medium|
 |1403|1278|[palindrome-partitioning-iii](https://leetcode.com/problems/palindrome-partitioning-iii)|||Hard|
@@ -1256,7 +1256,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1469|1347|[minimum-number-of-steps-to-make-two-strings-anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram)|||Medium|
 |1470|1348|[tweet-counts-per-frequency](https://leetcode.com/problems/tweet-counts-per-frequency)|||Medium|
 |1471|1349|[maximum-students-taking-exam](https://leetcode.com/problems/maximum-students-taking-exam)|||Hard|
-|1476|1351|[count-negative-numbers-in-a-sorted-matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)|||Easy|
+|1476|1351|[count-negative-numbers-in-a-sorted-matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1476-1351(count-negative-numbers-in-a-sorted-matrix)/count-negative-numbers-in-a-sorted-matrix.java)||Easy|
 |1477|1352|[product-of-the-last-k-numbers](https://leetcode.com/problems/product-of-the-last-k-numbers)|||Medium|
 |1478|1353|[maximum-number-of-events-that-can-be-attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended)|||Medium|
 |1479|1354|[construct-target-array-with-multiple-sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums)|||Hard|

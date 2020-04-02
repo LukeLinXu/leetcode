@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-04-02 11:29:34
+Update time:  2020-04-02 15:09:38
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **276   /   1281** problems
+I have solved **277   /   1281** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1274,7 +1274,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1477|1352|[product-of-the-last-k-numbers](https://leetcode.com/problems/product-of-the-last-k-numbers)|||Medium|
 |1478|1353|[maximum-number-of-events-that-can-be-attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended)|||Medium|
 |1479|1354|[construct-target-array-with-multiple-sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums)||[:memo:](https://leetcode.com/articles/construct-target-array-with-multiple-sums/)|Hard|
-|1482|1365|[how-many-numbers-are-smaller-than-the-current-number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)|||Easy|
+|1482|1365|[how-many-numbers-are-smaller-than-the-current-number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1482-1365(how-many-numbers-are-smaller-than-the-current-number)/how-many-numbers-are-smaller-than-the-current-number.java)||Easy|
 |1483|1366|[rank-teams-by-votes](https://leetcode.com/problems/rank-teams-by-votes)|||Medium|
 |1484|1367|[linked-list-in-binary-tree](https://leetcode.com/problems/linked-list-in-binary-tree)|||Medium|
 |1485|1368|[minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid)|||Hard|

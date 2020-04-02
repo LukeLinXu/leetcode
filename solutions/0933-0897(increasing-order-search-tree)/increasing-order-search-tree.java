@@ -31,8 +31,8 @@
 //                8
 //                 \
 //                  9  
-//
-// Note:
+//  
+// Constraints:
 //
 //
 // 	The number of nodes in the given tree will be between 1 and 100.

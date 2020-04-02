@@ -9,11 +9,11 @@
 // Return true if and only if the two given trees with head nodes root1 and root2 are leaf-similar.
 //
 //  
+// Constraints:
 //
-// Note:
 //
-//
-// 	Both of the given trees will have between 1 and 100 nodes.
+// 	Both of the given trees will have between 1 and 200 nodes.
+// 	Both of the given trees will have values between 0 and 200
 //
 //
 

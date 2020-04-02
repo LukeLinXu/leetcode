@@ -23,7 +23,7 @@
 //  
 //
 //
-// Note:
+// Constraints:
 //
 //
 // 	The number of nodes in the tree is between 1 and 100.
@@ -33,7 +33,7 @@
 //
 //
 //
-//  
+// Note: This question is the same as 538: https://leetcode.com/problems/convert-bst-to-greater-tree/
 //
 //
 //

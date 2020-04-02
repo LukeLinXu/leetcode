@@ -15,24 +15,20 @@
 //
 
 
-public class Solution {
+class Solution {
+    private HashSet<Integer> set = new HashSet<>();
     public boolean isHappy(int n) {
-        Set<Integer> set = new HashSet<>();
-        return isHappy(n, set);        
-    }
-    public static boolean isHappy(int n, Set<Integer> set) {
-        if(set.contains(n)) return false;
-        set.add(n);
-        if(n <= 0) return false;
-        if(n == 1) return true;
-        String s = String.valueOf(n);
-        char[] chars = s.toCharArray();
-        int count = 0;
-        for(char c : chars){
-            int result = Integer.parseInt(Character.toString(c));
-            count += result * result;
+        if(set.contains(n)){
+            return false;
+        }else {
+            set.add(n);
         }
-        System.out.println(count);
-        return isHappy(count, set);
+        int sum = 0;
+        while (n != 0){
+            sum += (n%10)*(n%10);
+            n = n/10;
+        }
+        if(sum == 1) return true;
+        return isHappy(sum);
     }
 }

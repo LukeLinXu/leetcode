@@ -18,13 +18,13 @@ class Solution {
     public void moveZeroes(int[] nums) {
         int slow = 0;
         for(int i = 0; i < nums.length; i++){
-            if(nums[i] != 0){
+            if(nums[slow] != 0 && nums[i] == 0){
+                slow = i;
+            }else if(nums[slow] == 0 && nums[i] != 0){
                 nums[slow] = nums[i];
+                nums[i] = 0;
                 slow++;
             }
-        }
-        for(int i = slow; i < nums.length; i++){
-            nums[i]=0;
         }
     }
 }

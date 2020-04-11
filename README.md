@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-04-10 23:13:53
+Update time:  2020-04-11 07:25:30
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **285   /   1289** problems
+I have solved **286   /   1289** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -526,7 +526,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |540|540|[single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array)||[:memo:](https://leetcode.com/articles/single-element-in-a-sorted-array/)|Medium|
 |541|541|[reverse-string-ii](https://leetcode.com/problems/reverse-string-ii)||[:memo:](https://leetcode.com/articles/reverse-string-ii/)|Easy|
 |542|542|[01-matrix](https://leetcode.com/problems/01-matrix)||[:memo:](https://leetcode.com/articles/01-matrix/)|Medium|
-|543|543|[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree)||[:memo:](https://leetcode.com/articles/diameter-of-binary-tree/)|Easy|
+|543|543|[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0543-0543(diameter-of-binary-tree)/diameter-of-binary-tree.java)|[:memo:](https://leetcode.com/articles/diameter-of-binary-tree/)|Easy|
 |544|544|[output-contest-matches](https://leetcode.com/problems/output-contest-matches)|:lock:|[:memo:](https://leetcode.com/articles/output-contest-matches/)|Medium|
 |545|545|[boundary-of-binary-tree](https://leetcode.com/problems/boundary-of-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/boundary-of-binary-tree/)|Medium|
 |546|546|[remove-boxes](https://leetcode.com/problems/remove-boxes)||[:memo:](https://leetcode.com/articles/remove-boxes/)|Hard|

@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-04-10 20:25:51
+Update time:  2020-04-10 23:13:53
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **280   /   1289** problems
+I have solved **285   /   1289** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1255,7 +1255,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1455|1333|[filter-restaurants-by-vegan-friendly-price-and-distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance)|||Medium|
 |1456|1334|[find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)|||Medium|
 |1457|1335|[minimum-difficulty-of-a-job-schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule)|||Hard|
-|1458|1356|[sort-integers-by-the-number-of-1-bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits)|||Easy|
+|1458|1356|[sort-integers-by-the-number-of-1-bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1458-1356(sort-integers-by-the-number-of-1-bits)/sort-integers-by-the-number-of-1-bits.java)||Easy|
 |1459|1357|[apply-discount-every-n-orders](https://leetcode.com/problems/apply-discount-every-n-orders)|||Medium|
 |1460|1358|[number-of-substrings-containing-all-three-characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters)|||Medium|
 |1461|1359|[count-all-valid-pickup-and-delivery-options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options)|||Hard|
@@ -1267,7 +1267,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1469|1347|[minimum-number-of-steps-to-make-two-strings-anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram)|||Medium|
 |1470|1348|[tweet-counts-per-frequency](https://leetcode.com/problems/tweet-counts-per-frequency)|||Medium|
 |1471|1349|[maximum-students-taking-exam](https://leetcode.com/problems/maximum-students-taking-exam)|||Hard|
-|1472|1370|[increasing-decreasing-string](https://leetcode.com/problems/increasing-decreasing-string)|||Easy|
+|1472|1370|[increasing-decreasing-string](https://leetcode.com/problems/increasing-decreasing-string)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1472-1370(increasing-decreasing-string)/increasing-decreasing-string.java)||Easy|
 |1473|1371|[find-the-longest-substring-containing-vowels-in-even-counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts)|||Medium|
 |1474|1372|[longest-zigzag-path-in-a-binary-tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree)|||Medium|
 |1475|1373|[maximum-sum-bst-in-binary-tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree)|||Hard|
@@ -1283,11 +1283,11 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1487|1386|[cinema-seat-allocation](https://leetcode.com/problems/cinema-seat-allocation)|||Medium|
 |1488|1387|[sort-integers-by-the-power-value](https://leetcode.com/problems/sort-integers-by-the-power-value)|||Medium|
 |1489|1388|[pizza-with-3n-slices](https://leetcode.com/problems/pizza-with-3n-slices)|||Hard|
-|1490|1374|[generate-a-string-with-characters-that-have-odd-counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts)|||Easy|
+|1490|1374|[generate-a-string-with-characters-that-have-odd-counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1490-1374(generate-a-string-with-characters-that-have-odd-counts)/generate-a-string-with-characters-that-have-odd-counts.java)||Easy|
 |1491|1375|[bulb-switcher-iii](https://leetcode.com/problems/bulb-switcher-iii)|||Medium|
 |1492|1376|[time-needed-to-inform-all-employees](https://leetcode.com/problems/time-needed-to-inform-all-employees)|||Medium|
 |1493|1377|[frog-position-after-t-seconds](https://leetcode.com/problems/frog-position-after-t-seconds)|||Hard|
-|1496|1380|[lucky-numbers-in-a-matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix)|||Easy|
+|1496|1380|[lucky-numbers-in-a-matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1496-1380(lucky-numbers-in-a-matrix)/lucky-numbers-in-a-matrix.java)||Easy|
 |1497|1381|[design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation)|||Medium|
 |1498|1379|[find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)|||Medium|
 |1499|1383|[maximum-performance-of-a-team](https://leetcode.com/problems/maximum-performance-of-a-team)|||Hard|
@@ -1298,7 +1298,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1505|1389|[create-target-array-in-the-given-order](https://leetcode.com/problems/create-target-array-in-the-given-order)|||Easy|
 |1507|1391|[check-if-there-is-a-valid-path-in-a-grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid)|||Medium|
 |1508|1392|[longest-happy-prefix](https://leetcode.com/problems/longest-happy-prefix)|||Hard|
-|1510|1394|[find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array)||[:memo:](https://leetcode.com/articles/find-lucky-integer-in-an-array/)|Easy|
+|1510|1394|[find-lucky-integer-in-an-array](https://leetcode.com/problems/find-lucky-integer-in-an-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1510-1394(find-lucky-integer-in-an-array)/find-lucky-integer-in-an-array.java)|[:memo:](https://leetcode.com/articles/find-lucky-integer-in-an-array/)|Easy|
 |1511|1395|[count-number-of-teams](https://leetcode.com/problems/count-number-of-teams)|||Medium|
 |1512|1396|[design-underground-system](https://leetcode.com/problems/design-underground-system)||[:memo:](https://leetcode.com/articles/design-underground-system/)|Medium|
 |1513|1397|[find-all-good-strings](https://leetcode.com/problems/find-all-good-strings)|||Hard|

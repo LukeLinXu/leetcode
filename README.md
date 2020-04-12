@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-04-11 07:25:30
+Update time:  2020-04-12 13:41:01
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **286   /   1289** problems
+I have solved **287   /   1293** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1049,7 +1049,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1124|1153|[string-transforms-into-another-string](https://leetcode.com/problems/string-transforms-into-another-string)|:lock:||Hard|
 |1125|1166|[design-file-system](https://leetcode.com/problems/design-file-system)|:lock:||Medium|
 |1126|1167|[minimum-cost-to-connect-sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks)|:lock:||Medium|
-|1127|1046|[last-stone-weight](https://leetcode.com/problems/last-stone-weight)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1127-1046(last-stone-weight)/last-stone-weight.java)||Easy|
+|1127|1046|[last-stone-weight](https://leetcode.com/problems/last-stone-weight)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1127-1046(last-stone-weight)/last-stone-weight.java)|[:memo:](https://leetcode.com/articles/last-stone-weight/)|Easy|
 |1128|1047|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1128-1047(remove-all-adjacent-duplicates-in-string)/remove-all-adjacent-duplicates-in-string.java)|[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string/)|Easy|
 |1129|1048|[longest-string-chain](https://leetcode.com/problems/longest-string-chain)|||Medium|
 |1130|1049|[last-stone-weight-ii](https://leetcode.com/problems/last-stone-weight-ii)|||Medium|
@@ -1291,7 +1291,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1497|1381|[design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation)|||Medium|
 |1498|1379|[find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)|||Medium|
 |1499|1383|[maximum-performance-of-a-team](https://leetcode.com/problems/maximum-performance-of-a-team)|||Hard|
-|1500|1399|[count-largest-group](https://leetcode.com/problems/count-largest-group)|||Easy|
+|1500|1399|[count-largest-group](https://leetcode.com/problems/count-largest-group)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1500-1399(count-largest-group)/count-largest-group.java)||Easy|
 |1501|1401|[circle-and-rectangle-overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping)|||Medium|
 |1502|1400|[construct-k-palindrome-strings](https://leetcode.com/problems/construct-k-palindrome-strings)|||Medium|
 |1503|1402|[reducing-dishes](https://leetcode.com/problems/reducing-dishes)|||Hard|
@@ -1305,3 +1305,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1519|1403|[minimum-subsequence-in-non-increasing-order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order)|||Easy|
 |1520|1404|[number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one)|||Medium|
 |1522|1406|[stone-game-iii](https://leetcode.com/problems/stone-game-iii)|||Hard|
+|1524|1408|[string-matching-in-an-array](https://leetcode.com/problems/string-matching-in-an-array)|||Easy|
+|1525|1409|[queries-on-a-permutation-with-key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|||Medium|
+|1526|1410|[html-entity-parser](https://leetcode.com/problems/html-entity-parser)|||Medium|
+|1527|1411|[number-of-ways-to-paint-n-3-grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid)|||Hard|

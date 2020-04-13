@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-04-12 13:41:01
+Update time:  2020-04-13 06:28:42
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **287   /   1293** problems
+I have solved **288   /   1293** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -130,7 +130,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |112|112|[path-sum](https://leetcode.com/problems/path-sum)||[:memo:](https://leetcode.com/articles/path-sum/)|Easy|
 |113|113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)||[:memo:](https://leetcode.com/articles/path-sum-ii/)|Medium|
 |114|114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)||[:memo:](https://leetcode.com/articles/flatten-binary-tree-to-linked-list/)|Medium|
-|115|115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)|||Hard|
+|115|115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)||[:memo:](https://leetcode.com/articles/distinct-subsequences/)|Hard|
 |116|116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)||[:memo:](https://leetcode.com/articles/populating-next-right-pointers-in-each-node/)|Medium|
 |117|117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)||[:memo:](https://leetcode.com/articles/populating-next-right-pointers-in-each-node-ii/)|Medium|
 |118|118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0118-0118(pascals-triangle)/pascals-triangle.java)|[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
@@ -510,7 +510,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |522|522|[longest-uncommon-subsequence-ii](https://leetcode.com/problems/longest-uncommon-subsequence-ii)||[:memo:](https://leetcode.com/articles/longest-uncommon-subsequence-ii/)|Medium|
 |523|523|[continuous-subarray-sum](https://leetcode.com/problems/continuous-subarray-sum)||[:memo:](https://leetcode.com/articles/continous-subarray-sum/)|Medium|
 |524|524|[longest-word-in-dictionary-through-deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting)||[:memo:](https://leetcode.com/articles/longest-word-in-dictionary-through-deletion/)|Medium|
-|525|525|[contiguous-array](https://leetcode.com/problems/contiguous-array)||[:memo:](https://leetcode.com/articles/contiguous-array/)|Medium|
+|525|525|[contiguous-array](https://leetcode.com/problems/contiguous-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0525-0525(contiguous-array)/contiguous-array.java)|[:memo:](https://leetcode.com/articles/contiguous-array/)|Medium|
 |526|526|[beautiful-arrangement](https://leetcode.com/problems/beautiful-arrangement)||[:memo:](https://leetcode.com/articles/beautiful-arrangement/)|Medium|
 |527|527|[word-abbreviation](https://leetcode.com/problems/word-abbreviation)|:lock:|[:memo:](https://leetcode.com/articles/word-abbreviation/)|Hard|
 |529|529|[minesweeper](https://leetcode.com/problems/minesweeper)|||Medium|

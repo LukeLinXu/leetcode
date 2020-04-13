@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-04-13 06:28:42
+Update time:  2020-04-13 10:17:40
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **288   /   1293** problems
+I have solved **289   /   1293** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -73,7 +73,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |55|55|[jump-game](https://leetcode.com/problems/jump-game)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0055-0055(jump-game)/jump-game.java)|[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
 |56|56|[merge-intervals](https://leetcode.com/problems/merge-intervals)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0056-0056(merge-intervals)/merge-intervals.java)|[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
 |57|57|[insert-interval](https://leetcode.com/problems/insert-interval)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0057-0057(insert-interval)/insert-interval.java)|[:memo:](https://leetcode.com/articles/insert-interval/)|Hard|
-|58|58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0058-0058(length-of-last-word)/length-of-last-word.java)||Easy|
+|58|58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0058-0058(length-of-last-word)/length-of-last-word.java)|[:memo:](https://leetcode.com/articles/length-of-last-word/)|Easy|
 |59|59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0059-0059(spiral-matrix-ii)/spiral-matrix-ii.java)||Medium|
 |60|60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)||[:memo:](https://leetcode.com/articles/permutation-sequence/)|Medium|
 |61|61|[rotate-list](https://leetcode.com/problems/rotate-list)||[:memo:](https://leetcode.com/articles/rotate-list/)|Medium|
@@ -158,7 +158,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |140|140|[word-break-ii](https://leetcode.com/problems/word-break-ii)||[:memo:](https://leetcode.com/articles/word-break-ii/)|Hard|
 |141|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0141-0141(linked-list-cycle)/linked-list-cycle.java)|[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
 |142|142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)||[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
-|143|143|[reorder-list](https://leetcode.com/problems/reorder-list)|||Medium|
+|143|143|[reorder-list](https://leetcode.com/problems/reorder-list)||[:memo:](https://leetcode.com/articles/reorder-list/)|Medium|
 |144|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-transversal/)|Medium|
 |145|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-transversal/)|Hard|
 |146|146|[lru-cache](https://leetcode.com/problems/lru-cache)||[:memo:](https://leetcode.com/articles/lru-cache/)|Medium|
@@ -385,7 +385,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |384|384|[shuffle-an-array](https://leetcode.com/problems/shuffle-an-array)||[:memo:](https://leetcode.com/articles/shuffle-an-array/)|Medium|
 |385|385|[mini-parser](https://leetcode.com/problems/mini-parser)|||Medium|
 |386|386|[lexicographical-numbers](https://leetcode.com/problems/lexicographical-numbers)|||Medium|
-|387|387|[first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string)||[:memo:](https://leetcode.com/articles/first-unique-character-in-a-string/)|Easy|
+|387|387|[first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0387-0387(first-unique-character-in-a-string)/first-unique-character-in-a-string.java)|[:memo:](https://leetcode.com/articles/first-unique-character-in-a-string/)|Easy|
 |388|388|[longest-absolute-file-path](https://leetcode.com/problems/longest-absolute-file-path)|||Medium|
 |389|389|[find-the-difference](https://leetcode.com/problems/find-the-difference)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0389-0389(find-the-difference)/find-the-difference.java)|[:memo:](https://leetcode.com/articles/find-the-difference/)|Easy|
 |390|390|[elimination-game](https://leetcode.com/problems/elimination-game)|||Medium|

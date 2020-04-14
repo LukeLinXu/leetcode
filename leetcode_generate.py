@@ -19,11 +19,13 @@ from pathlib import Path
 from selenium import webdriver
 from collections import namedtuple, OrderedDict
 
+from webdriver_manager.chrome import ChromeDriverManager
+
 HOME = Path.cwd()
 MAX_DIGIT_LEN = 4 # 1000+ PROBLEMS
 SOLUTION_FOLDER_NAME = 'solutions'
 SOLUTION_FOLDER = Path.joinpath(HOME, SOLUTION_FOLDER_NAME)
-CONFIG_FILE = Path.joinpath(HOME, 'config.cfg')
+CONFIG_FILE = Path.joinpath(HOME, 'config.json')
 COOKIE_PATH = Path.joinpath(HOME, 'cookies.json')
 BASE_URL = 'https://leetcode.com'
 # If you have proxy, change PROXIES below
@@ -41,30 +43,25 @@ REPO_BRANCH = os.popen('git rev-parse --abbrev-ref HEAD').read().rstrip()
 
 
 def get_config_from_file():
-    cp = configparser.ConfigParser()
-    cp.read(CONFIG_FILE)
-    if 'leetcode' not in list(cp.sections()):
-        raise Exception('Please create config.cfg first.')
 
-    username = cp.get('leetcode', 'username')
-    if os.getenv('leetcode_username'):
-        username = os.getenv('leetcode_username')
-    password = cp.get('leetcode', 'password')
-    if os.getenv('leetcode_password'):
-        password = os.getenv('leetcode_password')
+    with open(CONFIG_FILE) as json_file:
+        data = json.load(json_file)
+
+    username = data['username']
+    password = data['password']
     if not username or not password:  # username and password not none
         raise Exception(
             'Please input your username and password in config.cfg.'
         )
 
-    language = cp.get('leetcode', 'language')
+    language = data['language']
     if not language:
         language = 'python'  # language default python
-    repo = cp.get('leetcode', 'repo')
+    repo = data['repo']
     if not repo:
         raise Exception('Please input your Github repo address')
 
-    driverpath = cp.get('leetcode', 'driverpath')
+    driverpath = data['driverpath']
     rst = dict(
         username=username,
         password=password,
@@ -207,7 +204,7 @@ class Leetcode:
         options.add_argument('--disable-gpu')
         executable_path = CONFIG.get('driverpath')
         driver = webdriver.Chrome(
-            chrome_options=options, executable_path=executable_path
+            chrome_options=options
         )
         driver.get(LOGIN_URL)
 
@@ -602,7 +599,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
     def push_to_github(self):
         strdate = datetime.datetime.now().strftime('%Y-%m-%d')
         cmd_git_add = 'git add .'
-        cmd_git_commit = 'git commit -m "update at {date}"'.format(
+        cmd_git_commit = 'git commit -m "[skip ci] update at {date}"'.format(
             date=strdate
         )
         cmd_git_push = 'git push -u origin {branch}'.format(

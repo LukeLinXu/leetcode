@@ -111,3 +111,4 @@ log/
 
 # Do not push sensitive files
 config.cfg
+config.json

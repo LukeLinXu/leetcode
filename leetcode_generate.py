@@ -281,6 +281,7 @@ class Leetcode:
             return False
         self.load_submissions()
         self.load_solutions_to_items()
+        return True
 
     def _generate_items_from_api(self, json_data):
         stat_status_pairs = json_data['stat_status_pairs']

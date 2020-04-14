@@ -35,14 +35,17 @@
 //
 
 
-public class Solution {
+class Solution {
+    /**
+     * 直接
+     */
     public int titleToNumber(String s) {
-        int num = 0;
-        int off = 'A' - 1;
-        for(int i = 0; i < s.length(); i++){
-            char c = s.charAt(s.length() - 1 - i);
-            num += (c - off) * (Math.pow(26, i));
+        int len = s.length();
+        int count = 0;
+        for(int i = len - 1; i >= 0; i--){
+            int value = s.charAt(i) - 'A'+1;
+            count += value*Math.pow(26, len - i - 1);
         }
-        return num;
+        return count;
     }
 }

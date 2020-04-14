@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-04-14 13:30:35
+Update time:  2020-04-14 16:54:27
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **289   /   1293** problems
+I have solved **290   /   1293** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -494,7 +494,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |503|503|[next-greater-element-ii](https://leetcode.com/problems/next-greater-element-ii)||[:memo:](https://leetcode.com/articles/next-greater-element-ii/)|Medium|
 |504|504|[base-7](https://leetcode.com/problems/base-7)|||Easy|
 |505|505|[the-maze-ii](https://leetcode.com/problems/the-maze-ii)|:lock:|[:memo:](https://leetcode.com/articles/the-maze-ii/)|Medium|
-|506|506|[relative-ranks](https://leetcode.com/problems/relative-ranks)|||Easy|
+|506|506|[relative-ranks](https://leetcode.com/problems/relative-ranks)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0506-0506(relative-ranks)/relative-ranks.java)||Easy|
 |507|507|[perfect-number](https://leetcode.com/problems/perfect-number)||[:memo:](https://leetcode.com/articles/perfect-number/)|Easy|
 |508|508|[most-frequent-subtree-sum](https://leetcode.com/problems/most-frequent-subtree-sum)|||Medium|
 |509|510|[inorder-successor-in-bst-ii](https://leetcode.com/problems/inorder-successor-in-bst-ii)|:lock:|[:memo:](https://leetcode.com/articles/inorder-successor-in-a-bst-ii/)|Medium|

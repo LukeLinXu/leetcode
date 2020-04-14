@@ -5,21 +5,18 @@
 # Repo:   https://github.com/bonfy/leetcode
 # Usage:  Leetcode solution downloader and auto generate readme
 #
-import requests
-import os
-import configparser
-import json
-import time
 import datetime
+import html
+import json
+import os
 import re
 import sys
-import html
-
-from pathlib import Path
-from selenium import webdriver
+import time
 from collections import namedtuple, OrderedDict
+from pathlib import Path
 
-from webdriver_manager.chrome import ChromeDriverManager
+import requests
+from selenium import webdriver
 
 HOME = Path.cwd()
 MAX_DIGIT_LEN = 4 # 1000+ PROBLEMS

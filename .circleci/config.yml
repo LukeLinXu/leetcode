@@ -15,7 +15,6 @@ jobs:
       - run: echo $CONFIG > config.json
       - run: git config user.email "dev.linxu@gmail.com"
       - run: git config user.name "Luke Lin"
-      - run: sudo pip3 install webdriver-manager
       - run: sudo pip3 install -r req.txt
       - run: python3 leetcode_generate.py
 

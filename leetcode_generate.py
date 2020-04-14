@@ -235,6 +235,21 @@ class Leetcode:
         }
         self.session.cookies.update(self.cookies)
 
+    def checkHasNewUpdate(self):
+        f = open("README.md", "r")
+        hasNewUpdate = False
+        for x in f:
+            if 'I have solved' in x:
+                temp = 'I have solved **{num_solved}   /   {num_total}** problems\n'.format(
+                    num_solved=self.num_solved,
+                    num_total=self.num_total
+                )
+                hasNewUpdate = x != temp
+                break
+        f.close()
+
+        return hasNewUpdate
+
     def load_items_from_api(self):
         """ load items from api"""
         api_url = self.base_url + '/api/problems/algorithms/'  # NOQA
@@ -252,6 +267,7 @@ class Leetcode:
         self.items = list(self._generate_items_from_api(rst))
         self.num_lock = len([i for i in self.items if i.is_lock])
         self.items.reverse()
+        return self.checkHasNewUpdate()
 
     def load(self):
         """
@@ -264,7 +280,8 @@ class Leetcode:
         # TODO: here can optimize
         if not self.is_login:
             self.login()
-        self.load_items_from_api()
+        if not self.load_items_from_api():
+            return False
         self.load_submissions()
         self.load_solutions_to_items()
 
@@ -698,7 +715,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 def do_job(leetcode):
     a = datetime.datetime.now()
-    leetcode.load()
+    if not leetcode.load():
+        print('After checking, there is no update!')
+        return
     print('Leetcode load self info')
     if len(sys.argv) == 1:
         # simple download

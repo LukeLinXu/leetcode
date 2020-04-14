@@ -598,6 +598,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
     def push_to_github(self):
         strdate = datetime.datetime.now().strftime('%Y-%m-%d')
+        cmd_git_pull = 'git pull'
         cmd_git_add = 'git add .'
         cmd_git_commit = 'git commit -m "[skip ci] update at {date}"'.format(
             date=strdate
@@ -605,6 +606,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
         cmd_git_push = 'git push -u origin {branch}'.format(
             branch=REPO_BRANCH
         )
+        os.system(cmd_git_pull)
         os.system(cmd_git_add)
         os.system(cmd_git_commit)
         os.system(cmd_git_push)

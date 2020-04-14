@@ -19,11 +19,13 @@ from pathlib import Path
 from selenium import webdriver
 from collections import namedtuple, OrderedDict
 
+from webdriver_manager.chrome import ChromeDriverManager
+
 HOME = Path.cwd()
 MAX_DIGIT_LEN = 4 # 1000+ PROBLEMS
 SOLUTION_FOLDER_NAME = 'solutions'
 SOLUTION_FOLDER = Path.joinpath(HOME, SOLUTION_FOLDER_NAME)
-CONFIG_FILE = Path.joinpath(HOME, 'config.cfg')
+CONFIG_FILE = Path.joinpath(HOME, 'config.json')
 COOKIE_PATH = Path.joinpath(HOME, 'cookies.json')
 BASE_URL = 'https://leetcode.com'
 # If you have proxy, change PROXIES below
@@ -41,30 +43,25 @@ REPO_BRANCH = os.popen('git rev-parse --abbrev-ref HEAD').read().rstrip()
 
 
 def get_config_from_file():
-    cp = configparser.ConfigParser()
-    cp.read(CONFIG_FILE)
-    if 'leetcode' not in list(cp.sections()):
-        raise Exception('Please create config.cfg first.')
 
-    username = cp.get('leetcode', 'username')
-    if os.getenv('leetcode_username'):
-        username = os.getenv('leetcode_username')
-    password = cp.get('leetcode', 'password')
-    if os.getenv('leetcode_password'):
-        password = os.getenv('leetcode_password')
+    with open(CONFIG_FILE) as json_file:
+        data = json.load(json_file)
+
+    username = data['username']
+    password = data['password']
     if not username or not password:  # username and password not none
         raise Exception(
             'Please input your username and password in config.cfg.'
         )
 
-    language = cp.get('leetcode', 'language')
+    language = data['language']
     if not language:
         language = 'python'  # language default python
-    repo = cp.get('leetcode', 'repo')
+    repo = data['repo']
     if not repo:
         raise Exception('Please input your Github repo address')
 
-    driverpath = cp.get('leetcode', 'driverpath')
+    driverpath = data['driverpath']
     rst = dict(
         username=username,
         password=password,
@@ -207,7 +204,7 @@ class Leetcode:
         options.add_argument('--disable-gpu')
         executable_path = CONFIG.get('driverpath')
         driver = webdriver.Chrome(
-            chrome_options=options, executable_path=executable_path
+            chrome_options=options
         )
         driver.get(LOGIN_URL)
 
@@ -309,6 +306,7 @@ class Leetcode:
             for cookie in webdriver_cookies
         }
         self.session.cookies.update(self.cookies)
+        self.session.trust_env = False
         r = self.session.get(api_url, proxies=PROXIES)
         if r.status_code != 200:
             return False
@@ -601,7 +599,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
     def push_to_github(self):
         strdate = datetime.datetime.now().strftime('%Y-%m-%d')
         cmd_git_add = 'git add .'
-        cmd_git_commit = 'git commit -m "update at {date}"'.format(
+        cmd_git_commit = 'git commit -m "[skip ci] update at {date}"'.format(
             date=strdate
         )
         cmd_git_push = 'git push -u origin {branch}'.format(
@@ -611,8 +609,93 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
         os.system(cmd_git_commit)
         os.system(cmd_git_push)
 
+    def write_sort_by_ac(self):
+        """Write Readme to current folder"""
+        languages_readme = ','.join([x.capitalize() for x in self.languages])
+        md = '''# :pencil2: Leetcode Solutions with {language}
+Update time:  {tm}
+
+Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
+
+I have solved **{num_solved}   /   {num_total}** problems
+while there are **{num_lock}** problems still locked.
+
+If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
+
+If you have any question, please give me an [issue]({repo}/issues).
+
+If you are loving solving problems in leetcode, please contact me to enjoy it together!
+
+(Notes: :lock: means you need to buy a book from Leetcode to unlock the problem)
+
+| DB# | UI# | Title | Source Code | Article | Acceptance |
+|:---:|:---:|:---:|:---:|:---:|:---:|'''.format(
+            language=languages_readme,
+            tm=time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())),
+            num_solved=self.num_solved,
+            num_total=self.num_total,
+            num_lock=self.num_lock,
+            repo=CONFIG['repo'],
+        )
+        md += '\n'
+        temp_list = filter(lambda x: not x.is_lock, self.items)
+        difficulty_map = {
+            'Easy': 3,
+            'Medium': 2,
+            'Hard': 1
+        }
+        temp_list = sorted(temp_list, key=lambda x: (difficulty_map[x.difficulty], x.acceptance), reverse=True)
+        for item in temp_list:
+            article = ''
+            if item.question__article__slug:
+                article = '[:memo:](https://leetcode.com/articles/{article}/)'.format(
+                    article=item.question__article__slug
+                )
+            if item.is_lock:
+                language = ':lock:'
+            else:
+                if item.solutions:
+                    dirname = '{folder}/{id}-{uiid}({title})'.format(
+                        folder=SOLUTION_FOLDER_NAME,
+                        id=str(item.question_id).zfill(MAX_DIGIT_LEN),
+                        uiid=str(item.frontend_question_id).zfill(MAX_DIGIT_LEN),
+                        title=item.question__title_slug,
+                    )
+                    language = ''
+                    language_lst = [
+                        i['lang']
+                        for i in item.solutions
+                        if i['lang'] in self.languages
+                    ]
+                    while language_lst:
+                        lan = language_lst.pop()
+                        language += '[{language}]({repo}/blob/{branch}/{dirname}/{title}.{ext})'.format(
+                            branch=REPO_BRANCH,
+                            language=lan.capitalize(),
+                            repo=CONFIG['repo'],
+                            dirname=dirname,
+                            title=item.question__title_slug,
+                            ext=self.prolangdict[lan].ext,
+                        )
+                        language += ' '
+                else:
+                    language = ''
+            language = language.strip()
+            md += '|{id}|{uiid}|[{title}]({url})|{language}|{article}|{difficulty}|\n'.format(
+                id=item.question_id,
+                uiid=item.frontend_question_id,
+                title=item.question__title_slug,
+                url=item.url,
+                language=language,
+                article=article,
+                difficulty=item.acceptance,
+            )
+        with open('SortByAC.md', 'w') as f:
+            f.write(md)
+
 
 def do_job(leetcode):
+    a = datetime.datetime.now()
     leetcode.load()
     print('Leetcode load self info')
     if len(sys.argv) == 1:
@@ -629,12 +712,16 @@ def do_job(leetcode):
     print('Leetcode finish dowload')
     leetcode.write_readme()
     print('Leetcode finish write readme')
+    leetcode.write_sort_by_ac()
+    print('Leetcode finish write SortByAC')
     leetcode.push_to_github()
     print('push to github')
-
+    b = datetime.datetime.now()
+    print('the job takes:')
+    print(b - a)
 
 if __name__ == '__main__':
     leetcode = Leetcode()
-    while True:
-        do_job(leetcode)
-        time.sleep(24 * 60 * 60)
+    do_job(leetcode)
+    # while True:
+    #     time.sleep(24 * 60 * 60)

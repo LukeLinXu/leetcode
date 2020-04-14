@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
+.idea/
 build/
 develop-eggs/
 dist/
@@ -110,3 +111,4 @@ log/
 
 # Do not push sensitive files
 config.cfg
+config.json

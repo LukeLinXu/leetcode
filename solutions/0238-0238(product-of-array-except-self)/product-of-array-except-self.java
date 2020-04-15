@@ -17,6 +17,9 @@
 
 
 public class Solution {
+    /**
+    * 精妙
+    */
     public int[] productExceptSelf(int[] nums) {
         int[] temp = new int[nums.length];
         temp[0] = 1;

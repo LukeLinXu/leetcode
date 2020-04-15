@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-04-14 16:54:27
+Update time:  2020-04-15 13:31:39
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **290   /   1293** problems
+I have solved **292   /   1293** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -890,7 +890,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |958|922|[sort-array-by-parity-ii](https://leetcode.com/problems/sort-array-by-parity-ii)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0958-0922(sort-array-by-parity-ii)/sort-array-by-parity-ii.java)|[:memo:](https://leetcode.com/articles/sort-array-by-parity-ii/)|Easy|
 |959|923|[3sum-with-multiplicity](https://leetcode.com/problems/3sum-with-multiplicity)||[:memo:](https://leetcode.com/articles/3sum-with-multiplicity/)|Medium|
 |960|924|[minimize-malware-spread](https://leetcode.com/problems/minimize-malware-spread)||[:memo:](https://leetcode.com/articles/minimize-malware-spread/)|Hard|
-|961|925|[long-pressed-name](https://leetcode.com/problems/long-pressed-name)||[:memo:](https://leetcode.com/articles/long-pressed-name/)|Easy|
+|961|925|[long-pressed-name](https://leetcode.com/problems/long-pressed-name)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0961-0925(long-pressed-name)/long-pressed-name.java)|[:memo:](https://leetcode.com/articles/long-pressed-name/)|Easy|
 |962|926|[flip-string-to-monotone-increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing)||[:memo:](https://leetcode.com/articles/flip-string-to-monotone-increasing/)|Medium|
 |963|927|[three-equal-parts](https://leetcode.com/problems/three-equal-parts)||[:memo:](https://leetcode.com/articles/three-equal-parts/)|Hard|
 |964|928|[minimize-malware-spread-ii](https://leetcode.com/problems/minimize-malware-spread-ii)||[:memo:](https://leetcode.com/articles/minimize-malware-spread-ii/)|Hard|
@@ -1090,7 +1090,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1177|1245|[tree-diameter](https://leetcode.com/problems/tree-diameter)|:lock:||Medium|
 |1178|1216|[valid-palindrome-iii](https://leetcode.com/problems/valid-palindrome-iii)|:lock:||Hard|
 |1183|1093|[statistics-from-a-large-sample](https://leetcode.com/problems/statistics-from-a-large-sample)|||Medium|
-|1184|1094|[car-pooling](https://leetcode.com/problems/car-pooling)|||Medium|
+|1184|1094|[car-pooling](https://leetcode.com/problems/car-pooling)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1184-1094(car-pooling)/car-pooling.java)||Medium|
 |1185|1095|[find-in-mountain-array](https://leetcode.com/problems/find-in-mountain-array)|||Hard|
 |1188|1096|[brace-expansion-ii](https://leetcode.com/problems/brace-expansion-ii)|||Hard|
 |1189|1256|[encode-number](https://leetcode.com/problems/encode-number)|:lock:||Medium|

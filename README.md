@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-04-17 11:06:37
+Update time:  2020-04-20 13:14:47
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **294   /   1293** problems
+I have solved **294   /   1301** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -402,7 +402,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |401|401|[binary-watch](https://leetcode.com/problems/binary-watch)|||Easy|
 |402|402|[remove-k-digits](https://leetcode.com/problems/remove-k-digits)||[:memo:](https://leetcode.com/articles/remove-k-digits/)|Medium|
 |403|403|[frog-jump](https://leetcode.com/problems/frog-jump)||[:memo:](https://leetcode.com/articles/frog-jump/)|Hard|
-|404|404|[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0404-0404(sum-of-left-leaves)/sum-of-left-leaves.java)||Easy|
+|404|404|[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0404-0404(sum-of-left-leaves)/sum-of-left-leaves.java)|[:memo:](https://leetcode.com/articles/sum-of-left-leaves/)|Easy|
 |405|405|[convert-a-number-to-hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)|||Easy|
 |406|406|[queue-reconstruction-by-height](https://leetcode.com/problems/queue-reconstruction-by-height)||[:memo:](https://leetcode.com/articles/queue-reconstruction-by-height/)|Medium|
 |407|407|[trapping-rain-water-ii](https://leetcode.com/problems/trapping-rain-water-ii)|||Hard|
@@ -1302,6 +1302,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1511|1395|[count-number-of-teams](https://leetcode.com/problems/count-number-of-teams)|||Medium|
 |1512|1396|[design-underground-system](https://leetcode.com/problems/design-underground-system)||[:memo:](https://leetcode.com/articles/design-underground-system/)|Medium|
 |1513|1397|[find-all-good-strings](https://leetcode.com/problems/find-all-good-strings)|||Hard|
+|1514|1413|[minimum-value-to-get-positive-step-by-step-sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum)|||Easy|
+|1515|1414|[find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k)|||Medium|
+|1516|1415|[the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n)|||Medium|
+|1517|1416|[restore-the-array](https://leetcode.com/problems/restore-the-array)|||Hard|
 |1519|1403|[minimum-subsequence-in-non-increasing-order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order)|||Easy|
 |1520|1404|[number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one)|||Medium|
 |1522|1406|[stone-game-iii](https://leetcode.com/problems/stone-game-iii)|||Hard|
@@ -1309,3 +1313,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1525|1409|[queries-on-a-permutation-with-key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|||Medium|
 |1526|1410|[html-entity-parser](https://leetcode.com/problems/html-entity-parser)|||Medium|
 |1527|1411|[number-of-ways-to-paint-n-3-grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid)|||Hard|
+|1532|1417|[reformat-the-string](https://leetcode.com/problems/reformat-the-string)|||Easy|
+|1533|1418|[display-table-of-food-orders-in-a-restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant)|||Medium|
+|1534|1419|[minimum-number-of-frogs-croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking)|||Medium|
+|1535|1420|[build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons)|||Hard|

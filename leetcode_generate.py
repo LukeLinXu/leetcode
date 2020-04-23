@@ -346,11 +346,12 @@ class Leetcode:
 
             resp = self.session.get(submissions_url, proxies=PROXIES)
             print(submissions_url, ':', resp.status_code)
-            if resp.status_code != 200 and retry_limit > 0:
-                retry_limit = retry_limit - 1
-                continue
-            else:
-                raise Exception('too many load failed case!\n')
+            if resp.status_code != 200:
+                if retry_limit > 0:
+                    retry_limit = retry_limit - 1
+                    continue
+                else:
+                    raise Exception('too many load failed case!\n')
             data = resp.json()
             if 'has_next' not in data.keys():
                 raise Exception('Get submissions wrong, Check network\n')

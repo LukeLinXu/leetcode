@@ -335,6 +335,7 @@ class Leetcode:
         print('API load submissions request 2 seconds per request')
         print('Please wait ...')
         limit = 20
+        retry_limit = 20
         offset = 0
         last_key = ''
         while True:
@@ -344,8 +345,12 @@ class Leetcode:
             )
 
             resp = self.session.get(submissions_url, proxies=PROXIES)
-            # print(submissions_url, ':', resp.status_code)
-            assert resp.status_code == 200
+            print(submissions_url, ':', resp.status_code)
+            if resp.status_code != 200 and retry_limit > 0:
+                retry_limit = retry_limit - 1
+                continue
+            else:
+                raise Exception('too many load failed case!\n')
             data = resp.json()
             if 'has_next' not in data.keys():
                 raise Exception('Get submissions wrong, Check network\n')

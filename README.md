@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-04-23 23:08:25
+Update time:  2020-04-24 16:25:24
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **296   /   1301** problems
+I have solved **297   /   1301** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -161,7 +161,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |143|143|[reorder-list](https://leetcode.com/problems/reorder-list)||[:memo:](https://leetcode.com/articles/reorder-list/)|Medium|
 |144|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-transversal/)|Medium|
 |145|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-transversal/)|Hard|
-|146|146|[lru-cache](https://leetcode.com/problems/lru-cache)||[:memo:](https://leetcode.com/articles/lru-cache/)|Medium|
+|146|146|[lru-cache](https://leetcode.com/problems/lru-cache)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0146-0146(lru-cache)/lru-cache.java)|[:memo:](https://leetcode.com/articles/lru-cache/)|Medium|
 |147|147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|||Medium|
 |148|148|[sort-list](https://leetcode.com/problems/sort-list)|||Medium|
 |149|149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line)||[:memo:](https://leetcode.com/articles/max-points-on-a-line/)|Hard|
@@ -312,7 +312,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |311|311|[sparse-matrix-multiplication](https://leetcode.com/problems/sparse-matrix-multiplication)|:lock:||Medium|
 |312|312|[burst-balloons](https://leetcode.com/problems/burst-balloons)||[:memo:](https://leetcode.com/articles/burst-balloons/)|Hard|
 |313|313|[super-ugly-number](https://leetcode.com/problems/super-ugly-number)|||Medium|
-|314|314|[binary-tree-vertical-order-traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal)|:lock:||Medium|
+|314|314|[binary-tree-vertical-order-traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal)|:lock:|[:memo:](https://leetcode.com/articles/binary-tree-vertical-order-traversal/)|Medium|
 |315|315|[count-of-smaller-numbers-after-self](https://leetcode.com/problems/count-of-smaller-numbers-after-self)|||Hard|
 |316|316|[remove-duplicate-letters](https://leetcode.com/problems/remove-duplicate-letters)||[:memo:](https://leetcode.com/articles/remove-duplicate-letters/)|Hard|
 |317|317|[shortest-distance-from-all-buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings)|:lock:||Hard|

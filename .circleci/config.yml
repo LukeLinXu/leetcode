@@ -24,3 +24,14 @@ workflows:
     jobs:
       - build:
           context: Leetcode_Context
+  scheduled-workflow:
+    triggers:
+      - schedule:
+          cron: "30 11 * * *"
+          filters:
+            branches:
+              only: dev_luke
+
+    jobs:
+      - build:
+        context: Leetcode_Context

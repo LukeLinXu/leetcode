@@ -349,6 +349,7 @@ class Leetcode:
             if resp.status_code != 200:
                 if retry_limit > 0:
                     retry_limit = retry_limit - 1
+                    time.sleep(2.5)
                     continue
                 else:
                     raise Exception('too many load failed case!\n')

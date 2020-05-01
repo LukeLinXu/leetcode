@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-04-29 11:19:05
+Update time:  2020-05-01 11:39:36
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **300   /   1305** problems
+I have solved **301   /   1305** problems
 while there are **208** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -276,7 +276,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |275|275|[h-index-ii](https://leetcode.com/problems/h-index-ii)||[:memo:](https://leetcode.com/articles/h-index-ii/)|Medium|
 |276|276|[paint-fence](https://leetcode.com/problems/paint-fence)|:lock:||Easy|
 |277|277|[find-the-celebrity](https://leetcode.com/problems/find-the-celebrity)|:lock:|[:memo:](https://leetcode.com/articles/find-the-celebrity/)|Medium|
-|278|278|[first-bad-version](https://leetcode.com/problems/first-bad-version)||[:memo:](https://leetcode.com/articles/first-bad-version/)|Easy|
+|278|278|[first-bad-version](https://leetcode.com/problems/first-bad-version)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0278-0278(first-bad-version)/first-bad-version.java)|[:memo:](https://leetcode.com/articles/first-bad-version/)|Easy|
 |279|279|[perfect-squares](https://leetcode.com/problems/perfect-squares)||[:memo:](https://leetcode.com/articles/perfect-squares/)|Medium|
 |280|280|[wiggle-sort](https://leetcode.com/problems/wiggle-sort)|:lock:|[:memo:](https://leetcode.com/articles/wiggle-sort/)|Medium|
 |281|281|[zigzag-iterator](https://leetcode.com/problems/zigzag-iterator)|:lock:||Medium|
@@ -1164,7 +1164,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1282|1178|[number-of-valid-words-for-each-puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle)|||Hard|
 |1284|1390|[four-divisors](https://leetcode.com/problems/four-divisors)|||Medium|
 |1285|1382|[balance-a-binary-search-tree](https://leetcode.com/problems/balance-a-binary-search-tree)|||Medium|
-|1286|1425|[constrained-subset-sum](https://leetcode.com/problems/constrained-subset-sum)|||Hard|
+|1286|1425|[constrained-subsequence-sum](https://leetcode.com/problems/constrained-subsequence-sum)|||Hard|
 |1287|1184|[distance-between-bus-stops](https://leetcode.com/problems/distance-between-bus-stops)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1287-1184(distance-between-bus-stops)/distance-between-bus-stops.java)||Easy|
 |1288|1186|[maximum-subarray-sum-with-one-deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion)|||Medium|
 |1289|1185|[day-of-the-week](https://leetcode.com/problems/day-of-the-week)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1289-1185(day-of-the-week)/day-of-the-week.java)||Easy|

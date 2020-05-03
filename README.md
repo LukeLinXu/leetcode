@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-05-02 11:38:46
+Update time:  2020-05-03 11:38:44
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **301   /   1310** problems
+I have solved **301   /   1318** problems
 while there are **213** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1319,6 +1319,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1525|1409|[queries-on-a-permutation-with-key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|||Medium|
 |1526|1410|[html-entity-parser](https://leetcode.com/problems/html-entity-parser)|||Medium|
 |1527|1411|[number-of-ways-to-paint-n-3-grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid)|||Hard|
+|1528|1431|[kids-with-the-greatest-number-of-candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)|||Easy|
+|1529|1432|[max-difference-you-can-get-from-changing-an-integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer)|||Medium|
+|1530|1433|[check-if-a-string-can-break-another-string](https://leetcode.com/problems/check-if-a-string-can-break-another-string)|||Medium|
+|1531|1434|[number-of-ways-to-wear-different-hats-to-each-other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other)|||Hard|
 |1532|1417|[reformat-the-string](https://leetcode.com/problems/reformat-the-string)|||Easy|
 |1533|1418|[display-table-of-food-orders-in-a-restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant)|||Medium|
 |1534|1419|[minimum-number-of-frogs-croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking)|||Medium|
@@ -1326,3 +1330,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1537|1422|[maximum-score-after-splitting-a-string](https://leetcode.com/problems/maximum-score-after-splitting-a-string)|||Easy|
 |1538|1423|[maximum-points-you-can-obtain-from-cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)|||Medium|
 |1539|1424|[diagonal-traverse-ii](https://leetcode.com/problems/diagonal-traverse-ii)|||Medium|
+|1547|1436|[destination-city](https://leetcode.com/problems/destination-city)|||Easy|
+|1548|1437|[check-if-all-1s-are-at-least-length-k-places-away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away)|||Medium|
+|1549|1438|[longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)|||Medium|
+|1550|1439|[find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows)|||Hard|

@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-05-11 11:39:24
+Update time:  2020-05-12 11:39:01
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **305   /   1322** problems
+I have solved **306   /   1322** problems
 while there are **213** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -523,7 +523,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |537|537|[complex-number-multiplication](https://leetcode.com/problems/complex-number-multiplication)||[:memo:](https://leetcode.com/articles/complex-number-multiplication/)|Medium|
 |538|538|[convert-bst-to-greater-tree](https://leetcode.com/problems/convert-bst-to-greater-tree)||[:memo:](https://leetcode.com/articles/convert-bst-to-greater-tree/)|Easy|
 |539|539|[minimum-time-difference](https://leetcode.com/problems/minimum-time-difference)|||Medium|
-|540|540|[single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array)||[:memo:](https://leetcode.com/articles/single-element-in-a-sorted-array/)|Medium|
+|540|540|[single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0540-0540(single-element-in-a-sorted-array)/single-element-in-a-sorted-array.java)|[:memo:](https://leetcode.com/articles/single-element-in-a-sorted-array/)|Medium|
 |541|541|[reverse-string-ii](https://leetcode.com/problems/reverse-string-ii)||[:memo:](https://leetcode.com/articles/reverse-string-ii/)|Easy|
 |542|542|[01-matrix](https://leetcode.com/problems/01-matrix)||[:memo:](https://leetcode.com/articles/01-matrix/)|Medium|
 |543|543|[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0543-0543(diameter-of-binary-tree)/diameter-of-binary-tree.java)|[:memo:](https://leetcode.com/articles/diameter-of-binary-tree/)|Easy|

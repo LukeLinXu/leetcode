@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-05-12 11:39:01
+Update time:  2020-05-13 11:39:20
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **306   /   1322** problems
+I have solved **307   /   1322** problems
 while there are **213** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -400,7 +400,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |399|399|[evaluate-division](https://leetcode.com/problems/evaluate-division)|||Medium|
 |400|400|[nth-digit](https://leetcode.com/problems/nth-digit)|||Medium|
 |401|401|[binary-watch](https://leetcode.com/problems/binary-watch)|||Easy|
-|402|402|[remove-k-digits](https://leetcode.com/problems/remove-k-digits)||[:memo:](https://leetcode.com/articles/remove-k-digits/)|Medium|
+|402|402|[remove-k-digits](https://leetcode.com/problems/remove-k-digits)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0402-0402(remove-k-digits)/remove-k-digits.java)|[:memo:](https://leetcode.com/articles/remove-k-digits/)|Medium|
 |403|403|[frog-jump](https://leetcode.com/problems/frog-jump)||[:memo:](https://leetcode.com/articles/frog-jump/)|Hard|
 |404|404|[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0404-0404(sum-of-left-leaves)/sum-of-left-leaves.java)|[:memo:](https://leetcode.com/articles/sum-of-left-leaves/)|Easy|
 |405|405|[convert-a-number-to-hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)|||Easy|

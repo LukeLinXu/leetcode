@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-05-15 11:39:11
+Update time:  2020-05-16 11:39:05
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **308   /   1322** problems
+I have solved **310   /   1322** problems
 while there are **213** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -159,7 +159,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |141|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0141-0141(linked-list-cycle)/linked-list-cycle.java)|[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
 |142|142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)||[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
 |143|143|[reorder-list](https://leetcode.com/problems/reorder-list)||[:memo:](https://leetcode.com/articles/reorder-list/)|Medium|
-|144|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-transversal/)|Medium|
+|144|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-traversal/)|Medium|
 |145|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-transversal/)|Hard|
 |146|146|[lru-cache](https://leetcode.com/problems/lru-cache)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0146-0146(lru-cache)/lru-cache.java)|[:memo:](https://leetcode.com/articles/lru-cache/)|Medium|
 |147|147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|||Medium|
@@ -326,7 +326,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |325|325|[maximum-size-subarray-sum-equals-k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k)|:lock:||Medium|
 |326|326|[power-of-three](https://leetcode.com/problems/power-of-three)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0326-0326(power-of-three)/power-of-three.java)|[:memo:](https://leetcode.com/articles/power-of-three/)|Easy|
 |327|327|[count-of-range-sum](https://leetcode.com/problems/count-of-range-sum)|||Hard|
-|328|328|[odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list)||[:memo:](https://leetcode.com/articles/odd-even-linked-list/)|Medium|
+|328|328|[odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0328-0328(odd-even-linked-list)/odd-even-linked-list.java)|[:memo:](https://leetcode.com/articles/odd-even-linked-list/)|Medium|
 |329|329|[longest-increasing-path-in-a-matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)||[:memo:](https://leetcode.com/articles/longest-increasing-path-matrix/)|Hard|
 |330|330|[patching-array](https://leetcode.com/problems/patching-array)||[:memo:](https://leetcode.com/articles/patching-array/)|Hard|
 |331|331|[verify-preorder-serialization-of-a-binary-tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/verify-preorder-serialization-of-a-binary-tree/)|Medium|
@@ -451,7 +451,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |456|456|[132-pattern](https://leetcode.com/problems/132-pattern)||[:memo:](https://leetcode.com/articles/132-pattern/)|Medium|
 |457|457|[circular-array-loop](https://leetcode.com/problems/circular-array-loop)|||Medium|
 |458|458|[poor-pigs](https://leetcode.com/problems/poor-pigs)||[:memo:](https://leetcode.com/articles/poor-pigs/)|Hard|
-|459|459|[repeated-substring-pattern](https://leetcode.com/problems/repeated-substring-pattern)|||Easy|
+|459|459|[repeated-substring-pattern](https://leetcode.com/problems/repeated-substring-pattern)||[:memo:](https://leetcode.com/articles/repeated-substring-pattern/)|Easy|
 |460|460|[lfu-cache](https://leetcode.com/problems/lfu-cache)|||Hard|
 |461|461|[hamming-distance](https://leetcode.com/problems/hamming-distance)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0461-0461(hamming-distance)/hamming-distance.java)|[:memo:](https://leetcode.com/articles/hamming-distance/)|Easy|
 |462|462|[minimum-moves-to-equal-array-elements-ii](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)||[:memo:](https://leetcode.com/articles/minimum-moves-to-equal-array-elements-ii/)|Medium|
@@ -712,7 +712,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |773|558|[logical-or-of-two-binary-grids-represented-as-quad-trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees)|||Medium|
 |774|559|[maximum-depth-of-n-ary-tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0774-0559(maximum-depth-of-n-ary-tree)/maximum-depth-of-n-ary-tree.java)|[:memo:](https://leetcode.com/articles/maximum-depth-of-n-ary-tree/)|Easy|
 |775|589|[n-ary-tree-preorder-traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0775-0589(n-ary-tree-preorder-traversal)/n-ary-tree-preorder-traversal.java)|[:memo:](https://leetcode.com/articles/n-ary-tree-preorder-traversal/)|Easy|
-|776|590|[n-ary-tree-postorder-traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0776-0590(n-ary-tree-postorder-traversal)/n-ary-tree-postorder-traversal.java)|[:memo:](https://leetcode.com/articles/n-ary-tree-postorder-transversal/)|Easy|
+|776|590|[n-ary-tree-postorder-traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0776-0590(n-ary-tree-postorder-traversal)/n-ary-tree-postorder-traversal.java)|[:memo:](https://leetcode.com/articles/n-ary-tree-postorder-traversal/)|Easy|
 |777|766|[toeplitz-matrix](https://leetcode.com/problems/toeplitz-matrix)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0777-0766(toeplitz-matrix)/toeplitz-matrix.java)|[:memo:](https://leetcode.com/articles/toeplitz-matrix/)|Easy|
 |778|767|[reorganize-string](https://leetcode.com/problems/reorganize-string)||[:memo:](https://leetcode.com/articles/reorganized-string/)|Medium|
 |779|768|[max-chunks-to-make-sorted-ii](https://leetcode.com/problems/max-chunks-to-make-sorted-ii)||[:memo:](https://leetcode.com/articles/max-chunks-to-make-sorted-ii/)|Hard|
@@ -883,7 +883,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |951|915|[partition-array-into-disjoint-intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals)||[:memo:](https://leetcode.com/articles/parition-array-into-disjoint-intervals/)|Medium|
 |952|916|[word-subsets](https://leetcode.com/problems/word-subsets)||[:memo:](https://leetcode.com/articles/word-subsets/)|Medium|
 |953|917|[reverse-only-letters](https://leetcode.com/problems/reverse-only-letters)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0953-0917(reverse-only-letters)/reverse-only-letters.java)|[:memo:](https://leetcode.com/articles/reverse-only-letters/)|Easy|
-|954|918|[maximum-sum-circular-subarray](https://leetcode.com/problems/maximum-sum-circular-subarray)||[:memo:](https://leetcode.com/articles/maximum-sub-circular-subarray/)|Medium|
+|954|918|[maximum-sum-circular-subarray](https://leetcode.com/problems/maximum-sum-circular-subarray)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0954-0918(maximum-sum-circular-subarray)/maximum-sum-circular-subarray.java)|[:memo:](https://leetcode.com/articles/maximum-sub-circular-subarray/)|Medium|
 |955|919|[complete-binary-tree-inserter](https://leetcode.com/problems/complete-binary-tree-inserter)||[:memo:](https://leetcode.com/articles/complete-binary-tree-inserter/)|Medium|
 |956|920|[number-of-music-playlists](https://leetcode.com/problems/number-of-music-playlists)||[:memo:](https://leetcode.com/articles/number-of-music-playlists/)|Hard|
 |957|921|[minimum-add-to-make-parentheses-valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)||[:memo:](https://leetcode.com/articles/minimum-add-to-make-parentheses-valid/)|Medium|

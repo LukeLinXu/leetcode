@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-05-16 11:39:05
+Update time:  2020-05-17 11:38:51
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **310   /   1322** problems
+I have solved **310   /   1330** problems
 while there are **213** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1330,6 +1330,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1537|1422|[maximum-score-after-splitting-a-string](https://leetcode.com/problems/maximum-score-after-splitting-a-string)|||Easy|
 |1538|1423|[maximum-points-you-can-obtain-from-cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)|||Medium|
 |1539|1424|[diagonal-traverse-ii](https://leetcode.com/problems/diagonal-traverse-ii)|||Medium|
+|1542|1446|[consecutive-characters](https://leetcode.com/problems/consecutive-characters)|||Easy|
+|1543|1447|[simplified-fractions](https://leetcode.com/problems/simplified-fractions)|||Medium|
+|1544|1448|[count-good-nodes-in-binary-tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)|||Medium|
+|1545|1449|[form-largest-integer-with-digits-that-add-up-to-target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target)|||Hard|
 |1547|1436|[destination-city](https://leetcode.com/problems/destination-city)|||Easy|
 |1548|1437|[check-if-all-1s-are-at-least-length-k-places-away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away)|||Medium|
 |1549|1438|[longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)|||Medium|
@@ -1338,3 +1342,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1553|1442|[count-triplets-that-can-form-two-arrays-of-equal-xor](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)|||Medium|
 |1554|1443|[minimum-time-to-collect-all-apples-in-a-tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree)|||Medium|
 |1555|1444|[number-of-ways-of-cutting-a-pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza)|||Hard|
+|1560|1450|[number-of-students-doing-homework-at-a-given-time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)|||Easy|
+|1561|1451|[rearrange-words-in-a-sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence)|||Medium|
+|1562|1452|[people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list)|||Medium|
+|1563|1453|[maximum-number-of-darts-inside-of-a-circular-dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard)|||Hard|

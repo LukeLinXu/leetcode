@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-05-17 11:38:51
+Update time:  2020-05-19 11:38:58
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **310   /   1330** problems
+I have solved **312   /   1330** problems
 while there are **213** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -547,7 +547,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |564|564|[find-the-closest-palindrome](https://leetcode.com/problems/find-the-closest-palindrome)||[:memo:](https://leetcode.com/articles/find-the-closest-palindrome/)|Hard|
 |565|565|[array-nesting](https://leetcode.com/problems/array-nesting)||[:memo:](https://leetcode.com/articles/array-nesting/)|Medium|
 |566|566|[reshape-the-matrix](https://leetcode.com/problems/reshape-the-matrix)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0566-0566(reshape-the-matrix)/reshape-the-matrix.java)|[:memo:](https://leetcode.com/articles/reshape-the-matrix/)|Easy|
-|567|567|[permutation-in-string](https://leetcode.com/problems/permutation-in-string)||[:memo:](https://leetcode.com/articles/short-permutation-in-a-long-string/)|Medium|
+|567|567|[permutation-in-string](https://leetcode.com/problems/permutation-in-string)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0567-0567(permutation-in-string)/permutation-in-string.java)|[:memo:](https://leetcode.com/articles/short-permutation-in-a-long-string/)|Medium|
 |568|568|[maximum-vacation-days](https://leetcode.com/problems/maximum-vacation-days)|:lock:|[:memo:](https://leetcode.com/articles/maximum-vacation-days/)|Hard|
 |572|572|[subtree-of-another-tree](https://leetcode.com/problems/subtree-of-another-tree)||[:memo:](https://leetcode.com/articles/subtree-of-another-tree/)|Easy|
 |573|573|[squirrel-simulation](https://leetcode.com/problems/squirrel-simulation)|:lock:|[:memo:](https://leetcode.com/articles/squirrel-simulation/)|Medium|
@@ -866,7 +866,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |934|898|[bitwise-ors-of-subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays)||[:memo:](https://leetcode.com/articles/bitwise-ors-of-subarrays/)|Medium|
 |935|899|[orderly-queue](https://leetcode.com/problems/orderly-queue)||[:memo:](https://leetcode.com/articles/orderly-queue/)|Hard|
 |936|900|[rle-iterator](https://leetcode.com/problems/rle-iterator)||[:memo:](https://leetcode.com/articles/rle-iterator/)|Medium|
-|937|901|[online-stock-span](https://leetcode.com/problems/online-stock-span)||[:memo:](https://leetcode.com/articles/online-stock-span/)|Medium|
+|937|901|[online-stock-span](https://leetcode.com/problems/online-stock-span)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0937-0901(online-stock-span)/online-stock-span.java)|[:memo:](https://leetcode.com/articles/online-stock-span/)|Medium|
 |938|902|[numbers-at-most-n-given-digit-set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set)||[:memo:](https://leetcode.com/articles/numbers-at-most-n-given-digit-set/)|Hard|
 |939|903|[valid-permutations-for-di-sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence)||[:memo:](https://leetcode.com/articles/valid-permutations-for-di-sequence/)|Hard|
 |940|904|[fruit-into-baskets](https://leetcode.com/problems/fruit-into-baskets)||[:memo:](https://leetcode.com/articles/fruit-into-baskets/)|Medium|

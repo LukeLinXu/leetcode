@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-05-26 11:39:06
+Update time:  2020-05-27 11:39:08
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **322   /   1334** problems
+I have solved **323   /   1334** problems
 while there are **213** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -851,7 +851,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |919|883|[projection-area-of-3d-shapes](https://leetcode.com/problems/projection-area-of-3d-shapes)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0919-0883(projection-area-of-3d-shapes)/projection-area-of-3d-shapes.java)|[:memo:](https://leetcode.com/articles/projection-area-of-3d-shapes/)|Easy|
 |920|884|[uncommon-words-from-two-sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0920-0884(uncommon-words-from-two-sentences)/uncommon-words-from-two-sentences.java)|[:memo:](https://leetcode.com/articles/uncommon-words-from-two-sentences/)|Easy|
 |921|885|[spiral-matrix-iii](https://leetcode.com/problems/spiral-matrix-iii)||[:memo:](https://leetcode.com/articles/spiral-matrix-iii/)|Medium|
-|922|886|[possible-bipartition](https://leetcode.com/problems/possible-bipartition)||[:memo:](https://leetcode.com/articles/possible-bipartition/)|Medium|
+|922|886|[possible-bipartition](https://leetcode.com/problems/possible-bipartition)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0922-0886(possible-bipartition)/possible-bipartition.java)|[:memo:](https://leetcode.com/articles/possible-bipartition/)|Medium|
 |923|887|[super-egg-drop](https://leetcode.com/problems/super-egg-drop)||[:memo:](https://leetcode.com/articles/super-egg-drop/)|Hard|
 |924|888|[fair-candy-swap](https://leetcode.com/problems/fair-candy-swap)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0924-0888(fair-candy-swap)/fair-candy-swap.java)|[:memo:](https://leetcode.com/articles/fair-candy-swap/)|Easy|
 |925|889|[construct-binary-tree-from-preorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-postorder-/)|Medium|

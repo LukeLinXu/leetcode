@@ -61,7 +61,7 @@ class Solution {
     /**
      * 厉害了，graph
      */
- public boolean possibleBipartition(int N, int[][] dislikes) {
+    public boolean possibleBipartition(int N, int[][] dislikes) {
         boolean[][] g = new boolean[N][N];
         for (int[] d : dislikes) {
             g[d[0] - 1][d[1] - 1] = true;

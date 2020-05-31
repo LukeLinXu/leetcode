@@ -40,19 +40,19 @@
 // Output: false
 //
 //
-//  
 //
-// Note:
+//
+//
+//  
+// Constraints:
 //
 //
 // 	1 <= N <= 2000
 // 	0 <= dislikes.length <= 10000
+// 	dislikes[i].length == 2
 // 	1 <= dislikes[i][j] <= N
 // 	dislikes[i][0] < dislikes[i][1]
 // 	There does not exist i != j for which dislikes[i] == dislikes[j].
-//
-//
-//
 //
 //
 

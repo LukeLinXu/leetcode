@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-05-31 11:39:35
+Update time:  2020-06-01 11:39:22
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **326   /   1342** problems
+I have solved **327   /   1342** problems
 while there are **213** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -87,7 +87,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |69|69|[sqrtx](https://leetcode.com/problems/sqrtx)||[:memo:](https://leetcode.com/articles/sqrtx/)|Easy|
 |70|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0070-0070(climbing-stairs)/climbing-stairs.java)|[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
 |71|71|[simplify-path](https://leetcode.com/problems/simplify-path)||[:memo:](https://leetcode.com/articles/simplify-path/)|Medium|
-|72|72|[edit-distance](https://leetcode.com/problems/edit-distance)||[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
+|72|72|[edit-distance](https://leetcode.com/problems/edit-distance)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0072-0072(edit-distance)/edit-distance.java)|[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
 |73|73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0073-0073(set-matrix-zeroes)/set-matrix-zeroes.java)|[:memo:](https://leetcode.com/articles/set-matrix-zeroes/)|Medium|
 |74|74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0074-0074(search-a-2d-matrix)/search-a-2d-matrix.java)|[:memo:](https://leetcode.com/articles/search-in-2d-matrix/)|Medium|
 |75|75|[sort-colors](https://leetcode.com/problems/sort-colors)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0075-0075(sort-colors)/sort-colors.java)|[:memo:](https://leetcode.com/articles/sort-colors/)|Medium|

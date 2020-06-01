@@ -33,15 +33,24 @@
  *     int val;
  *     TreeNode left;
  *     TreeNode right;
- *     TreeNode(int x) { val = x; }
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
  * }
  */
-public class Solution {
+class Solution {
+    /**
+     * 直接
+     */
     public TreeNode invertTree(TreeNode root) {
         if(root == null) return null;
-        TreeNode temp = root.left;
+        TreeNode temp = root.left; 
         root.left = invertTree(root.right);
         root.right = invertTree(temp);
-        return root;   
+        return root;
     }
 }

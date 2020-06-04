@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-06-01 11:39:22
+Update time:  2020-06-04 12:01:26
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **327   /   1342** problems
-while there are **213** problems still locked.
+I have solved **327   /   1343** problems
+while there are **214** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -33,7 +33,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |15|15|[3sum](https://leetcode.com/problems/3sum)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0015-0015(3sum)/3sum.java)|[:memo:](https://leetcode.com/articles/3sum/)|Medium|
 |16|16|[3sum-closest](https://leetcode.com/problems/3sum-closest)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0016-0016(3sum-closest)/3sum-closest.java)|[:memo:](https://leetcode.com/articles/3sum-closest/)|Medium|
 |17|17|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)||[:memo:](https://leetcode.com/articles/letter-combinations-of-a-phone-number/)|Medium|
-|18|18|[4sum](https://leetcode.com/problems/4sum)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0018-0018(4sum)/4sum.java)||Medium|
+|18|18|[4sum](https://leetcode.com/problems/4sum)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0018-0018(4sum)/4sum.java)|[:memo:](https://leetcode.com/articles/4sum/)|Medium|
 |19|19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list)||[:memo:](https://leetcode.com/articles/remove-nth-node-from-end-of-list/)|Medium|
 |20|20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0020-0020(valid-parentheses)/valid-parentheses.java)|[:memo:](https://leetcode.com/articles/valid-parentheses/)|Easy|
 |21|21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0021-0021(merge-two-sorted-lists)/merge-two-sorted-lists.java)|[:memo:](https://leetcode.com/articles/merged-two-sorted-lists/)|Easy|
@@ -257,7 +257,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |255|255|[verify-preorder-sequence-in-binary-search-tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree)|:lock:||Medium|
 |256|256|[paint-house](https://leetcode.com/problems/paint-house)|:lock:|[:memo:](https://leetcode.com/articles/paint-house/)|Easy|
 |257|257|[binary-tree-paths](https://leetcode.com/problems/binary-tree-paths)||[:memo:](https://leetcode.com/articles/binary-tree-paths/)|Easy|
-|258|258|[add-digits](https://leetcode.com/problems/add-digits)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0258-0258(add-digits)/add-digits.java)||Easy|
+|258|258|[add-digits](https://leetcode.com/problems/add-digits)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0258-0258(add-digits)/add-digits.java)|[:memo:](https://leetcode.com/articles/add-digits/)|Easy|
 |259|259|[3sum-smaller](https://leetcode.com/problems/3sum-smaller)|:lock:|[:memo:](https://leetcode.com/articles/3sum-smaller/)|Medium|
 |260|260|[single-number-iii](https://leetcode.com/problems/single-number-iii)||[:memo:](https://leetcode.com/articles/single-number-iii/)|Medium|
 |261|261|[graph-valid-tree](https://leetcode.com/problems/graph-valid-tree)|:lock:|[:memo:](https://leetcode.com/articles/graph-valid-tree/)|Medium|
@@ -1358,3 +1358,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1575|1465|[maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)|||Medium|
 |1576|1466|[reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)|||Medium|
 |1577|1467|[probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)|||Hard|
+|1609|1469|[find-all-the-lonely-nodes](https://leetcode.com/problems/find-all-the-lonely-nodes)|:lock:||Easy|

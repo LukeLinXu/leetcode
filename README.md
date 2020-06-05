@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-06-04 12:01:26
+Update time:  2020-06-05 11:39:28
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **327   /   1343** problems
+I have solved **328   /   1343** problems
 while there are **214** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -841,7 +841,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |909|877|[stone-game](https://leetcode.com/problems/stone-game)||[:memo:](https://leetcode.com/articles/stone-game/)|Medium|
 |910|878|[nth-magical-number](https://leetcode.com/problems/nth-magical-number)||[:memo:](https://leetcode.com/articles/nth-magical-number/)|Hard|
 |911|879|[profitable-schemes](https://leetcode.com/problems/profitable-schemes)||[:memo:](https://leetcode.com/articles/profitable-schemes/)|Hard|
-|912|528|[random-pick-with-weight](https://leetcode.com/problems/random-pick-with-weight)||[:memo:](https://leetcode.com/articles/random-pick-with-weight/)|Medium|
+|912|528|[random-pick-with-weight](https://leetcode.com/problems/random-pick-with-weight)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0912-0528(random-pick-with-weight)/random-pick-with-weight.java)|[:memo:](https://leetcode.com/articles/random-pick-with-weight/)|Medium|
 |913|519|[random-flip-matrix](https://leetcode.com/problems/random-flip-matrix)||[:memo:](https://leetcode.com/articles/random-flip-matrix/)|Medium|
 |914|497|[random-point-in-non-overlapping-rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles)||[:memo:](https://leetcode.com/articles/random-point-in-non-overlapping-rectangles/)|Medium|
 |915|478|[generate-random-point-in-a-circle](https://leetcode.com/problems/generate-random-point-in-a-circle)||[:memo:](https://leetcode.com/articles/generate-random-point-in-a-circle/)|Medium|

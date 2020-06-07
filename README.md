@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-06-05 11:39:28
+Update time:  2020-06-07 11:40:22
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **328   /   1343** problems
+I have solved **329   /   1347** problems
 while there are **214** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -404,7 +404,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |403|403|[frog-jump](https://leetcode.com/problems/frog-jump)||[:memo:](https://leetcode.com/articles/frog-jump/)|Hard|
 |404|404|[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0404-0404(sum-of-left-leaves)/sum-of-left-leaves.java)|[:memo:](https://leetcode.com/articles/sum-of-left-leaves/)|Easy|
 |405|405|[convert-a-number-to-hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)|||Easy|
-|406|406|[queue-reconstruction-by-height](https://leetcode.com/problems/queue-reconstruction-by-height)||[:memo:](https://leetcode.com/articles/queue-reconstruction-by-height/)|Medium|
+|406|406|[queue-reconstruction-by-height](https://leetcode.com/problems/queue-reconstruction-by-height)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0406-0406(queue-reconstruction-by-height)/queue-reconstruction-by-height.java)|[:memo:](https://leetcode.com/articles/queue-reconstruction-by-height/)|Medium|
 |407|407|[trapping-rain-water-ii](https://leetcode.com/problems/trapping-rain-water-ii)|||Hard|
 |408|408|[valid-word-abbreviation](https://leetcode.com/problems/valid-word-abbreviation)|:lock:||Easy|
 |409|409|[longest-palindrome](https://leetcode.com/problems/longest-palindrome)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0409-0409(longest-palindrome)/longest-palindrome.java)|[:memo:](https://leetcode.com/articles/longest-palindrome/)|Easy|
@@ -446,7 +446,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |451|451|[sort-characters-by-frequency](https://leetcode.com/problems/sort-characters-by-frequency)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0451-0451(sort-characters-by-frequency)/sort-characters-by-frequency.java)|[:memo:](https://leetcode.com/articles/sort-characters-by-frequency/)|Medium|
 |452|452|[minimum-number-of-arrows-to-burst-balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)||[:memo:](https://leetcode.com/articles/minimum-number-of-arrows-to-burst-balloons/)|Medium|
 |453|453|[minimum-moves-to-equal-array-elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0453-0453(minimum-moves-to-equal-array-elements)/minimum-moves-to-equal-array-elements.java)|[:memo:](https://leetcode.com/articles/minimum-moves-to-equal-array-elements/)|Easy|
-|454|454|[4sum-ii](https://leetcode.com/problems/4sum-ii)|||Medium|
+|454|454|[4sum-ii](https://leetcode.com/problems/4sum-ii)||[:memo:](https://leetcode.com/articles/4sum-ii/)|Medium|
 |455|455|[assign-cookies](https://leetcode.com/problems/assign-cookies)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0455-0455(assign-cookies)/assign-cookies.java)||Easy|
 |456|456|[132-pattern](https://leetcode.com/problems/132-pattern)||[:memo:](https://leetcode.com/articles/132-pattern/)|Medium|
 |457|457|[circular-array-loop](https://leetcode.com/problems/circular-array-loop)|||Medium|
@@ -1358,4 +1358,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1575|1465|[maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)|||Medium|
 |1576|1466|[reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)|||Medium|
 |1577|1467|[probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)|||Hard|
+|1580|1470|[shuffle-the-array](https://leetcode.com/problems/shuffle-the-array)|||Easy|
+|1581|1471|[the-k-strongest-values-in-an-array](https://leetcode.com/problems/the-k-strongest-values-in-an-array)|||Medium|
+|1582|1472|[design-browser-history](https://leetcode.com/problems/design-browser-history)|||Medium|
+|1583|1473|[paint-house-iii](https://leetcode.com/problems/paint-house-iii)|||Hard|
 |1609|1469|[find-all-the-lonely-nodes](https://leetcode.com/problems/find-all-the-lonely-nodes)|:lock:||Easy|

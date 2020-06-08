@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-06-07 11:40:22
+Update time:  2020-06-08 11:40:09
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **329   /   1347** problems
+I have solved **330   /   1347** problems
 while there are **214** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -455,7 +455,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |460|460|[lfu-cache](https://leetcode.com/problems/lfu-cache)|||Hard|
 |461|461|[hamming-distance](https://leetcode.com/problems/hamming-distance)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0461-0461(hamming-distance)/hamming-distance.java)|[:memo:](https://leetcode.com/articles/hamming-distance/)|Easy|
 |462|462|[minimum-moves-to-equal-array-elements-ii](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)||[:memo:](https://leetcode.com/articles/minimum-moves-to-equal-array-elements-ii/)|Medium|
-|463|463|[island-perimeter](https://leetcode.com/problems/island-perimeter)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0463-0463(island-perimeter)/island-perimeter.java)||Easy|
+|463|463|[island-perimeter](https://leetcode.com/problems/island-perimeter)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0463-0463(island-perimeter)/island-perimeter.java)|[:memo:](https://leetcode.com/articles/island-perimeter/)|Easy|
 |464|464|[can-i-win](https://leetcode.com/problems/can-i-win)|||Medium|
 |465|465|[optimal-account-balancing](https://leetcode.com/problems/optimal-account-balancing)|:lock:||Hard|
 |466|466|[count-the-repetitions](https://leetcode.com/problems/count-the-repetitions)||[:memo:](https://leetcode.com/articles/count-the-repetitions/)|Hard|
@@ -504,7 +504,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |515|515|[find-largest-value-in-each-tree-row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)|||Medium|
 |516|516|[longest-palindromic-subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)|||Medium|
 |517|517|[super-washing-machines](https://leetcode.com/problems/super-washing-machines)||[:memo:](https://leetcode.com/articles/super-washing-machines/)|Hard|
-|518|518|[coin-change-2](https://leetcode.com/problems/coin-change-2)||[:memo:](https://leetcode.com/articles/coin-change-ii/)|Medium|
+|518|518|[coin-change-2](https://leetcode.com/problems/coin-change-2)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0518-0518(coin-change-2)/coin-change-2.java)|[:memo:](https://leetcode.com/articles/coin-change-ii/)|Medium|
 |520|520|[detect-capital](https://leetcode.com/problems/detect-capital)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0520-0520(detect-capital)/detect-capital.java)||Easy|
 |521|521|[longest-uncommon-subsequence-i](https://leetcode.com/problems/longest-uncommon-subsequence-i)||[:memo:](https://leetcode.com/articles/longest-uncommon-subsequence-i/)|Easy|
 |522|522|[longest-uncommon-subsequence-ii](https://leetcode.com/problems/longest-uncommon-subsequence-ii)||[:memo:](https://leetcode.com/articles/longest-uncommon-subsequence-ii/)|Medium|

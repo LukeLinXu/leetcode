@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-06-08 11:40:09
+Update time:  2020-06-12 11:40:21
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **330   /   1347** problems
-while there are **214** problems still locked.
+I have solved **330   /   1348** problems
+while there are **215** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -369,7 +369,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |368|368|[largest-divisible-subset](https://leetcode.com/problems/largest-divisible-subset)||[:memo:](https://leetcode.com/articles/largest-divisible-subset/)|Medium|
 |369|369|[plus-one-linked-list](https://leetcode.com/problems/plus-one-linked-list)|:lock:|[:memo:](https://leetcode.com/articles/plus-one-linked-list/)|Medium|
 |370|370|[range-addition](https://leetcode.com/problems/range-addition)|:lock:|[:memo:](https://leetcode.com/articles/range-addition/)|Medium|
-|371|371|[sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers)|||Easy|
+|371|371|[sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers)||[:memo:](https://leetcode.com/articles/sum-of-two-integers/)|Easy|
 |372|372|[super-pow](https://leetcode.com/problems/super-pow)|||Medium|
 |373|373|[find-k-pairs-with-smallest-sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums)|||Medium|
 |374|374|[guess-number-higher-or-lower](https://leetcode.com/problems/guess-number-higher-or-lower)||[:memo:](https://leetcode.com/articles/guess-number-higher-or-lower/)|Easy|
@@ -1007,7 +1007,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1080|1023|[camelcase-matching](https://leetcode.com/problems/camelcase-matching)|||Medium|
 |1081|1024|[video-stitching](https://leetcode.com/problems/video-stitching)|||Medium|
 |1082|1085|[sum-of-digits-in-the-minimum-number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number)|:lock:||Easy|
-|1083|1099|[two-sum-less-than-k](https://leetcode.com/problems/two-sum-less-than-k)|:lock:||Easy|
+|1083|1099|[two-sum-less-than-k](https://leetcode.com/problems/two-sum-less-than-k)|:lock:|[:memo:](https://leetcode.com/articles/two-sum-less-than-k/)|Easy|
 |1084|1100|[find-k-length-substrings-with-no-repeated-characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters)|:lock:||Medium|
 |1085|1101|[the-earliest-moment-when-everyone-become-friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends)|:lock:||Medium|
 |1086|1025|[divisor-game](https://leetcode.com/problems/divisor-game)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1086-1025(divisor-game)/divisor-game.java)||Easy|
@@ -1363,3 +1363,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1582|1472|[design-browser-history](https://leetcode.com/problems/design-browser-history)|||Medium|
 |1583|1473|[paint-house-iii](https://leetcode.com/problems/paint-house-iii)|||Hard|
 |1609|1469|[find-all-the-lonely-nodes](https://leetcode.com/problems/find-all-the-lonely-nodes)|:lock:||Easy|
+|1618|1474|[delete-n-nodes-after-m-nodes-of-a-linked-list](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list)|:lock:||Easy|

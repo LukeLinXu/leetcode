@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-06-12 11:40:21
+Update time:  2020-06-14 11:40:29
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **330   /   1348** problems
+I have solved **330   /   1356** problems
 while there are **215** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1169,6 +1169,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1288|1186|[maximum-subarray-sum-with-one-deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion)|||Medium|
 |1289|1185|[day-of-the-week](https://leetcode.com/problems/day-of-the-week)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1289-1185(day-of-the-week)/day-of-the-week.java)||Easy|
 |1290|1187|[make-array-strictly-increasing](https://leetcode.com/problems/make-array-strictly-increasing)|||Hard|
+|1296|5456|[kth-ancestor-of-a-tree-node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node)|||Hard|
 |1297|1189|[maximum-number-of-balloons](https://leetcode.com/problems/maximum-number-of-balloons)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1297-1189(maximum-number-of-balloons)/maximum-number-of-balloons.java)||Easy|
 |1298|1190|[reverse-substrings-between-each-pair-of-parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses)|||Medium|
 |1299|1191|[k-concatenation-maximum-sum](https://leetcode.com/problems/k-concatenation-maximum-sum)|||Medium|
@@ -1354,6 +1355,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1567|1456|[maximum-number-of-vowels-in-a-substring-of-given-length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)|||Medium|
 |1568|1457|[pseudo-palindromic-paths-in-a-binary-tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree)|||Medium|
 |1569|1458|[max-dot-product-of-two-subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences)|||Hard|
+|1570|1475|[final-prices-with-a-special-discount-in-a-shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)|||Easy|
+|1571|1478|[allocate-mailboxes](https://leetcode.com/problems/allocate-mailboxes)|||Hard|
+|1572|1476|[subrectangle-queries](https://leetcode.com/problems/subrectangle-queries)|||Medium|
+|1573|1477|[find-two-non-overlapping-sub-arrays-each-with-target-sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum)|||Medium|
 |1574|1464|[maximum-product-of-two-elements-in-an-array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)|||Easy|
 |1575|1465|[maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)|||Medium|
 |1576|1466|[reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)|||Medium|
@@ -1362,5 +1367,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1581|1471|[the-k-strongest-values-in-an-array](https://leetcode.com/problems/the-k-strongest-values-in-an-array)|||Medium|
 |1582|1472|[design-browser-history](https://leetcode.com/problems/design-browser-history)|||Medium|
 |1583|1473|[paint-house-iii](https://leetcode.com/problems/paint-house-iii)|||Hard|
+|1603|5453|[running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array)|||Easy|
+|1604|5454|[least-number-of-unique-integers-after-k-removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals)|||Medium|
+|1605|5455|[minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)|||Medium|
 |1609|1469|[find-all-the-lonely-nodes](https://leetcode.com/problems/find-all-the-lonely-nodes)|:lock:||Easy|
 |1618|1474|[delete-n-nodes-after-m-nodes-of-a-linked-list](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list)|:lock:||Easy|

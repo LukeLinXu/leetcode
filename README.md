@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-06-22 11:39:44
+Update time:  2020-06-25 11:39:59
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **330   /   1361** problems
-while there are **216** problems still locked.
+I have solved **330   /   1362** problems
+while there are **217** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -186,7 +186,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |168|168|[excel-sheet-column-title](https://leetcode.com/problems/excel-sheet-column-title)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0168-0168(excel-sheet-column-title)/excel-sheet-column-title.java)||Easy|
 |169|169|[majority-element](https://leetcode.com/problems/majority-element)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0169-0169(majority-element)/majority-element.java)|[:memo:](https://leetcode.com/articles/majority-element/)|Easy|
 |170|170|[two-sum-iii-data-structure-design](https://leetcode.com/problems/two-sum-iii-data-structure-design)|:lock:|[:memo:](https://leetcode.com/articles/two-sum-iii-data-structure-design/)|Easy|
-|171|171|[excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0171-0171(excel-sheet-column-number)/excel-sheet-column-number.java)||Easy|
+|171|171|[excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0171-0171(excel-sheet-column-number)/excel-sheet-column-number.java)|[:memo:](https://leetcode.com/articles/excel-sheet-column-number/)|Easy|
 |172|172|[factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)||[:memo:](https://leetcode.com/articles/factorial-trailing-zeroes/)|Easy|
 |173|173|[binary-search-tree-iterator](https://leetcode.com/problems/binary-search-tree-iterator)||[:memo:](https://leetcode.com/articles/binary-search-tree-iterator/)|Medium|
 |174|174|[dungeon-game](https://leetcode.com/problems/dungeon-game)||[:memo:](https://leetcode.com/articles/dungeon-game/)|Hard|
@@ -413,7 +413,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |412|412|[fizz-buzz](https://leetcode.com/problems/fizz-buzz)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0412-0412(fizz-buzz)/fizz-buzz.java)|[:memo:](https://leetcode.com/articles/fizz-buzz/)|Easy|
 |413|413|[arithmetic-slices](https://leetcode.com/problems/arithmetic-slices)||[:memo:](https://leetcode.com/articles/arithmetic-slices/)|Medium|
 |414|414|[third-maximum-number](https://leetcode.com/problems/third-maximum-number)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0414-0414(third-maximum-number)/third-maximum-number.java)|[:memo:](https://leetcode.com/articles/third-maximum-number/)|Easy|
-|415|415|[add-strings](https://leetcode.com/problems/add-strings)|||Easy|
+|415|415|[add-strings](https://leetcode.com/problems/add-strings)||[:memo:](https://leetcode.com/articles/add-strings/)|Easy|
 |416|416|[partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum)|||Medium|
 |417|417|[pacific-atlantic-water-flow](https://leetcode.com/problems/pacific-atlantic-water-flow)|||Medium|
 |418|418|[sentence-screen-fitting](https://leetcode.com/problems/sentence-screen-fitting)|:lock:||Medium|
@@ -1377,3 +1377,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1613|1489|[find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)|||Hard|
 |1618|1474|[delete-n-nodes-after-m-nodes-of-a-linked-list](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list)|:lock:||Easy|
 |1624|1485|[clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer)|:lock:||Medium|
+|1634|1490|[clone-n-ary-tree](https://leetcode.com/problems/clone-n-ary-tree)|:lock:||Medium|

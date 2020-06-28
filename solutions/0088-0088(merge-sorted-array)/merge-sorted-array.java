@@ -16,6 +16,14 @@
 //
 // Output: [1,2,2,3,5,6]
 //
+//
+//  
+// Constraints:
+//
+//
+// 	-10^9 <= nums1[i], nums2[i] <= 10^9
+//
+//
 
 
 public class Solution {

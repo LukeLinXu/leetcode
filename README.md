@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-06-28 11:40:19
+Update time:  2020-07-04 11:40:10
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **330   /   1370** problems
-while there are **217** problems still locked.
+I have solved **333   /   1371** problems
+while there are **218** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -122,7 +122,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |104|104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0104-0104(maximum-depth-of-binary-tree)/maximum-depth-of-binary-tree.java)|[:memo:](https://leetcode.com/articles/maximum-depth-of-binary-tree/)|Easy|
 |105|105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0105-0105(construct-binary-tree-from-preorder-and-inorder-traversal)/construct-binary-tree-from-preorder-and-inorder-traversal.java)|[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-inorder-tr/)|Medium|
 |106|106|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0106-0106(construct-binary-tree-from-inorder-and-postorder-traversal)/construct-binary-tree-from-inorder-and-postorder-traversal.java)|[:memo:](https://leetcode.com/articles/construct-binary-tree-from-inorder-and-postorder-t/)|Medium|
-|107|107|[binary-tree-level-order-traversal-ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)||[:memo:](https://leetcode.com/articles/binary-tree-level-order-traversal-ii/)|Easy|
+|107|107|[binary-tree-level-order-traversal-ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0107-0107(binary-tree-level-order-traversal-ii)/binary-tree-level-order-traversal-ii.java)|[:memo:](https://leetcode.com/articles/binary-tree-level-order-traversal-ii/)|Easy|
 |108|108|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0108-0108(convert-sorted-array-to-binary-search-tree)/convert-sorted-array-to-binary-search-tree.java)|[:memo:](https://leetcode.com/articles/convert-sorted-array-to-bst/)|Easy|
 |109|109|[convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)||[:memo:](https://leetcode.com/articles/convert-sorted-list-to-binary-search-tree/)|Medium|
 |110|110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree)||[:memo:](https://leetcode.com/articles/balanced-binary-tree/)|Easy|
@@ -288,7 +288,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |287|287|[find-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0287-0287(find-the-duplicate-number)/find-the-duplicate-number.java)|[:memo:](https://leetcode.com/articles/find-the-duplicate-number/)|Medium|
 |288|288|[unique-word-abbreviation](https://leetcode.com/problems/unique-word-abbreviation)|:lock:|[:memo:](https://leetcode.com/articles/unique-word-abbreviation/)|Medium|
 |289|289|[game-of-life](https://leetcode.com/problems/game-of-life)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0289-0289(game-of-life)/game-of-life.java)|[:memo:](https://leetcode.com/articles/game-of-life/)|Medium|
-|290|290|[word-pattern](https://leetcode.com/problems/word-pattern)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0290-0290(word-pattern)/word-pattern.java)||Easy|
+|290|290|[word-pattern](https://leetcode.com/problems/word-pattern)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0290-0290(word-pattern)/word-pattern.java)|[:memo:](https://leetcode.com/articles/word-pattern/)|Easy|
 |291|291|[word-pattern-ii](https://leetcode.com/problems/word-pattern-ii)|:lock:||Hard|
 |292|292|[nim-game](https://leetcode.com/problems/nim-game)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0292-0292(nim-game)/nim-game.java)|[:memo:](https://leetcode.com/articles/nim-game/)|Easy|
 |293|293|[flip-game](https://leetcode.com/problems/flip-game)|:lock:||Easy|
@@ -433,7 +433,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |438|438|[find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0438-0438(find-all-anagrams-in-a-string)/find-all-anagrams-in-a-string.java)|[:memo:](https://leetcode.com/articles/find-all-anagrams-in-a-string/)|Medium|
 |439|439|[ternary-expression-parser](https://leetcode.com/problems/ternary-expression-parser)|:lock:||Medium|
 |440|440|[k-th-smallest-in-lexicographical-order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order)|||Hard|
-|441|441|[arranging-coins](https://leetcode.com/problems/arranging-coins)||[:memo:](https://leetcode.com/articles/arranging-coins/)|Easy|
+|441|441|[arranging-coins](https://leetcode.com/problems/arranging-coins)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0441-0441(arranging-coins)/arranging-coins.java)|[:memo:](https://leetcode.com/articles/arranging-coins/)|Easy|
 |442|442|[find-all-duplicates-in-an-array](https://leetcode.com/problems/find-all-duplicates-in-an-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0442-0442(find-all-duplicates-in-an-array)/find-all-duplicates-in-an-array.java)|[:memo:](https://leetcode.com/articles/find-all-duplicates-in-an-array/)|Medium|
 |443|443|[string-compression](https://leetcode.com/problems/string-compression)||[:memo:](https://leetcode.com/articles/string-compression/)|Easy|
 |444|444|[sequence-reconstruction](https://leetcode.com/problems/sequence-reconstruction)|:lock:||Medium|
@@ -922,7 +922,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |991|954|[array-of-doubled-pairs](https://leetcode.com/problems/array-of-doubled-pairs)||[:memo:](https://leetcode.com/articles/array-of-doubled-pairs/)|Medium|
 |992|955|[delete-columns-to-make-sorted-ii](https://leetcode.com/problems/delete-columns-to-make-sorted-ii)||[:memo:](https://leetcode.com/articles/delete-columns-to-make-sorted-ii/)|Medium|
 |993|956|[tallest-billboard](https://leetcode.com/problems/tallest-billboard)||[:memo:](https://leetcode.com/articles/tallest-billboard/)|Hard|
-|994|957|[prison-cells-after-n-days](https://leetcode.com/problems/prison-cells-after-n-days)||[:memo:](https://leetcode.com/articles/prison-cells-after-n-days/)|Medium|
+|994|957|[prison-cells-after-n-days](https://leetcode.com/problems/prison-cells-after-n-days)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0994-0957(prison-cells-after-n-days)/prison-cells-after-n-days.java)|[:memo:](https://leetcode.com/articles/prison-cells-after-n-days/)|Medium|
 |998|958|[check-completeness-of-a-binary-tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/check-completeness-of-a-binary-tree/)|Medium|
 |999|959|[regions-cut-by-slashes](https://leetcode.com/problems/regions-cut-by-slashes)||[:memo:](https://leetcode.com/articles/regions-cut-by-slashes/)|Medium|
 |1000|960|[delete-columns-to-make-sorted-iii](https://leetcode.com/problems/delete-columns-to-make-sorted-iii)||[:memo:](https://leetcode.com/articles/delete-columns-to-make-sorted-iii/)|Hard|
@@ -1386,3 +1386,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1622|1499|[max-value-of-equation](https://leetcode.com/problems/max-value-of-equation)|||Hard|
 |1624|1485|[clone-binary-tree-with-random-pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer)|:lock:||Medium|
 |1634|1490|[clone-n-ary-tree](https://leetcode.com/problems/clone-n-ary-tree)|:lock:||Medium|
+|1640|1500|[design-a-file-sharing-system](https://leetcode.com/problems/design-a-file-sharing-system)|:lock:||Medium|

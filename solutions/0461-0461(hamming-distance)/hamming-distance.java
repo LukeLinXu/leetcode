@@ -22,13 +22,18 @@
 //
 
 
-public class Solution {
+class Solution {
+    /**
+     * 直接
+     */
     public int hammingDistance(int x, int y) {
-        int i = x ^ y;
-        char[] s = Integer.toBinaryString(i).toCharArray();
+        int temp = x^y;
+        String s = Integer.toBinaryString(temp);
         int count = 0;
-        for(char c : s){
-            if(c == '1') count++;
+        for(int i = 0; i < s.length(); i++){
+            if(s.charAt(i) == '1'){
+                count++;
+            }
         }
         return count;
     }

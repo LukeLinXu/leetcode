@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-07-05 11:40:06
+Update time:  2020-07-09 11:40:26
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **334   /   1375** problems
-while there are **218** problems still locked.
+I have solved **334   /   1376** problems
+while there are **219** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -160,7 +160,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |142|142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)||[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
 |143|143|[reorder-list](https://leetcode.com/problems/reorder-list)||[:memo:](https://leetcode.com/articles/reorder-list/)|Medium|
 |144|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-traversal/)|Medium|
-|145|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-transversal/)|Hard|
+|145|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-traversal/)|Hard|
 |146|146|[lru-cache](https://leetcode.com/problems/lru-cache)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0146-0146(lru-cache)/lru-cache.java)|[:memo:](https://leetcode.com/articles/lru-cache/)|Medium|
 |147|147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|||Medium|
 |148|148|[sort-list](https://leetcode.com/problems/sort-list)|||Medium|
@@ -210,7 +210,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |208|208|[implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0208-0208(implement-trie-prefix-tree)/implement-trie-prefix-tree.java)|[:memo:](https://leetcode.com/articles/implement-trie-prefix-tree/)|Medium|
 |209|209|[minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0209-0209(minimum-size-subarray-sum)/minimum-size-subarray-sum.java)|[:memo:](https://leetcode.com/articles/minimum-size-subarray-sum/)|Medium|
 |210|210|[course-schedule-ii](https://leetcode.com/problems/course-schedule-ii)||[:memo:](https://leetcode.com/articles/course-schedule-ii/)|Medium|
-|211|211|[add-and-search-word-data-structure-design](https://leetcode.com/problems/add-and-search-word-data-structure-design)|||Medium|
+|211|211|[add-and-search-word-data-structure-design](https://leetcode.com/problems/add-and-search-word-data-structure-design)||[:memo:](https://leetcode.com/articles/add-and-search-word/)|Medium|
 |212|212|[word-search-ii](https://leetcode.com/problems/word-search-ii)||[:memo:](https://leetcode.com/articles/word-search-ii/)|Hard|
 |213|213|[house-robber-ii](https://leetcode.com/problems/house-robber-ii)|||Medium|
 |214|214|[shortest-palindrome](https://leetcode.com/problems/shortest-palindrome)||[:memo:](https://leetcode.com/articles/shortest-palindrome/)|Hard|
@@ -516,7 +516,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |529|529|[minesweeper](https://leetcode.com/problems/minesweeper)|||Medium|
 |530|530|[minimum-absolute-difference-in-bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0530-0530(minimum-absolute-difference-in-bst)/minimum-absolute-difference-in-bst.java)||Easy|
 |531|531|[lonely-pixel-i](https://leetcode.com/problems/lonely-pixel-i)|:lock:||Medium|
-|532|532|[k-diff-pairs-in-an-array](https://leetcode.com/problems/k-diff-pairs-in-an-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0532-0532(k-diff-pairs-in-an-array)/k-diff-pairs-in-an-array.java)||Easy|
+|532|532|[k-diff-pairs-in-an-array](https://leetcode.com/problems/k-diff-pairs-in-an-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0532-0532(k-diff-pairs-in-an-array)/k-diff-pairs-in-an-array.java)|[:memo:](https://leetcode.com/articles/k-diff-pairs-in-an-array/)|Easy|
 |533|533|[lonely-pixel-ii](https://leetcode.com/problems/lonely-pixel-ii)|:lock:||Medium|
 |535|535|[encode-and-decode-tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0535-0535(encode-and-decode-tinyurl)/encode-and-decode-tinyurl.java)|[:memo:](https://leetcode.com/articles/encode-and-decode-tinyurl/)|Medium|
 |536|536|[construct-binary-tree-from-string](https://leetcode.com/problems/construct-binary-tree-from-string)|:lock:||Medium|
@@ -780,7 +780,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |842|822|[card-flipping-game](https://leetcode.com/problems/card-flipping-game)||[:memo:](https://leetcode.com/articles/card-flipping-game/)|Medium|
 |843|823|[binary-trees-with-factors](https://leetcode.com/problems/binary-trees-with-factors)||[:memo:](https://leetcode.com/articles/binary-trees-with-factors/)|Medium|
 |850|708|[insert-into-a-sorted-circular-linked-list](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list)|:lock:|[:memo:](https://leetcode.com/articles/insert-into-a-cyclic-sorted-list/)|Medium|
-|851|824|[goat-latin](https://leetcode.com/problems/goat-latin)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0851-0824(goat-latin)/goat-latin.java)|[:memo:](https://leetcode.com/articles/goat-latin/)|Easy|
+|851|824|[goat-latin](https://leetcode.com/problems/goat-latin)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0851-0824(goat-latin)/goat-latin.java)||Easy|
 |852|825|[friends-of-appropriate-ages](https://leetcode.com/problems/friends-of-appropriate-ages)||[:memo:](https://leetcode.com/articles/friends-of-appropriate-ages/)|Medium|
 |853|826|[most-profit-assigning-work](https://leetcode.com/problems/most-profit-assigning-work)||[:memo:](https://leetcode.com/articles/most-profit-assigning-work/)|Medium|
 |854|827|[making-a-large-island](https://leetcode.com/problems/making-a-large-island)||[:memo:](https://leetcode.com/articles/making-a-large-island/)|Hard|
@@ -1391,3 +1391,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1629|1505|[minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits)|||Hard|
 |1634|1490|[clone-n-ary-tree](https://leetcode.com/problems/clone-n-ary-tree)|:lock:||Medium|
 |1640|1500|[design-a-file-sharing-system](https://leetcode.com/problems/design-a-file-sharing-system)|:lock:||Medium|
+|1650|1506|[find-root-of-n-ary-tree](https://leetcode.com/problems/find-root-of-n-ary-tree)|:lock:||Medium|

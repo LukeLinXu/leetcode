@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-07-13 11:40:52
+Update time:  2020-07-17 11:40:12
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1384** problems
-while there are **219** problems still locked.
+I have solved **335   /   1385** problems
+while there are **220** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -167,7 +167,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |149|149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line)||[:memo:](https://leetcode.com/articles/max-points-on-a-line/)|Hard|
 |150|150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)||[:memo:](https://leetcode.com/articles/evaluate-reverse-polish-notation/)|Medium|
 |151|151|[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string)||[:memo:](https://leetcode.com/articles/reverse-words-in-a-string/)|Medium|
-|152|152|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0152-0152(maximum-product-subarray)/maximum-product-subarray.java)||Medium|
+|152|152|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0152-0152(maximum-product-subarray)/maximum-product-subarray.java)|[:memo:](https://leetcode.com/articles/maximum-product-subarray/)|Medium|
 |153|153|[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0153-0153(find-minimum-in-rotated-sorted-array)/find-minimum-in-rotated-sorted-array.java)|[:memo:](https://leetcode.com/articles/find-minimum-in-rotated-sorted-array/)|Medium|
 |154|154|[find-minimum-in-rotated-sorted-array-ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0154-0154(find-minimum-in-rotated-sorted-array-ii)/find-minimum-in-rotated-sorted-array-ii.java)|[:memo:](https://leetcode.com/articles/find-minimum-in-rotated-sorted-array-ii/)|Hard|
 |155|155|[min-stack](https://leetcode.com/problems/min-stack)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0155-0155(min-stack)/min-stack.java)|[:memo:](https://leetcode.com/articles/min-stack/)|Easy|
@@ -773,7 +773,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |834|816|[ambiguous-coordinates](https://leetcode.com/problems/ambiguous-coordinates)||[:memo:](https://leetcode.com/articles/ambiguous-coordinates/)|Medium|
 |835|817|[linked-list-components](https://leetcode.com/problems/linked-list-components)||[:memo:](https://leetcode.com/articles/linked-list-components/)|Medium|
 |836|818|[race-car](https://leetcode.com/problems/race-car)||[:memo:](https://leetcode.com/articles/race-car/)|Hard|
-|837|819|[most-common-word](https://leetcode.com/problems/most-common-word)|||Easy|
+|837|819|[most-common-word](https://leetcode.com/problems/most-common-word)||[:memo:](https://leetcode.com/articles/most-common-word/)|Easy|
 |838|707|[design-linked-list](https://leetcode.com/problems/design-linked-list)||[:memo:](https://leetcode.com/articles/design-linked-list/)|Medium|
 |839|820|[short-encoding-of-words](https://leetcode.com/problems/short-encoding-of-words)||[:memo:](https://leetcode.com/articles/short-encoding-of-words/)|Medium|
 |841|821|[shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0841-0821(shortest-distance-to-a-character)/shortest-distance-to-a-character.java)|[:memo:](https://leetcode.com/articles/shortest-distance-to-a-character/)|Easy|
@@ -1021,7 +1021,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1094|1030|[matrix-cells-in-distance-order](https://leetcode.com/problems/matrix-cells-in-distance-order)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1094-1030(matrix-cells-in-distance-order)/matrix-cells-in-distance-order.java)||Easy|
 |1095|1029|[two-city-scheduling](https://leetcode.com/problems/two-city-scheduling)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1095-1029(two-city-scheduling)/two-city-scheduling.java)|[:memo:](https://leetcode.com/articles/two-city-scheduling/)|Easy|
 |1096|1031|[maximum-sum-of-two-non-overlapping-subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays)|||Medium|
-|1097|1032|[stream-of-characters](https://leetcode.com/problems/stream-of-characters)|||Hard|
+|1097|1032|[stream-of-characters](https://leetcode.com/problems/stream-of-characters)||[:memo:](https://leetcode.com/articles/stream-of-characters/)|Hard|
 |1098|1133|[largest-unique-number](https://leetcode.com/problems/largest-unique-number)|:lock:||Easy|
 |1099|1102|[path-with-maximum-minimum-value](https://leetcode.com/problems/path-with-maximum-minimum-value)|:lock:||Medium|
 |1100|1135|[connecting-cities-with-minimum-cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost)|:lock:||Medium|
@@ -1400,3 +1400,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1638|1515|[best-position-for-a-service-centre](https://leetcode.com/problems/best-position-for-a-service-centre)|||Hard|
 |1640|1500|[design-a-file-sharing-system](https://leetcode.com/problems/design-a-file-sharing-system)|:lock:||Medium|
 |1650|1506|[find-root-of-n-ary-tree](https://leetcode.com/problems/find-root-of-n-ary-tree)|:lock:||Medium|
+|1655|1516|[move-sub-tree-of-n-ary-tree](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree)|:lock:||Hard|

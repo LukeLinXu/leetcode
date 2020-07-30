@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-07-26 11:40:17
+Update time:  2020-07-30 11:40:03
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1398** problems
-while there are **221** problems still locked.
+I have solved **335   /   1399** problems
+while there are **222** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -297,7 +297,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |296|296|[best-meeting-point](https://leetcode.com/problems/best-meeting-point)|:lock:|[:memo:](https://leetcode.com/articles/best-meeting-point/)|Hard|
 |297|297|[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)||[:memo:](https://leetcode.com/articles/serialize-and-deserialize-binary-tree/)|Hard|
 |298|298|[binary-tree-longest-consecutive-sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)|:lock:|[:memo:](https://leetcode.com/articles/binary-tree-longest-consecutive-sequence/)|Medium|
-|299|299|[bulls-and-cows](https://leetcode.com/problems/bulls-and-cows)|||Easy|
+|299|299|[bulls-and-cows](https://leetcode.com/problems/bulls-and-cows)||[:memo:](https://leetcode.com/articles/bulls-and-cows/)|Easy|
 |300|300|[longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence)||[:memo:](https://leetcode.com/articles/longest-increasing-subsequence/)|Medium|
 |301|301|[remove-invalid-parentheses](https://leetcode.com/problems/remove-invalid-parentheses)||[:memo:](https://leetcode.com/articles/remove-invalid-parentheses/)|Hard|
 |302|302|[smallest-rectangle-enclosing-black-pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels)|:lock:|[:memo:](https://leetcode.com/articles/smallest-rectangle-enclosing-black-pixels/)|Hard|
@@ -1041,7 +1041,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1116|1161|[maximum-level-sum-of-a-binary-tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/maximum-level-sum-of-a-binary-tree/)|Medium|
 |1117|1162|[as-far-from-land-as-possible](https://leetcode.com/problems/as-far-from-land-as-possible)|||Medium|
 |1118|1121|[divide-array-into-increasing-sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences)|:lock:||Hard|
-|1119|1041|[robot-bounded-in-circle](https://leetcode.com/problems/robot-bounded-in-circle)|||Medium|
+|1119|1041|[robot-bounded-in-circle](https://leetcode.com/problems/robot-bounded-in-circle)||[:memo:](https://leetcode.com/articles/robot-bounded-in-circle/)|Medium|
 |1120|1042|[flower-planting-with-no-adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent)|||Easy|
 |1121|1043|[partition-array-for-maximum-sum](https://leetcode.com/problems/partition-array-for-maximum-sum)|||Medium|
 |1122|1044|[longest-duplicate-substring](https://leetcode.com/problems/longest-duplicate-substring)||[:memo:](https://leetcode.com/articles/longest-duplicate-substring/)|Hard|
@@ -1241,7 +1241,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1424|1298|[maximum-candies-you-can-get-from-boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes)|||Hard|
 |1426|1304|[find-n-unique-integers-sum-up-to-zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1426-1304(find-n-unique-integers-sum-up-to-zero)/find-n-unique-integers-sum-up-to-zero.java)||Easy|
 |1427|1305|[all-elements-in-two-binary-search-trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1427-1305(all-elements-in-two-binary-search-trees)/all-elements-in-two-binary-search-trees.java)|[:memo:](https://leetcode.com/articles/all-elements-in-two-bsts/)|Medium|
-|1428|1306|[jump-game-iii](https://leetcode.com/problems/jump-game-iii)|||Medium|
+|1428|1306|[jump-game-iii](https://leetcode.com/problems/jump-game-iii)||[:memo:](https://leetcode.com/articles/jump-game-iii/)|Medium|
 |1429|1307|[verbal-arithmetic-puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle)|||Hard|
 |1432|1430|[check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree)|:lock:||Medium|
 |1434|1309|[decrypt-string-from-alphabet-to-integer-mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1434-1309(decrypt-string-from-alphabet-to-integer-mapping)/decrypt-string-from-alphabet-to-integer-mapping.java)||Easy|
@@ -1346,7 +1346,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1554|1443|[minimum-time-to-collect-all-apples-in-a-tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree)|||Medium|
 |1555|1444|[number-of-ways-of-cutting-a-pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza)|||Hard|
 |1556|1460|[make-two-arrays-equal-by-reversing-sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays)|||Easy|
-|1557|1461|[check-if-a-string-contains-all-binary-codes-of-size-k](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k)|||Medium|
+|1557|1461|[check-if-a-string-contains-all-binary-codes-of-size-k](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k)||[:memo:](https://leetcode.com/articles/check-if-a-string-contains-all-binary-codes-of-siz/)|Medium|
 |1558|1462|[course-schedule-iv](https://leetcode.com/problems/course-schedule-iv)|||Medium|
 |1559|1463|[cherry-pickup-ii](https://leetcode.com/problems/cherry-pickup-ii)|||Hard|
 |1560|1450|[number-of-students-doing-homework-at-a-given-time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)|||Easy|
@@ -1414,3 +1414,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1653|1530|[number-of-good-leaf-nodes-pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs)|||Medium|
 |1655|1516|[move-sub-tree-of-n-ary-tree](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree)|:lock:||Hard|
 |1665|1522|[diameter-of-n-ary-tree](https://leetcode.com/problems/diameter-of-n-ary-tree)|:lock:||Medium|
+|1672|1533|[find-the-index-of-the-large-integer](https://leetcode.com/problems/find-the-index-of-the-large-integer)|:lock:||Medium|

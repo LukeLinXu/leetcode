@@ -17,7 +17,7 @@
 // 	You may assume that the array does not change.
 // 	There are many calls to sumRange function.
 // 	0 <= nums.length <= 10^4
-// 	-10^5 <= nums.length <= 10^5
+// 	-10^5 <= nums[i] <= 10^5
 // 	0 <= i <= j < nums.length
 //
 //

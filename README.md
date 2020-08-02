@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-07-30 11:40:03
+Update time:  2020-08-02 11:40:02
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1399** problems
+I have solved **335   /   1403** problems
 while there are **222** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -332,7 +332,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |331|331|[verify-preorder-serialization-of-a-binary-tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/verify-preorder-serialization-of-a-binary-tree/)|Medium|
 |332|332|[reconstruct-itinerary](https://leetcode.com/problems/reconstruct-itinerary)||[:memo:](https://leetcode.com/articles/reconstruct-itinerary/)|Medium|
 |333|333|[largest-bst-subtree](https://leetcode.com/problems/largest-bst-subtree)|:lock:||Medium|
-|334|334|[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)|||Medium|
+|334|334|[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)||[:memo:](https://leetcode.com/articles/increasing-triplet-subsequence/)|Medium|
 |335|335|[self-crossing](https://leetcode.com/problems/self-crossing)|||Hard|
 |336|336|[palindrome-pairs](https://leetcode.com/problems/palindrome-pairs)||[:memo:](https://leetcode.com/articles/palindrome-pairs/)|Hard|
 |337|337|[house-robber-iii](https://leetcode.com/problems/house-robber-iii)|||Medium|
@@ -736,7 +736,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |797|781|[rabbits-in-forest](https://leetcode.com/problems/rabbits-in-forest)||[:memo:](https://leetcode.com/articles/rabbits-in-forest/)|Medium|
 |798|782|[transform-to-chessboard](https://leetcode.com/problems/transform-to-chessboard)||[:memo:](https://leetcode.com/articles/transform-to-chessboard/)|Hard|
 |799|783|[minimum-distance-between-bst-nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes)||[:memo:](https://leetcode.com/articles/minimum-distance-between-bst-nodes/)|Easy|
-|800|784|[letter-case-permutation](https://leetcode.com/problems/letter-case-permutation)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0800-0784(letter-case-permutation)/letter-case-permutation.java)|[:memo:](https://leetcode.com/articles/letter-case-permutation/)|Easy|
+|800|784|[letter-case-permutation](https://leetcode.com/problems/letter-case-permutation)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0800-0784(letter-case-permutation)/letter-case-permutation.java)|[:memo:](https://leetcode.com/articles/letter-case-permutation/)|Medium|
 |801|785|[is-graph-bipartite](https://leetcode.com/problems/is-graph-bipartite)||[:memo:](https://leetcode.com/articles/is-graph-bipartite/)|Medium|
 |802|786|[k-th-smallest-prime-fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction)||[:memo:](https://leetcode.com/articles/k-th-smallest-prime-fraction/)|Hard|
 |803|787|[cheapest-flights-within-k-stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)||[:memo:](https://leetcode.com/articles/cheapest-flights-within-k-stops/)|Medium|
@@ -1413,5 +1413,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1652|1529|[bulb-switcher-iv](https://leetcode.com/problems/bulb-switcher-iv)|||Medium|
 |1653|1530|[number-of-good-leaf-nodes-pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs)|||Medium|
 |1655|1516|[move-sub-tree-of-n-ary-tree](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree)|:lock:||Hard|
+|1656|1534|[count-good-triplets](https://leetcode.com/problems/count-good-triplets)|||Easy|
+|1657|1535|[find-the-winner-of-an-array-game](https://leetcode.com/problems/find-the-winner-of-an-array-game)|||Medium|
+|1658|1536|[minimum-swaps-to-arrange-a-binary-grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid)|||Medium|
+|1659|1537|[get-the-maximum-score](https://leetcode.com/problems/get-the-maximum-score)|||Hard|
 |1665|1522|[diameter-of-n-ary-tree](https://leetcode.com/problems/diameter-of-n-ary-tree)|:lock:||Medium|
 |1672|1533|[find-the-index-of-the-large-integer](https://leetcode.com/problems/find-the-index-of-the-large-integer)|:lock:||Medium|

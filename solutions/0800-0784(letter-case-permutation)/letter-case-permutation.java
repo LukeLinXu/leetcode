@@ -12,7 +12,8 @@
 // Output: ["12345"]
 //
 //
-// Note:
+//  
+// Constraints:
 //
 //
 // 	S will be a string with length between 1 and 12.

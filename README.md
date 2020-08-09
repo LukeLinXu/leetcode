@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-08-06 11:40:06
+Update time:  2020-08-09 11:40:34
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1404** problems
+I have solved **335   /   1412** problems
 while there are **223** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1408,6 +1408,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1643|1519|[number-of-nodes-in-the-sub-tree-with-the-same-label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label)|||Medium|
 |1644|1520|[maximum-number-of-non-overlapping-substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings)|||Hard|
 |1645|1521|[find-a-value-of-a-mysterious-function-closest-to-target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target)|||Hard|
+|1646|1539|[kth-missing-positive-number](https://leetcode.com/problems/kth-missing-positive-number)|||Easy|
+|1647|1540|[can-convert-string-in-k-moves](https://leetcode.com/problems/can-convert-string-in-k-moves)|||Medium|
+|1648|1541|[minimum-insertions-to-balance-a-parentheses-string](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string)|||Medium|
+|1649|1546|[maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target)|||Medium|
 |1650|1506|[find-root-of-n-ary-tree](https://leetcode.com/problems/find-root-of-n-ary-tree)|:lock:||Medium|
 |1651|1528|[shuffle-string](https://leetcode.com/problems/shuffle-string)|||Easy|
 |1652|1529|[bulb-switcher-iv](https://leetcode.com/problems/bulb-switcher-iv)|||Medium|
@@ -1418,5 +1422,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1658|1536|[minimum-swaps-to-arrange-a-binary-grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid)|||Medium|
 |1659|1537|[get-the-maximum-score](https://leetcode.com/problems/get-the-maximum-score)|||Hard|
 |1665|1522|[diameter-of-n-ary-tree](https://leetcode.com/problems/diameter-of-n-ary-tree)|:lock:||Medium|
+|1666|1544|[make-the-string-great](https://leetcode.com/problems/make-the-string-great)|||Easy|
+|1667|1545|[find-kth-bit-in-nth-binary-string](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string)|||Medium|
+|1668|1542|[find-longest-awesome-substring](https://leetcode.com/problems/find-longest-awesome-substring)|||Hard|
+|1669|1547|[minimum-cost-to-cut-a-stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick)|||Hard|
 |1672|1533|[find-the-index-of-the-large-integer](https://leetcode.com/problems/find-the-index-of-the-large-integer)|:lock:||Medium|
 |1681|1538|[guess-the-majority-in-a-hidden-array](https://leetcode.com/problems/guess-the-majority-in-a-hidden-array)|:lock:||Medium|

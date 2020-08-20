@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-08-16 11:39:38
+Update time:  2020-08-20 11:40:51
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1417** problems
-while there are **224** problems still locked.
+I have solved **335   /   1418** problems
+while there are **225** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -23,7 +23,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |5|5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)||[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
 |6|6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0006-0006(zigzag-conversion)/zigzag-conversion.java)|[:memo:](https://leetcode.com/articles/zigzag-conversion/)|Medium|
 |7|7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0007-0007(reverse-integer)/reverse-integer.java)|[:memo:](https://leetcode.com/articles/reverse-integer/)|Easy|
-|8|8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|||Medium|
+|8|8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)||[:memo:](https://leetcode.com/articles/string-to-integer/)|Medium|
 |9|9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0009-0009(palindrome-number)/palindrome-number.java)|[:memo:](https://leetcode.com/articles/palindrome-number/)|Easy|
 |10|10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)||[:memo:](https://leetcode.com/articles/regular-expression-matching/)|Hard|
 |11|11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0011-0011(container-with-most-water)/container-with-most-water.java)|[:memo:](https://leetcode.com/articles/container-with-most-water/)|Medium|
@@ -49,7 +49,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |31|31|[next-permutation](https://leetcode.com/problems/next-permutation)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0031-0031(next-permutation)/next-permutation.java)|[:memo:](https://leetcode.com/articles/next-permutation/)|Medium|
 |32|32|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses)||[:memo:](https://leetcode.com/articles/longest-valid-parentheses/)|Hard|
 |33|33|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0033-0033(search-in-rotated-sorted-array)/search-in-rotated-sorted-array.java)|[:memo:](https://leetcode.com/articles/search-in-rotated-sorted-array/)|Medium|
-|34|34|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0034-0034(find-first-and-last-position-of-element-in-sorted-array)/find-first-and-last-position-of-element-in-sorted-array.java)|[:memo:](https://leetcode.com/articles/find-first-and-last-position-element-sorted-array/)|Medium|
+|34|34|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0034-0034(find-first-and-last-position-of-element-in-sorted-array)/find-first-and-last-position-of-element-in-sorted-array.java)|[:memo:](https://leetcode.com/articles/find-first-and-last-position-of-element-in-sorted-array/)|Medium|
 |35|35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0035-0035(search-insert-position)/search-insert-position.java)|[:memo:](https://leetcode.com/articles/search-insert-position/)|Easy|
 |36|36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku)||[:memo:](https://leetcode.com/articles/valid-sudoku/)|Medium|
 |37|37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver)||[:memo:](https://leetcode.com/articles/sudoku-solver/)|Hard|
@@ -120,8 +120,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |102|102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-level-order-traversal/)|Medium|
 |103|103|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-zigzag-level-order-traversal/)|Medium|
 |104|104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0104-0104(maximum-depth-of-binary-tree)/maximum-depth-of-binary-tree.java)|[:memo:](https://leetcode.com/articles/maximum-depth-of-binary-tree/)|Easy|
-|105|105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0105-0105(construct-binary-tree-from-preorder-and-inorder-traversal)/construct-binary-tree-from-preorder-and-inorder-traversal.java)|[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-inorder-tr/)|Medium|
-|106|106|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0106-0106(construct-binary-tree-from-inorder-and-postorder-traversal)/construct-binary-tree-from-inorder-and-postorder-traversal.java)|[:memo:](https://leetcode.com/articles/construct-binary-tree-from-inorder-and-postorder-t/)|Medium|
+|105|105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0105-0105(construct-binary-tree-from-preorder-and-inorder-traversal)/construct-binary-tree-from-preorder-and-inorder-traversal.java)|[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-inorder-traversal/)|Medium|
+|106|106|[construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0106-0106(construct-binary-tree-from-inorder-and-postorder-traversal)/construct-binary-tree-from-inorder-and-postorder-traversal.java)|[:memo:](https://leetcode.com/articles/construct-binary-tree-from-inorder-and-postorder-traversal/)|Medium|
 |107|107|[binary-tree-level-order-traversal-ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0107-0107(binary-tree-level-order-traversal-ii)/binary-tree-level-order-traversal-ii.java)|[:memo:](https://leetcode.com/articles/binary-tree-level-order-traversal-ii/)|Easy|
 |108|108|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0108-0108(convert-sorted-array-to-binary-search-tree)/convert-sorted-array-to-binary-search-tree.java)|[:memo:](https://leetcode.com/articles/convert-sorted-array-to-bst/)|Easy|
 |109|109|[convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)||[:memo:](https://leetcode.com/articles/convert-sorted-list-to-binary-search-tree/)|Medium|
@@ -174,7 +174,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |156|156|[binary-tree-upside-down](https://leetcode.com/problems/binary-tree-upside-down)|:lock:||Medium|
 |157|157|[read-n-characters-given-read4](https://leetcode.com/problems/read-n-characters-given-read4)|:lock:|[:memo:](https://leetcode.com/articles/read-n-characters-given-read4/)|Easy|
 |158|158|[read-n-characters-given-read4-ii-call-multiple-times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times)|:lock:||Hard|
-|159|159|[longest-substring-with-at-most-two-distinct-characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)|:lock:|[:memo:](https://leetcode.com/articles/longest-substring-with-at-most-two-distinct-charac/)|Medium|
+|159|159|[longest-substring-with-at-most-two-distinct-characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)|:lock:|[:memo:](https://leetcode.com/articles/longest-substring-with-at-most-two-distinct-characters/)|Medium|
 |160|160|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists)||[:memo:](https://leetcode.com/articles/intersection-of-two-linked-lists/)|Easy|
 |161|161|[one-edit-distance](https://leetcode.com/problems/one-edit-distance)|:lock:|[:memo:](https://leetcode.com/articles/one-edit-distance/)|Medium|
 |162|162|[find-peak-element](https://leetcode.com/problems/find-peak-element)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0162-0162(find-peak-element)/find-peak-element.java)|[:memo:](https://leetcode.com/articles/find-peak-element/)|Medium|
@@ -228,7 +228,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |226|226|[invert-binary-tree](https://leetcode.com/problems/invert-binary-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0226-0226(invert-binary-tree)/invert-binary-tree.java)|[:memo:](https://leetcode.com/articles/invert-binary-tree/)|Easy|
 |227|227|[basic-calculator-ii](https://leetcode.com/problems/basic-calculator-ii)|||Medium|
 |228|228|[summary-ranges](https://leetcode.com/problems/summary-ranges)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0228-0228(summary-ranges)/summary-ranges.java)|[:memo:](https://leetcode.com/articles/summary-ranges/)|Medium|
-|229|229|[majority-element-ii](https://leetcode.com/problems/majority-element-ii)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0229-0229(majority-element-ii)/majority-element-ii.java)||Medium|
+|229|229|[majority-element-ii](https://leetcode.com/problems/majority-element-ii)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0229-0229(majority-element-ii)/majority-element-ii.java)|[:memo:](https://leetcode.com/articles/majority-element-ii/)|Medium|
 |230|230|[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0230-0230(kth-smallest-element-in-a-bst)/kth-smallest-element-in-a-bst.java)|[:memo:](https://leetcode.com/articles/kth-smallest-element-in-a-bst/)|Medium|
 |231|231|[power-of-two](https://leetcode.com/problems/power-of-two)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0231-0231(power-of-two)/power-of-two.java)|[:memo:](https://leetcode.com/articles/power-of-two/)|Easy|
 |232|232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks)||[:memo:](https://leetcode.com/articles/implement-queue-using-stacks/)|Easy|
@@ -338,7 +338,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |337|337|[house-robber-iii](https://leetcode.com/problems/house-robber-iii)|||Medium|
 |338|338|[counting-bits](https://leetcode.com/problems/counting-bits)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0338-0338(counting-bits)/counting-bits.java)|[:memo:](https://leetcode.com/articles/counting-bits/)|Medium|
 |339|339|[nested-list-weight-sum](https://leetcode.com/problems/nested-list-weight-sum)|:lock:|[:memo:](https://leetcode.com/articles/nested-list-weight-sum/)|Easy|
-|340|340|[longest-substring-with-at-most-k-distinct-characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|:lock:|[:memo:](https://leetcode.com/articles/longest-substring-with-at-most-k-distinct-characte/)|Hard|
+|340|340|[longest-substring-with-at-most-k-distinct-characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|:lock:|[:memo:](https://leetcode.com/articles/longest-substring-with-at-most-k-distinct-characters/)|Hard|
 |341|341|[flatten-nested-list-iterator](https://leetcode.com/problems/flatten-nested-list-iterator)||[:memo:](https://leetcode.com/articles/flatten-nested-iterator/)|Medium|
 |342|342|[power-of-four](https://leetcode.com/problems/power-of-four)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0342-0342(power-of-four)/power-of-four.java)|[:memo:](https://leetcode.com/articles/power-of-four/)|Easy|
 |343|343|[integer-break](https://leetcode.com/problems/integer-break)|||Medium|
@@ -650,7 +650,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |711|711|[number-of-distinct-islands-ii](https://leetcode.com/problems/number-of-distinct-islands-ii)|:lock:|[:memo:](https://leetcode.com/articles/number-of-distinct-islands-ii/)|Hard|
 |712|712|[minimum-ascii-delete-sum-for-two-strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings)||[:memo:](https://leetcode.com/articles/minimum-ascii-delete-sum-for-two-strings/)|Medium|
 |713|713|[subarray-product-less-than-k](https://leetcode.com/problems/subarray-product-less-than-k)||[:memo:](https://leetcode.com/articles/subarray-product-less-than-k/)|Medium|
-|714|714|[best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-with-transaction-f/)|Medium|
+|714|714|[best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-with-transaction-fee/)|Medium|
 |715|715|[range-module](https://leetcode.com/problems/range-module)||[:memo:](https://leetcode.com/articles/range-module/)|Hard|
 |716|716|[max-stack](https://leetcode.com/problems/max-stack)|:lock:|[:memo:](https://leetcode.com/articles/max-stack/)|Easy|
 |717|717|[1-bit-and-2-bit-characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0717-0717(1-bit-and-2-bit-characters)/1-bit-and-2-bit-characters.java)|[:memo:](https://leetcode.com/articles/1-bit-and-2-bit-characters/)|Easy|
@@ -694,7 +694,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |755|754|[reach-a-number](https://leetcode.com/problems/reach-a-number)||[:memo:](https://leetcode.com/articles/reach-a-number/)|Medium|
 |756|755|[pour-water](https://leetcode.com/problems/pour-water)|:lock:|[:memo:](https://leetcode.com/articles/pour-water/)|Medium|
 |757|756|[pyramid-transition-matrix](https://leetcode.com/problems/pyramid-transition-matrix)||[:memo:](https://leetcode.com/articles/pyramid-transition-matrix/)|Medium|
-|758|426|[convert-binary-search-tree-to-sorted-doubly-linked-list](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list)|:lock:|[:memo:](https://leetcode.com/articles/convert-binary-search-tree-to-sorted-doubly-linked/)|Medium|
+|758|426|[convert-binary-search-tree-to-sorted-doubly-linked-list](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list)|:lock:|[:memo:](https://leetcode.com/articles/convert-binary-search-tree-to-sorted-doubly-linked-list/)|Medium|
 |759|757|[set-intersection-size-at-least-two](https://leetcode.com/problems/set-intersection-size-at-least-two)||[:memo:](https://leetcode.com/articles/set-intersection-size-at-least-two/)|Hard|
 |760|758|[bold-words-in-string](https://leetcode.com/problems/bold-words-in-string)|:lock:|[:memo:](https://leetcode.com/articles/bold-words-in-string/)|Easy|
 |761|759|[employee-free-time](https://leetcode.com/problems/employee-free-time)|:lock:|[:memo:](https://leetcode.com/articles/employee-free-time/)|Hard|
@@ -854,7 +854,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |922|886|[possible-bipartition](https://leetcode.com/problems/possible-bipartition)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0922-0886(possible-bipartition)/possible-bipartition.java)|[:memo:](https://leetcode.com/articles/possible-bipartition/)|Medium|
 |923|887|[super-egg-drop](https://leetcode.com/problems/super-egg-drop)||[:memo:](https://leetcode.com/articles/super-egg-drop/)|Hard|
 |924|888|[fair-candy-swap](https://leetcode.com/problems/fair-candy-swap)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0924-0888(fair-candy-swap)/fair-candy-swap.java)|[:memo:](https://leetcode.com/articles/fair-candy-swap/)|Easy|
-|925|889|[construct-binary-tree-from-preorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-postorder-/)|Medium|
+|925|889|[construct-binary-tree-from-preorder-and-postorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-postorder-traversal/)|Medium|
 |926|890|[find-and-replace-pattern](https://leetcode.com/problems/find-and-replace-pattern)||[:memo:](https://leetcode.com/articles/find-and-replace-pattern/)|Medium|
 |927|891|[sum-of-subsequence-widths](https://leetcode.com/problems/sum-of-subsequence-widths)||[:memo:](https://leetcode.com/articles/sum-of-subsequence-widths/)|Hard|
 |928|892|[surface-area-of-3d-shapes](https://leetcode.com/problems/surface-area-of-3d-shapes)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0928-0892(surface-area-of-3d-shapes)/surface-area-of-3d-shapes.java)|[:memo:](https://leetcode.com/articles/surface-area-of-3d-shapes/)|Easy|
@@ -1003,7 +1003,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1076|1087|[brace-expansion](https://leetcode.com/problems/brace-expansion)|:lock:||Medium|
 |1077|1088|[confusing-number-ii](https://leetcode.com/problems/confusing-number-ii)|:lock:||Hard|
 |1078|1021|[remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1078-1021(remove-outermost-parentheses)/remove-outermost-parentheses.java)||Easy|
-|1079|1022|[sum-of-root-to-leaf-binary-numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1079-1022(sum-of-root-to-leaf-binary-numbers)/sum-of-root-to-leaf-binary-numbers.java)||Easy|
+|1079|1022|[sum-of-root-to-leaf-binary-numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1079-1022(sum-of-root-to-leaf-binary-numbers)/sum-of-root-to-leaf-binary-numbers.java)|[:memo:](https://leetcode.com/articles/sum-root-to-leaf-binary-numbers/)|Easy|
 |1080|1023|[camelcase-matching](https://leetcode.com/problems/camelcase-matching)|||Medium|
 |1081|1024|[video-stitching](https://leetcode.com/problems/video-stitching)|||Medium|
 |1082|1085|[sum-of-digits-in-the-minimum-number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number)|:lock:||Easy|
@@ -1256,7 +1256,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1444|1342|[number-of-steps-to-reduce-a-number-to-zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1444-1342(number-of-steps-to-reduce-a-number-to-zero)/number-of-steps-to-reduce-a-number-to-zero.java)|[:memo:](https://leetcode.com/articles/number-of-steps-to-reduce-a-number-to-zero/)|Easy|
 |1445|1343|[number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold)|||Medium|
 |1446|1344|[angle-between-hands-of-a-clock](https://leetcode.com/problems/angle-between-hands-of-a-clock)||[:memo:](https://leetcode.com/articles/angle-between-hands-of-a-clock/)|Medium|
-|1447|1345|[jump-game-iv](https://leetcode.com/problems/jump-game-iv)|||Hard|
+|1447|1345|[jump-game-iv](https://leetcode.com/problems/jump-game-iv)||[:memo:](https://leetcode.com/articles/jump-game-iv/)|Hard|
 |1448|1323|[maximum-69-number](https://leetcode.com/problems/maximum-69-number)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1448-1323(maximum-69-number)/maximum-69-number.java)||Easy|
 |1449|1324|[print-words-vertically](https://leetcode.com/problems/print-words-vertically)|||Medium|
 |1450|1325|[delete-leaves-with-a-given-value](https://leetcode.com/problems/delete-leaves-with-a-given-value)|||Medium|
@@ -1347,7 +1347,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1554|1443|[minimum-time-to-collect-all-apples-in-a-tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree)|||Medium|
 |1555|1444|[number-of-ways-of-cutting-a-pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza)|||Hard|
 |1556|1460|[make-two-arrays-equal-by-reversing-sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays)|||Easy|
-|1557|1461|[check-if-a-string-contains-all-binary-codes-of-size-k](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k)||[:memo:](https://leetcode.com/articles/check-if-a-string-contains-all-binary-codes-of-siz/)|Medium|
+|1557|1461|[check-if-a-string-contains-all-binary-codes-of-size-k](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k)||[:memo:](https://leetcode.com/articles/check-if-a-string-contains-all-binary-codes-of-size-k/)|Medium|
 |1558|1462|[course-schedule-iv](https://leetcode.com/problems/course-schedule-iv)|||Medium|
 |1559|1463|[cherry-pickup-ii](https://leetcode.com/problems/cherry-pickup-ii)|||Hard|
 |1560|1450|[number-of-students-doing-homework-at-a-given-time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)|||Easy|
@@ -1433,3 +1433,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1676|1553|[minimum-number-of-days-to-eat-n-oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges)|||Hard|
 |1681|1538|[guess-the-majority-in-a-hidden-array](https://leetcode.com/problems/guess-the-majority-in-a-hidden-array)|:lock:||Medium|
 |1687|1548|[the-most-similar-path-in-a-graph](https://leetcode.com/problems/the-most-similar-path-in-a-graph)|:lock:||Hard|
+|1697|1554|[strings-differ-by-one-character](https://leetcode.com/problems/strings-differ-by-one-character)|:lock:||Medium|

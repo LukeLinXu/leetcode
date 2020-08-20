@@ -1,4 +1,4 @@
-// You have n candies of different types, the ith candy is of type candies[i].
+// You have n candies, the ith candy is of type candies[i].
 //
 // You want to distribute the candies equally between a sister and a brother so that each of them gets n / 2 candies (n is even). The sister loves to collect different types of candies, so you want to give her the maximum number of different types of candies.
 //

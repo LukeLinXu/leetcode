@@ -1,6 +1,10 @@
-// There are n people whose IDs go from 0 to n - 1 and each person belongs exactly to one group. Given the array groupSizes of length n telling the group size each person belongs to, return the groups there are and the people's IDs each group includes.
+// There are n people, each of them has a unique ID from 0 to n - 1 and each person of them belongs to exactly one group.
 //
-// You can return any solution in any order and the same applies for IDs. Also, it is guaranteed that there exists at least one solution. 
+// Given an integer array groupSizes which indicated that the person with ID = i belongs to a group of groupSize[i] persons.
+//
+// Return an array of the groups where ans[j] contains the IDs of the jth group. Each ID should belong to exactly one group and each ID should be present in your answer. Also if a person with ID = i belongs to group j in your answer, then ans[j].length == groupSize[i] should be true.
+//
+// If there is multiple answers, return any of them. It is guaranteed that there will be at least one valid solution for the given input.
 //
 //  
 // Example 1:

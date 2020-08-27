@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-08-24 11:39:38
+Update time:  2020-08-27 11:40:33
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1426** problems
-while there are **225** problems still locked.
+I have solved **335   /   1427** problems
+while there are **226** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -414,7 +414,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |413|413|[arithmetic-slices](https://leetcode.com/problems/arithmetic-slices)||[:memo:](https://leetcode.com/articles/arithmetic-slices/)|Medium|
 |414|414|[third-maximum-number](https://leetcode.com/problems/third-maximum-number)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0414-0414(third-maximum-number)/third-maximum-number.java)|[:memo:](https://leetcode.com/articles/third-maximum-number/)|Easy|
 |415|415|[add-strings](https://leetcode.com/problems/add-strings)||[:memo:](https://leetcode.com/articles/add-strings/)|Easy|
-|416|416|[partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum)|||Medium|
+|416|416|[partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum)||[:memo:](https://leetcode.com/articles/partition-equal-subset-sum/)|Medium|
 |417|417|[pacific-atlantic-water-flow](https://leetcode.com/problems/pacific-atlantic-water-flow)|||Medium|
 |418|418|[sentence-screen-fitting](https://leetcode.com/problems/sentence-screen-fitting)|:lock:||Medium|
 |419|419|[battleships-in-a-board](https://leetcode.com/problems/battleships-in-a-board)|||Medium|
@@ -1019,7 +1019,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1092|1026|[maximum-difference-between-node-and-ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)|||Medium|
 |1093|1028|[recover-a-tree-from-preorder-traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)|||Hard|
 |1094|1030|[matrix-cells-in-distance-order](https://leetcode.com/problems/matrix-cells-in-distance-order)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1094-1030(matrix-cells-in-distance-order)/matrix-cells-in-distance-order.java)||Easy|
-|1095|1029|[two-city-scheduling](https://leetcode.com/problems/two-city-scheduling)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1095-1029(two-city-scheduling)/two-city-scheduling.java)|[:memo:](https://leetcode.com/articles/two-city-scheduling/)|Easy|
+|1095|1029|[two-city-scheduling](https://leetcode.com/problems/two-city-scheduling)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1095-1029(two-city-scheduling)/two-city-scheduling.java)|[:memo:](https://leetcode.com/articles/two-city-scheduling/)|Medium|
 |1096|1031|[maximum-sum-of-two-non-overlapping-subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays)|||Medium|
 |1097|1032|[stream-of-characters](https://leetcode.com/problems/stream-of-characters)||[:memo:](https://leetcode.com/articles/stream-of-characters/)|Hard|
 |1098|1133|[largest-unique-number](https://leetcode.com/problems/largest-unique-number)|:lock:||Easy|
@@ -1384,7 +1384,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1613|1489|[find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)|||Hard|
 |1615|1508|[range-sum-of-sorted-subarray-sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums)|||Medium|
 |1616|1509|[minimum-difference-between-largest-and-smallest-value-in-three-moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves)|||Medium|
-|1617|1510|[stone-game-iv](https://leetcode.com/problems/stone-game-iv)|||Hard|
+|1617|1510|[stone-game-iv](https://leetcode.com/problems/stone-game-iv)||[:memo:](https://leetcode.com/articles/stone-game-iv/)|Hard|
 |1618|1474|[delete-n-nodes-after-m-nodes-of-a-linked-list](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list)|:lock:||Easy|
 |1619|1496|[path-crossing](https://leetcode.com/problems/path-crossing)|||Easy|
 |1620|1497|[check-if-array-pairs-are-divisible-by-k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k)|||Medium|
@@ -1442,3 +1442,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1685|1563|[stone-game-v](https://leetcode.com/problems/stone-game-v)|||Hard|
 |1687|1548|[the-most-similar-path-in-a-graph](https://leetcode.com/problems/the-most-similar-path-in-a-graph)|:lock:||Hard|
 |1697|1554|[strings-differ-by-one-character](https://leetcode.com/problems/strings-differ-by-one-character)|:lock:||Medium|
+|1703|1564|[put-boxes-into-the-warehouse-i](https://leetcode.com/problems/put-boxes-into-the-warehouse-i)|:lock:||Medium|

@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-08-27 11:40:33
+Update time:  2020-08-30 11:40:10
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1427** problems
+I have solved **335   /   1431** problems
 while there are **226** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -160,7 +160,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |142|142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)||[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
 |143|143|[reorder-list](https://leetcode.com/problems/reorder-list)||[:memo:](https://leetcode.com/articles/reorder-list/)|Medium|
 |144|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-traversal/)|Medium|
-|145|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-traversal/)|Hard|
+|145|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-traversal/)|Medium|
 |146|146|[lru-cache](https://leetcode.com/problems/lru-cache)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0146-0146(lru-cache)/lru-cache.java)|[:memo:](https://leetcode.com/articles/lru-cache/)|Medium|
 |147|147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|||Medium|
 |148|148|[sort-list](https://leetcode.com/problems/sort-list)|||Medium|
@@ -633,7 +633,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |683|683|[k-empty-slots](https://leetcode.com/problems/k-empty-slots)|:lock:|[:memo:](https://leetcode.com/articles/k-empty-slots/)|Hard|
 |684|684|[redundant-connection](https://leetcode.com/problems/redundant-connection)||[:memo:](https://leetcode.com/articles/redundant-connection/)|Medium|
 |685|685|[redundant-connection-ii](https://leetcode.com/problems/redundant-connection-ii)||[:memo:](https://leetcode.com/articles/redundant-connection-ii/)|Hard|
-|686|686|[repeated-string-match](https://leetcode.com/problems/repeated-string-match)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0686-0686(repeated-string-match)/repeated-string-match.java)|[:memo:](https://leetcode.com/articles/repeated-string-match/)|Easy|
+|686|686|[repeated-string-match](https://leetcode.com/problems/repeated-string-match)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0686-0686(repeated-string-match)/repeated-string-match.java)|[:memo:](https://leetcode.com/articles/repeated-string-match/)|Medium|
 |687|687|[longest-univalue-path](https://leetcode.com/problems/longest-univalue-path)||[:memo:](https://leetcode.com/articles/longest-univalue-path/)|Easy|
 |688|688|[knight-probability-in-chessboard](https://leetcode.com/problems/knight-probability-in-chessboard)||[:memo:](https://leetcode.com/articles/knight-probability-in-chessboard/)|Medium|
 |689|689|[maximum-sum-of-3-non-overlapping-subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays)||[:memo:](https://leetcode.com/articles/maximum-sum-of-3-non-overlapping-intervals/)|Hard|
@@ -1441,5 +1441,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1684|1562|[find-latest-group-of-size-m](https://leetcode.com/problems/find-latest-group-of-size-m)|||Medium|
 |1685|1563|[stone-game-v](https://leetcode.com/problems/stone-game-v)|||Hard|
 |1687|1548|[the-most-similar-path-in-a-graph](https://leetcode.com/problems/the-most-similar-path-in-a-graph)|:lock:||Hard|
+|1689|1566|[detect-pattern-of-length-m-repeated-k-or-more-times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times)|||Easy|
+|1690|1567|[maximum-length-of-subarray-with-positive-product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product)|||Medium|
+|1691|1568|[minimum-number-of-days-to-disconnect-island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island)|||Medium|
+|1692|1569|[number-of-ways-to-reorder-array-to-get-same-bst](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst)|||Hard|
 |1697|1554|[strings-differ-by-one-character](https://leetcode.com/problems/strings-differ-by-one-character)|:lock:||Medium|
 |1703|1564|[put-boxes-into-the-warehouse-i](https://leetcode.com/problems/put-boxes-into-the-warehouse-i)|:lock:||Medium|

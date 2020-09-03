@@ -28,7 +28,7 @@
 // Example 4:
 //
 //
-// Input: a = "abc, b = "wxyz"
+// Input: a = "abc", b = "wxyz"
 // Output: -1
 //
 //

@@ -1,38 +1,52 @@
-// In a string S of lowercase letters, these letters form consecutive groups of the same character.
+// In a string s of lowercase letters, these letters form consecutive groups of the same character.
 //
-// For example, a string like S = "abbxxxxzyy" has the groups "a", "bb", "xxxx", "z" and "yy".
+// For example, a string like s = "abbxxxxzyy" has the groups "a", "bb", "xxxx", "z", and "yy".
 //
-// Call a group large if it has 3 or more characters.  We would like the starting and ending positions of every large group.
+// A group is identified by an interval [start, end], where start and end denote the start and end indices (inclusive) of the group. In the above example, "xxxx" has the interval [3,6].
 //
-// The final answer should be in lexicographic order.
+// A group is considered large if it has 3 or more characters.
+//
+// Return the intervals of every large group sorted in increasing order by start index.
 //
 //  
-//
 // Example 1:
 //
 //
-// Input: "abbxxxxzzy"
+// Input: s = "abbxxxxzzy"
 // Output: [[3,6]]
-// Explanation: "xxxx" is the single large group with starting  3 and ending positions 6.
+// Explanation: "xxxx" is the only large group with start index 3 and end index 6.
 //
 //
 // Example 2:
 //
 //
-// Input: "abc"
+// Input: s = "abc"
 // Output: []
-// Explanation: We have "a","b" and "c" but no large group.
+// Explanation: We have groups "a", "b", and "c", none of which are large groups.
 //
 //
 // Example 3:
 //
 //
-// Input: "abcdddeeeeaabbbcd"
+// Input: s = "abcdddeeeeaabbbcd"
 // Output: [[3,5],[6,9],[12,14]]
+// Explanation: The large groups are "ddd", "eeee", and "bbb".
+//
+//
+// Example 4:
+//
+//
+// Input: s = "aba"
+// Output: []
+//
 //
 //  
+// Constraints:
 //
-// Note:  1 <= S.length <= 1000
+//
+// 	1 <= s.length <= 1000
+// 	s contains lower-case English letters only.
+//
 //
 
 

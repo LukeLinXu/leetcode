@@ -1,12 +1,15 @@
-// Design and implement a data structure for Least Recently Used (LRU) cache. It should support the following operations: get and put.
+// Design a data structure that follows the constraints of a Least Recently Used (LRU) cache.
 //
-// get(key) - Get the value (will always be positive) of the key if the key exists in the cache, otherwise return -1.
-// put(key, value) - Set or insert the value if the key is not already present. When the cache reached its capacity, it should invalidate the least recently used item before inserting a new item.
+// Implement the LRUCache class:
 //
-// The cache is initialized with a positive capacity.
+//
+// 	LRUCache(int capacity) Initialize the LRU cache with positive size capacity.
+// 	int get(int key) Return the value of the key if the key exists, otherwise return -1.
+// 	void put(int key, int value) Update the value of the key if the key exists. Otherwise, add the key-value pair to the cache. If the number of keys exceeds the capacity from this operation, evict the least recently used key.
+//
 //
 // Follow up:
-// Could you do both operations in O(1) time complexity?
+// Could you do get and put in O(1) time complexity?
 //
 //  
 // Example 1:
@@ -20,12 +23,12 @@
 //
 // Explanation
 // LRUCache lRUCache = new LRUCache(2);
-// lRUCache.put(1, 1);
-// lRUCache.put(2, 2);
+// lRUCache.put(1, 1); // cache is {1=1}
+// lRUCache.put(2, 2); // cache is {1=1, 2=2}
 // lRUCache.get(1);    // return 1
-// lRUCache.put(3, 3); // evicts key 2
+// lRUCache.put(3, 3); // LRU key was 2, evicts key 2, cache is {1=1, 3=3}
 // lRUCache.get(2);    // returns -1 (not found)
-// lRUCache.put(4, 4); // evicts key 1
+// lRUCache.put(4, 4); // LRU key was 1, evicts key 1, cache is {4=4, 3=3}
 // lRUCache.get(1);    // return -1 (not found)
 // lRUCache.get(3);    // return 3
 // lRUCache.get(4);    // return 4

@@ -4,10 +4,11 @@
 // Note:
 //
 //
-// 	All numbers will be positive integers.
 // 	The solution set must not contain duplicate combinations.
 //
 //
+//
+//  
 // Example 1:
 //
 //
@@ -19,7 +20,36 @@
 //
 //
 // Input: k = 3, n = 9
-// Output: [[1,2,6], [1,3,5], [2,3,4]]
+// Output: [[1,2,6],[1,3,5],[2,3,4]]
+//
+//
+// Example 3:
+//
+//
+// Input: k = 4, n = 1
+// Output: []
+//
+//
+// Example 4:
+//
+//
+// Input: k = 3, n = 2
+// Output: []
+//
+//
+// Example 5:
+//
+//
+// Input: k = 9, n = 45
+// Output: [[1,2,3,4,5,6,7,8,9]]
+//
+//
+//  
+// Constraints:
+//
+//
+// 	2 <= k <= 9
+// 	1 <= n <= 60
 //
 //
 

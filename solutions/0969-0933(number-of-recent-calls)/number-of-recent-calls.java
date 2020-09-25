@@ -9,25 +9,31 @@
 // It is guaranteed that every call to ping uses a strictly larger value of t than before.
 //
 //  
-//
 // Example 1:
 //
 //
-// Input: inputs = ["RecentCounter","ping","ping","ping","ping"], inputs = [[],[1],[100],[3001],[3002]]
-// Output: [null,1,2,3,3]
+// Input
+// ["RecentCounter", "ping", "ping", "ping", "ping"]
+// [[], [1], [100], [3001], [3002]]
+// Output
+// [null, 1, 2, 3, 3]
+//
+// Explanation
+// RecentCounter recentCounter = new RecentCounter();
+// recentCounter.ping(1);     // return 1
+// recentCounter.ping(100);   // return 2
+// recentCounter.ping(3001);  // return 3
+// recentCounter.ping(3002);  // return 3
+//
 //
 //  
-//
-// Note:
-//
-//
-// 	Each test case will have at most 10000 calls to ping.
-// 	Each test case will call ping with strictly increasing values of t.
-// 	Each call to ping will have 1 <= t <= 10^9.
+// Constraints:
 //
 //
+// 	1 <= t <= 104
+// 	Each test case will call ping with strictly increasing values of t.
+// 	At most 104 calls will be made to ping.
 //
-//  
 //
 
 

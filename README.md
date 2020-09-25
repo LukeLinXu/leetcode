@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-09-20 11:39:45
+Update time:  2020-09-25 11:40:07
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1454** problems
-while there are **229** problems still locked.
+I have solved **335   /   1455** problems
+while there are **230** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -146,7 +146,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |128|128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0128-0128(longest-consecutive-sequence)/longest-consecutive-sequence.java)|[:memo:](https://leetcode.com/articles/longest-consecutive-sequence/)|Hard|
 |129|129|[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)||[:memo:](https://leetcode.com/articles/sum-root-to-leaf-numbers/)|Medium|
 |130|130|[surrounded-regions](https://leetcode.com/problems/surrounded-regions)||[:memo:](https://leetcode.com/articles/surrounded-regions/)|Medium|
-|131|131|[palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning)|||Medium|
+|131|131|[palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning)||[:memo:](https://leetcode.com/articles/palindrome-partitioning/)|Medium|
 |132|132|[palindrome-partitioning-ii](https://leetcode.com/problems/palindrome-partitioning-ii)|||Hard|
 |133|133|[clone-graph](https://leetcode.com/problems/clone-graph)||[:memo:](https://leetcode.com/articles/clone-graph/)|Medium|
 |134|134|[gas-station](https://leetcode.com/problems/gas-station)||[:memo:](https://leetcode.com/articles/gas-station/)|Medium|
@@ -178,7 +178,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |160|160|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists)||[:memo:](https://leetcode.com/articles/intersection-of-two-linked-lists/)|Easy|
 |161|161|[one-edit-distance](https://leetcode.com/problems/one-edit-distance)|:lock:|[:memo:](https://leetcode.com/articles/one-edit-distance/)|Medium|
 |162|162|[find-peak-element](https://leetcode.com/problems/find-peak-element)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0162-0162(find-peak-element)/find-peak-element.java)|[:memo:](https://leetcode.com/articles/find-peak-element/)|Medium|
-|163|163|[missing-ranges](https://leetcode.com/problems/missing-ranges)|:lock:||Medium|
+|163|163|[missing-ranges](https://leetcode.com/problems/missing-ranges)|:lock:|[:memo:](https://leetcode.com/articles/missing-ranges/)|Medium|
 |164|164|[maximum-gap](https://leetcode.com/problems/maximum-gap)||[:memo:](https://leetcode.com/articles/maximum-gap/)|Hard|
 |165|165|[compare-version-numbers](https://leetcode.com/problems/compare-version-numbers)||[:memo:](https://leetcode.com/articles/compare-version-numbers/)|Medium|
 |166|166|[fraction-to-recurring-decimal](https://leetcode.com/problems/fraction-to-recurring-decimal)||[:memo:](https://leetcode.com/articles/fraction-to-recurring-decimal/)|Medium|
@@ -392,7 +392,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |391|391|[perfect-rectangle](https://leetcode.com/problems/perfect-rectangle)|||Hard|
 |392|392|[is-subsequence](https://leetcode.com/problems/is-subsequence)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0392-0392(is-subsequence)/is-subsequence.java)|[:memo:](https://leetcode.com/articles/is-subsequence/)|Easy|
 |393|393|[utf-8-validation](https://leetcode.com/problems/utf-8-validation)||[:memo:](https://leetcode.com/articles/utf-8-validation/)|Medium|
-|394|394|[decode-string](https://leetcode.com/problems/decode-string)|||Medium|
+|394|394|[decode-string](https://leetcode.com/problems/decode-string)||[:memo:](https://leetcode.com/articles/decode-string/)|Medium|
 |395|395|[longest-substring-with-at-least-k-repeating-characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)|||Medium|
 |396|396|[rotate-function](https://leetcode.com/problems/rotate-function)|||Medium|
 |397|397|[integer-replacement](https://leetcode.com/problems/integer-replacement)|||Medium|
@@ -1334,7 +1334,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1537|1422|[maximum-score-after-splitting-a-string](https://leetcode.com/problems/maximum-score-after-splitting-a-string)|||Easy|
 |1538|1423|[maximum-points-you-can-obtain-from-cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)|||Medium|
 |1539|1424|[diagonal-traverse-ii](https://leetcode.com/problems/diagonal-traverse-ii)|||Medium|
-|1542|1446|[consecutive-characters](https://leetcode.com/problems/consecutive-characters)|||Easy|
+|1542|1446|[consecutive-characters](https://leetcode.com/problems/consecutive-characters)||[:memo:](https://leetcode.com/articles/consecutive-characters/)|Easy|
 |1543|1447|[simplified-fractions](https://leetcode.com/problems/simplified-fractions)|||Medium|
 |1544|1448|[count-good-nodes-in-binary-tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)|||Medium|
 |1545|1449|[form-largest-integer-with-digits-that-add-up-to-target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target)|||Hard|
@@ -1470,3 +1470,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1717|1595|[minimum-cost-to-connect-two-groups-of-points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points)|||Hard|
 |1719|1580|[put-boxes-into-the-warehouse-ii](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii)|:lock:||Medium|
 |1729|1586|[binary-search-tree-iterator-ii](https://leetcode.com/problems/binary-search-tree-iterator-ii)|:lock:||Medium|
+|1736|1597|[build-binary-expression-tree-from-infix-expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression)|:lock:||Medium|

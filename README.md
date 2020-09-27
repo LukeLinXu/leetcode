@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-09-25 11:40:07
+Update time:  2020-09-27 11:39:59
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1455** problems
+I have solved **335   /   1459** problems
 while there are **230** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -255,7 +255,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |253|253|[meeting-rooms-ii](https://leetcode.com/problems/meeting-rooms-ii)|:lock:|[:memo:](https://leetcode.com/articles/meeting-rooms-ii/)|Medium|
 |254|254|[factor-combinations](https://leetcode.com/problems/factor-combinations)|:lock:||Medium|
 |255|255|[verify-preorder-sequence-in-binary-search-tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree)|:lock:||Medium|
-|256|256|[paint-house](https://leetcode.com/problems/paint-house)|:lock:|[:memo:](https://leetcode.com/articles/paint-house/)|Easy|
+|256|256|[paint-house](https://leetcode.com/problems/paint-house)|:lock:|[:memo:](https://leetcode.com/articles/paint-house/)|Medium|
 |257|257|[binary-tree-paths](https://leetcode.com/problems/binary-tree-paths)||[:memo:](https://leetcode.com/articles/binary-tree-paths/)|Easy|
 |258|258|[add-digits](https://leetcode.com/problems/add-digits)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0258-0258(add-digits)/add-digits.java)|[:memo:](https://leetcode.com/articles/add-digits/)|Easy|
 |259|259|[3sum-smaller](https://leetcode.com/problems/3sum-smaller)|:lock:|[:memo:](https://leetcode.com/articles/3sum-smaller/)|Medium|
@@ -521,7 +521,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |535|535|[encode-and-decode-tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0535-0535(encode-and-decode-tinyurl)/encode-and-decode-tinyurl.java)|[:memo:](https://leetcode.com/articles/encode-and-decode-tinyurl/)|Medium|
 |536|536|[construct-binary-tree-from-string](https://leetcode.com/problems/construct-binary-tree-from-string)|:lock:||Medium|
 |537|537|[complex-number-multiplication](https://leetcode.com/problems/complex-number-multiplication)||[:memo:](https://leetcode.com/articles/complex-number-multiplication/)|Medium|
-|538|538|[convert-bst-to-greater-tree](https://leetcode.com/problems/convert-bst-to-greater-tree)||[:memo:](https://leetcode.com/articles/convert-bst-to-greater-tree/)|Easy|
+|538|538|[convert-bst-to-greater-tree](https://leetcode.com/problems/convert-bst-to-greater-tree)||[:memo:](https://leetcode.com/articles/convert-bst-to-greater-tree/)|Medium|
 |539|539|[minimum-time-difference](https://leetcode.com/problems/minimum-time-difference)|||Medium|
 |540|540|[single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0540-0540(single-element-in-a-sorted-array)/single-element-in-a-sorted-array.java)|[:memo:](https://leetcode.com/articles/single-element-in-a-sorted-array/)|Medium|
 |541|541|[reverse-string-ii](https://leetcode.com/problems/reverse-string-ii)||[:memo:](https://leetcode.com/articles/reverse-string-ii/)|Easy|
@@ -581,7 +581,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |630|630|[course-schedule-iii](https://leetcode.com/problems/course-schedule-iii)||[:memo:](https://leetcode.com/articles/course-schedule-iii/)|Hard|
 |631|631|[design-excel-sum-formula](https://leetcode.com/problems/design-excel-sum-formula)|:lock:|[:memo:](https://leetcode.com/articles/design-excel-sum-formula/)|Hard|
 |632|632|[smallest-range-covering-elements-from-k-lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists)||[:memo:](https://leetcode.com/articles/smallest-range/)|Hard|
-|633|633|[sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers)||[:memo:](https://leetcode.com/articles/sum-of-square-numbers/)|Easy|
+|633|633|[sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers)||[:memo:](https://leetcode.com/articles/sum-of-square-numbers/)|Medium|
 |634|634|[find-the-derangement-of-an-array](https://leetcode.com/problems/find-the-derangement-of-an-array)|:lock:|[:memo:](https://leetcode.com/articles/find-derangements/)|Medium|
 |635|635|[design-log-storage-system](https://leetcode.com/problems/design-log-storage-system)|:lock:|[:memo:](https://leetcode.com/articles/design-log-storage/)|Medium|
 |636|636|[exclusive-time-of-functions](https://leetcode.com/problems/exclusive-time-of-functions)||[:memo:](https://leetcode.com/articles/exclusive-time-of-functions/)|Medium|
@@ -1469,5 +1469,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1716|1594|[maximum-non-negative-product-in-a-matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix)|||Medium|
 |1717|1595|[minimum-cost-to-connect-two-groups-of-points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points)|||Hard|
 |1719|1580|[put-boxes-into-the-warehouse-ii](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii)|:lock:||Medium|
+|1720|1598|[crawler-log-folder](https://leetcode.com/problems/crawler-log-folder)|||Easy|
+|1721|1599|[maximum-profit-of-operating-a-centennial-wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel)|||Medium|
+|1722|1600|[throne-inheritance](https://leetcode.com/problems/throne-inheritance)|||Medium|
+|1723|1601|[maximum-number-of-achievable-transfer-requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests)|||Hard|
 |1729|1586|[binary-search-tree-iterator-ii](https://leetcode.com/problems/binary-search-tree-iterator-ii)|:lock:||Medium|
 |1736|1597|[build-binary-expression-tree-from-infix-expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression)|:lock:||Medium|

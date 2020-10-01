@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-09-27 11:39:59
+Update time:  2020-10-01 11:40:13
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1459** problems
-while there are **230** problems still locked.
+I have solved **335   /   1460** problems
+while there are **231** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -270,7 +270,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |269|269|[alien-dictionary](https://leetcode.com/problems/alien-dictionary)|:lock:|[:memo:](https://leetcode.com/articles/alien-dictionary/)|Hard|
 |270|270|[closest-binary-search-tree-value](https://leetcode.com/problems/closest-binary-search-tree-value)|:lock:|[:memo:](https://leetcode.com/articles/closest-bst-value/)|Easy|
 |271|271|[encode-and-decode-strings](https://leetcode.com/problems/encode-and-decode-strings)|:lock:|[:memo:](https://leetcode.com/articles/encode-and-decode-strings/)|Medium|
-|272|272|[closest-binary-search-tree-value-ii](https://leetcode.com/problems/closest-binary-search-tree-value-ii)|:lock:||Hard|
+|272|272|[closest-binary-search-tree-value-ii](https://leetcode.com/problems/closest-binary-search-tree-value-ii)|:lock:|[:memo:](https://leetcode.com/articles/closest-bst-value-ii/)|Hard|
 |273|273|[integer-to-english-words](https://leetcode.com/problems/integer-to-english-words)||[:memo:](https://leetcode.com/articles/integer-to-english-words/)|Hard|
 |274|274|[h-index](https://leetcode.com/problems/h-index)||[:memo:](https://leetcode.com/articles/h-index/)|Medium|
 |275|275|[h-index-ii](https://leetcode.com/problems/h-index-ii)||[:memo:](https://leetcode.com/articles/h-index-ii/)|Medium|
@@ -516,7 +516,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |529|529|[minesweeper](https://leetcode.com/problems/minesweeper)|||Medium|
 |530|530|[minimum-absolute-difference-in-bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0530-0530(minimum-absolute-difference-in-bst)/minimum-absolute-difference-in-bst.java)||Easy|
 |531|531|[lonely-pixel-i](https://leetcode.com/problems/lonely-pixel-i)|:lock:||Medium|
-|532|532|[k-diff-pairs-in-an-array](https://leetcode.com/problems/k-diff-pairs-in-an-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0532-0532(k-diff-pairs-in-an-array)/k-diff-pairs-in-an-array.java)|[:memo:](https://leetcode.com/articles/k-diff-pairs-in-an-array/)|Easy|
+|532|532|[k-diff-pairs-in-an-array](https://leetcode.com/problems/k-diff-pairs-in-an-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0532-0532(k-diff-pairs-in-an-array)/k-diff-pairs-in-an-array.java)|[:memo:](https://leetcode.com/articles/k-diff-pairs-in-an-array/)|Medium|
 |533|533|[lonely-pixel-ii](https://leetcode.com/problems/lonely-pixel-ii)|:lock:||Medium|
 |535|535|[encode-and-decode-tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0535-0535(encode-and-decode-tinyurl)/encode-and-decode-tinyurl.java)|[:memo:](https://leetcode.com/articles/encode-and-decode-tinyurl/)|Medium|
 |536|536|[construct-binary-tree-from-string](https://leetcode.com/problems/construct-binary-tree-from-string)|:lock:||Medium|
@@ -1474,4 +1474,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1722|1600|[throne-inheritance](https://leetcode.com/problems/throne-inheritance)|||Medium|
 |1723|1601|[maximum-number-of-achievable-transfer-requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests)|||Hard|
 |1729|1586|[binary-search-tree-iterator-ii](https://leetcode.com/problems/binary-search-tree-iterator-ii)|:lock:||Medium|
-|1736|1597|[build-binary-expression-tree-from-infix-expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression)|:lock:||Medium|
+|1736|1597|[build-binary-expression-tree-from-infix-expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression)|:lock:||Hard|
+|1745|1602|[find-nearest-right-node-in-binary-tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree)|:lock:||Medium|

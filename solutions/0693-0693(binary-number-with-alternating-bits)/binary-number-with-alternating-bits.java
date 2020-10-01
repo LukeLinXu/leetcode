@@ -19,8 +19,8 @@
 // Example 3:
 //
 //
-// Input: n = 1
-// Output: true
+// Input: n = 11
+// Output: false
 // Explanation: The binary representation of 11 is: 1011.
 //
 // Example 4:

@@ -26,7 +26,7 @@
 // Example 4:
 //
 //
-// Input: n = 2
+// Input: n = 10
 // Output: true
 // Explanation: The binary representation of 10 is: 1010.
 //

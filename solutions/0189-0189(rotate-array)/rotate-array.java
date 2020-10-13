@@ -33,9 +33,9 @@
 // Constraints:
 //
 //
-// 	1 <= nums.length <= 2 * 10^4
-// 	It's guaranteed that nums[i] fits in a 32 bit-signed integer.
-// 	k >= 0
+// 	1 <= nums.length <= 2 * 104
+// 	-231 <= nums[i] <= 231 - 1
+// 	0 <= k <= 105
 //
 //
 

@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-10-08 11:39:43
+Update time:  2020-10-13 11:39:52
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1469** problems
+I have solved **335   /   1473** problems
 while there are **232** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -194,7 +194,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |186|186|[reverse-words-in-a-string-ii](https://leetcode.com/problems/reverse-words-in-a-string-ii)|:lock:|[:memo:](https://leetcode.com/articles/reverse-words-in-a-string-ii/)|Medium|
 |187|187|[repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)||[:memo:](https://leetcode.com/articles/repeated-dna-sequences/)|Medium|
 |188|188|[best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-iv/)|Hard|
-|189|189|[rotate-array](https://leetcode.com/problems/rotate-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0189-0189(rotate-array)/rotate-array.java)|[:memo:](https://leetcode.com/articles/rotate-array/)|Easy|
+|189|189|[rotate-array](https://leetcode.com/problems/rotate-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0189-0189(rotate-array)/rotate-array.java)|[:memo:](https://leetcode.com/articles/rotate-array/)|Medium|
 |190|190|[reverse-bits](https://leetcode.com/problems/reverse-bits)||[:memo:](https://leetcode.com/articles/reverse-bits/)|Easy|
 |191|191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0191-0191(number-of-1-bits)/number-of-1-bits.java)|[:memo:](https://leetcode.com/articles/number-1-bits/)|Easy|
 |198|198|[house-robber](https://leetcode.com/problems/house-robber)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0198-0198(house-robber)/house-robber.java)|[:memo:](https://leetcode.com/articles/house-robber/)|Easy|
@@ -1048,7 +1048,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1123|1165|[single-row-keyboard](https://leetcode.com/problems/single-row-keyboard)|:lock:||Easy|
 |1124|1153|[string-transforms-into-another-string](https://leetcode.com/problems/string-transforms-into-another-string)|:lock:||Hard|
 |1125|1166|[design-file-system](https://leetcode.com/problems/design-file-system)|:lock:||Medium|
-|1126|1167|[minimum-cost-to-connect-sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks)|:lock:||Medium|
+|1126|1167|[minimum-cost-to-connect-sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks)|:lock:|[:memo:](https://leetcode.com/articles/minimum-cost-to-connect-sticks/)|Medium|
 |1127|1046|[last-stone-weight](https://leetcode.com/problems/last-stone-weight)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1127-1046(last-stone-weight)/last-stone-weight.java)|[:memo:](https://leetcode.com/articles/last-stone-weight/)|Easy|
 |1128|1047|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1128-1047(remove-all-adjacent-duplicates-in-string)/remove-all-adjacent-duplicates-in-string.java)|[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string/)|Easy|
 |1129|1048|[longest-string-chain](https://leetcode.com/problems/longest-string-chain)|||Medium|
@@ -1483,5 +1483,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1732|1611|[minimum-one-bit-operations-to-make-integers-zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero)|||Hard|
 |1733|1610|[maximum-number-of-visible-points](https://leetcode.com/problems/maximum-number-of-visible-points)|||Hard|
 |1736|1597|[build-binary-expression-tree-from-infix-expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression)|:lock:||Hard|
-|1745|1602|[find-nearest-right-node-in-binary-tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree)|:lock:||Medium|
+|1737|1614|[maximum-nesting-depth-of-the-parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)|||Easy|
+|1738|1615|[maximal-network-rank](https://leetcode.com/problems/maximal-network-rank)|||Medium|
+|1739|1616|[split-two-strings-to-make-palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome)|||Medium|
+|1740|1617|[count-subtrees-with-max-distance-between-cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities)|||Hard|
+|1745|1602|[find-nearest-right-node-in-binary-tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/find-nearest-right-node-in-binary-tree/)|Medium|
 |1750|1612|[check-if-two-expression-trees-are-equivalent](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent)|:lock:||Medium|

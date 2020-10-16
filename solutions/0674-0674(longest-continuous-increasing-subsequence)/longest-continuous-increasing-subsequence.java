@@ -1,26 +1,34 @@
+// Given an unsorted array of integers nums, return the length of the longest continuous increasing subsequence (i.e. subarray). The subsequence must be strictly increasing.
 //
-// Given an unsorted array of integers, find the length of longest continuous increasing subsequence (subarray).
+// A continuous increasing subsequence is defined by two indices l and r (l < r) such that it is [nums[l], nums[l + 1], ..., nums[r - 1], nums[r]] and for each l <= i < r, nums[i] < nums[i + 1].
 //
-//
+//  
 // Example 1:
 //
-// Input: [1,3,5,4,7]
-// Output: 3
-// Explanation: The longest continuous increasing subsequence is [1,3,5], its length is 3. 
-// Even though [1,3,5,7] is also an increasing subsequence, it's not a continuous one where 5 and 7 are separated by 4. 
 //
+// Input: nums = [1,3,5,4,7]
+// Output: 3
+// Explanation: The longest continuous increasing subsequence is [1,3,5] with length 3.
+// Even though [1,3,5,7] is an increasing subsequence, it is not continuous as elements 5 and 7 are separated by element
+// 4.
 //
 //
 // Example 2:
 //
-// Input: [2,2,2,2,2]
+//
+// Input: nums = [2,2,2,2,2]
 // Output: 1
-// Explanation: The longest continuous increasing subsequence is [2], its length is 1. 
+// Explanation: The longest continuous increasing subsequence is [2] with length 1. Note that it must be strictly
+// increasing.
 //
 //
+//  
+// Constraints:
 //
-// Note:
-// Length of the array will not exceed 10,000.
+//
+// 	0 <= nums.length <= 104
+// 	-109 <= nums[i] <= 109
+//
 //
 
 

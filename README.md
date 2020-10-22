@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-10-18 11:39:32
+Update time:  2020-10-22 11:40:09
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1482** problems
-while there are **233** problems still locked.
+I have solved **335   /   1483** problems
+while there are **234** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -227,7 +227,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |225|225|[implement-stack-using-queues](https://leetcode.com/problems/implement-stack-using-queues)||[:memo:](https://leetcode.com/articles/implement-stack-using-queues/)|Easy|
 |226|226|[invert-binary-tree](https://leetcode.com/problems/invert-binary-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0226-0226(invert-binary-tree)/invert-binary-tree.java)|[:memo:](https://leetcode.com/articles/invert-binary-tree/)|Easy|
 |227|227|[basic-calculator-ii](https://leetcode.com/problems/basic-calculator-ii)||[:memo:](https://leetcode.com/articles/basic-calculator-ii/)|Medium|
-|228|228|[summary-ranges](https://leetcode.com/problems/summary-ranges)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0228-0228(summary-ranges)/summary-ranges.java)|[:memo:](https://leetcode.com/articles/summary-ranges/)|Medium|
+|228|228|[summary-ranges](https://leetcode.com/problems/summary-ranges)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0228-0228(summary-ranges)/summary-ranges.java)|[:memo:](https://leetcode.com/articles/summary-ranges/)|Easy|
 |229|229|[majority-element-ii](https://leetcode.com/problems/majority-element-ii)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0229-0229(majority-element-ii)/majority-element-ii.java)|[:memo:](https://leetcode.com/articles/majority-element-ii/)|Medium|
 |230|230|[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0230-0230(kth-smallest-element-in-a-bst)/kth-smallest-element-in-a-bst.java)|[:memo:](https://leetcode.com/articles/kth-smallest-element-in-a-bst/)|Medium|
 |231|231|[power-of-two](https://leetcode.com/problems/power-of-two)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0231-0231(power-of-two)/power-of-two.java)|[:memo:](https://leetcode.com/articles/power-of-two/)|Easy|
@@ -1498,3 +1498,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1747|1625|[lexicographically-smallest-string-after-applying-operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations)|||Medium|
 |1748|1626|[best-team-with-no-conflicts](https://leetcode.com/problems/best-team-with-no-conflicts)|||Medium|
 |1750|1612|[check-if-two-expression-trees-are-equivalent](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent)|:lock:||Medium|
+|1768|1628|[design-an-expression-tree-with-evaluate-function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function)|:lock:||Medium|

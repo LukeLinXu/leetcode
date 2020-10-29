@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-10-26 11:39:41
+Update time:  2020-10-29 11:39:45
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1487** problems
-while there are **234** problems still locked.
+I have solved **335   /   1488** problems
+while there are **235** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -178,7 +178,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |160|160|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists)||[:memo:](https://leetcode.com/articles/intersection-of-two-linked-lists/)|Easy|
 |161|161|[one-edit-distance](https://leetcode.com/problems/one-edit-distance)|:lock:|[:memo:](https://leetcode.com/articles/one-edit-distance/)|Medium|
 |162|162|[find-peak-element](https://leetcode.com/problems/find-peak-element)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0162-0162(find-peak-element)/find-peak-element.java)|[:memo:](https://leetcode.com/articles/find-peak-element/)|Medium|
-|163|163|[missing-ranges](https://leetcode.com/problems/missing-ranges)|:lock:|[:memo:](https://leetcode.com/articles/missing-ranges/)|Medium|
+|163|163|[missing-ranges](https://leetcode.com/problems/missing-ranges)|:lock:|[:memo:](https://leetcode.com/articles/missing-ranges/)|Easy|
 |164|164|[maximum-gap](https://leetcode.com/problems/maximum-gap)||[:memo:](https://leetcode.com/articles/maximum-gap/)|Hard|
 |165|165|[compare-version-numbers](https://leetcode.com/problems/compare-version-numbers)||[:memo:](https://leetcode.com/articles/compare-version-numbers/)|Medium|
 |166|166|[fraction-to-recurring-decimal](https://leetcode.com/problems/fraction-to-recurring-decimal)||[:memo:](https://leetcode.com/articles/fraction-to-recurring-decimal/)|Medium|
@@ -439,7 +439,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |444|444|[sequence-reconstruction](https://leetcode.com/problems/sequence-reconstruction)|:lock:||Medium|
 |445|445|[add-two-numbers-ii](https://leetcode.com/problems/add-two-numbers-ii)||[:memo:](https://leetcode.com/articles/add-two-numbers-ii/)|Medium|
 |446|446|[arithmetic-slices-ii-subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)||[:memo:](https://leetcode.com/articles/arithmetic-slices-ii-subsequence/)|Hard|
-|447|447|[number-of-boomerangs](https://leetcode.com/problems/number-of-boomerangs)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0447-0447(number-of-boomerangs)/number-of-boomerangs.java)||Easy|
+|447|447|[number-of-boomerangs](https://leetcode.com/problems/number-of-boomerangs)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0447-0447(number-of-boomerangs)/number-of-boomerangs.java)||Medium|
 |448|448|[find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0448-0448(find-all-numbers-disappeared-in-an-array)/find-all-numbers-disappeared-in-an-array.java)|[:memo:](https://leetcode.com/articles/find-all-numbers-disappeared-in-an-array/)|Easy|
 |449|449|[serialize-and-deserialize-bst](https://leetcode.com/problems/serialize-and-deserialize-bst)||[:memo:](https://leetcode.com/articles/serialize-and-deserialize-bst/)|Medium|
 |450|450|[delete-node-in-a-bst](https://leetcode.com/problems/delete-node-in-a-bst)||[:memo:](https://leetcode.com/articles/delete-node-in-a-bst/)|Medium|
@@ -1503,3 +1503,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1752|1630|[arithmetic-subarrays](https://leetcode.com/problems/arithmetic-subarrays)|||Medium|
 |1753|1631|[path-with-minimum-effort](https://leetcode.com/problems/path-with-minimum-effort)||[:memo:](https://leetcode.com/articles/path-with-minimum-effort/)|Medium|
 |1768|1628|[design-an-expression-tree-with-evaluate-function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function)|:lock:||Medium|
+|1774|1634|[add-two-polynomials-represented-as-linked-lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists)|:lock:||Medium|

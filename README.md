@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-10-29 11:39:45
+Update time:  2020-11-02 11:40:16
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1488** problems
+I have solved **335   /   1496** problems
 while there are **235** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -279,7 +279,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |278|278|[first-bad-version](https://leetcode.com/problems/first-bad-version)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0278-0278(first-bad-version)/first-bad-version.java)|[:memo:](https://leetcode.com/articles/first-bad-version/)|Easy|
 |279|279|[perfect-squares](https://leetcode.com/problems/perfect-squares)||[:memo:](https://leetcode.com/articles/perfect-squares/)|Medium|
 |280|280|[wiggle-sort](https://leetcode.com/problems/wiggle-sort)|:lock:|[:memo:](https://leetcode.com/articles/wiggle-sort/)|Medium|
-|281|281|[zigzag-iterator](https://leetcode.com/problems/zigzag-iterator)|:lock:||Medium|
+|281|281|[zigzag-iterator](https://leetcode.com/problems/zigzag-iterator)|:lock:|[:memo:](https://leetcode.com/articles/zigzag-iterator/)|Medium|
 |282|282|[expression-add-operators](https://leetcode.com/problems/expression-add-operators)||[:memo:](https://leetcode.com/articles/expression-add-operators/)|Hard|
 |283|283|[move-zeroes](https://leetcode.com/problems/move-zeroes)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0283-0283(move-zeroes)/move-zeroes.java)|[:memo:](https://leetcode.com/articles/move-zeroes/)|Easy|
 |284|284|[peeking-iterator](https://leetcode.com/problems/peeking-iterator)||[:memo:](https://leetcode.com/articles/peeking-iterator/)|Medium|
@@ -364,7 +364,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |363|363|[max-sum-of-rectangle-no-larger-than-k](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k)|||Hard|
 |364|364|[nested-list-weight-sum-ii](https://leetcode.com/problems/nested-list-weight-sum-ii)|:lock:||Medium|
 |365|365|[water-and-jug-problem](https://leetcode.com/problems/water-and-jug-problem)|||Medium|
-|366|366|[find-leaves-of-binary-tree](https://leetcode.com/problems/find-leaves-of-binary-tree)|:lock:||Medium|
+|366|366|[find-leaves-of-binary-tree](https://leetcode.com/problems/find-leaves-of-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/find-leaves-of-binary-tree/)|Medium|
 |367|367|[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0367-0367(valid-perfect-square)/valid-perfect-square.java)|[:memo:](https://leetcode.com/articles/valid-perfect-square/)|Easy|
 |368|368|[largest-divisible-subset](https://leetcode.com/problems/largest-divisible-subset)||[:memo:](https://leetcode.com/articles/largest-divisible-subset/)|Medium|
 |369|369|[plus-one-linked-list](https://leetcode.com/problems/plus-one-linked-list)|:lock:|[:memo:](https://leetcode.com/articles/plus-one-linked-list/)|Medium|
@@ -479,6 +479,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |486|486|[predict-the-winner](https://leetcode.com/problems/predict-the-winner)||[:memo:](https://leetcode.com/articles/predict-the-winner/)|Medium|
 |487|487|[max-consecutive-ones-ii](https://leetcode.com/problems/max-consecutive-ones-ii)|:lock:||Medium|
 |488|488|[zuma-game](https://leetcode.com/problems/zuma-game)|||Hard|
+|489|1643|[kth-smallest-instructions](https://leetcode.com/problems/kth-smallest-instructions)|||Hard|
 |490|490|[the-maze](https://leetcode.com/problems/the-maze)|:lock:|[:memo:](https://leetcode.com/articles/the-maze/)|Medium|
 |491|491|[increasing-subsequences](https://leetcode.com/problems/increasing-subsequences)|||Medium|
 |492|492|[construct-the-rectangle](https://leetcode.com/problems/construct-the-rectangle)|||Easy|
@@ -1494,6 +1495,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1738|1615|[maximal-network-rank](https://leetcode.com/problems/maximal-network-rank)|||Medium|
 |1739|1616|[split-two-strings-to-make-palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome)|||Medium|
 |1740|1617|[count-subtrees-with-max-distance-between-cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities)|||Hard|
+|1741|1636|[sort-array-by-increasing-frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency)|||Easy|
+|1742|1637|[widest-vertical-area-between-two-points-containing-no-points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points)|||Medium|
+|1743|1638|[count-substrings-that-differ-by-one-character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character)|||Medium|
+|1744|1639|[number-of-ways-to-form-a-target-string-given-a-dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary)|||Hard|
 |1745|1602|[find-nearest-right-node-in-binary-tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/find-nearest-right-node-in-binary-tree/)|Medium|
 |1746|1624|[largest-substring-between-two-equal-characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters)|||Easy|
 |1747|1625|[lexicographically-smallest-string-after-applying-operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations)|||Medium|
@@ -1502,5 +1507,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1751|1629|[slowest-key](https://leetcode.com/problems/slowest-key)|||Easy|
 |1752|1630|[arithmetic-subarrays](https://leetcode.com/problems/arithmetic-subarrays)|||Medium|
 |1753|1631|[path-with-minimum-effort](https://leetcode.com/problems/path-with-minimum-effort)||[:memo:](https://leetcode.com/articles/path-with-minimum-effort/)|Medium|
+|1760|1640|[check-array-formation-through-concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation)||[:memo:](https://leetcode.com/articles/check-array-formation-through-concatenation/)|Easy|
+|1761|1641|[count-sorted-vowel-strings](https://leetcode.com/problems/count-sorted-vowel-strings)||[:memo:](https://leetcode.com/articles/count-sorted-vowel-strings/)|Medium|
+|1762|1642|[furthest-building-you-can-reach](https://leetcode.com/problems/furthest-building-you-can-reach)|||Medium|
 |1768|1628|[design-an-expression-tree-with-evaluate-function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function)|:lock:||Medium|
 |1774|1634|[add-two-polynomials-represented-as-linked-lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists)|:lock:||Medium|

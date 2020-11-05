@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-11-02 11:40:16
+Update time:  2020-11-05 11:40:20
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1496** problems
-while there are **235** problems still locked.
+I have solved **335   /   1497** problems
+while there are **236** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -351,7 +351,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |350|350|[intersection-of-two-arrays-ii](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0350-0350(intersection-of-two-arrays-ii)/intersection-of-two-arrays-ii.java)|[:memo:](https://leetcode.com/articles/intersection-of-two-arrays-ii/)|Easy|
 |351|351|[android-unlock-patterns](https://leetcode.com/problems/android-unlock-patterns)|:lock:|[:memo:](https://leetcode.com/articles/android-unlock-patterns/)|Medium|
 |352|352|[data-stream-as-disjoint-intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals)|||Hard|
-|353|353|[design-snake-game](https://leetcode.com/problems/design-snake-game)|:lock:||Medium|
+|353|353|[design-snake-game](https://leetcode.com/problems/design-snake-game)|:lock:|[:memo:](https://leetcode.com/articles/design-snake-game/)|Medium|
 |354|354|[russian-doll-envelopes](https://leetcode.com/problems/russian-doll-envelopes)||[:memo:](https://leetcode.com/articles/russian-doll-envelopes/)|Hard|
 |355|355|[design-twitter](https://leetcode.com/problems/design-twitter)|||Medium|
 |356|356|[line-reflection](https://leetcode.com/problems/line-reflection)|:lock:||Medium|
@@ -396,7 +396,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |395|395|[longest-substring-with-at-least-k-repeating-characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)||[:memo:](https://leetcode.com/articles/longest-substring-with-at-least-k-repeating-characters/)|Medium|
 |396|396|[rotate-function](https://leetcode.com/problems/rotate-function)|||Medium|
 |397|397|[integer-replacement](https://leetcode.com/problems/integer-replacement)|||Medium|
-|398|398|[random-pick-index](https://leetcode.com/problems/random-pick-index)|||Medium|
+|398|398|[random-pick-index](https://leetcode.com/problems/random-pick-index)||[:memo:](https://leetcode.com/articles/random-pick-index/)|Medium|
 |399|399|[evaluate-division](https://leetcode.com/problems/evaluate-division)||[:memo:](https://leetcode.com/articles/evaluate-division/)|Medium|
 |400|400|[nth-digit](https://leetcode.com/problems/nth-digit)|||Medium|
 |401|401|[binary-watch](https://leetcode.com/problems/binary-watch)|||Easy|
@@ -1512,3 +1512,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1762|1642|[furthest-building-you-can-reach](https://leetcode.com/problems/furthest-building-you-can-reach)|||Medium|
 |1768|1628|[design-an-expression-tree-with-evaluate-function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function)|:lock:||Medium|
 |1774|1634|[add-two-polynomials-represented-as-linked-lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists)|:lock:||Medium|
+|1780|1644|[lowest-common-ancestor-of-a-binary-tree-ii](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii)|:lock:||Medium|

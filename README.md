@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-11-05 11:40:20
+Update time:  2020-11-08 11:40:06
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1497** problems
+I have solved **335   /   1501** problems
 while there are **236** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -274,7 +274,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |273|273|[integer-to-english-words](https://leetcode.com/problems/integer-to-english-words)||[:memo:](https://leetcode.com/articles/integer-to-english-words/)|Hard|
 |274|274|[h-index](https://leetcode.com/problems/h-index)||[:memo:](https://leetcode.com/articles/h-index/)|Medium|
 |275|275|[h-index-ii](https://leetcode.com/problems/h-index-ii)||[:memo:](https://leetcode.com/articles/h-index-ii/)|Medium|
-|276|276|[paint-fence](https://leetcode.com/problems/paint-fence)|:lock:||Easy|
+|276|276|[paint-fence](https://leetcode.com/problems/paint-fence)|:lock:|[:memo:](https://leetcode.com/articles/paint-fence/)|Easy|
 |277|277|[find-the-celebrity](https://leetcode.com/problems/find-the-celebrity)|:lock:|[:memo:](https://leetcode.com/articles/find-the-celebrity/)|Medium|
 |278|278|[first-bad-version](https://leetcode.com/problems/first-bad-version)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0278-0278(first-bad-version)/first-bad-version.java)|[:memo:](https://leetcode.com/articles/first-bad-version/)|Easy|
 |279|279|[perfect-squares](https://leetcode.com/problems/perfect-squares)||[:memo:](https://leetcode.com/articles/perfect-squares/)|Medium|
@@ -1511,5 +1511,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1761|1641|[count-sorted-vowel-strings](https://leetcode.com/problems/count-sorted-vowel-strings)||[:memo:](https://leetcode.com/articles/count-sorted-vowel-strings/)|Medium|
 |1762|1642|[furthest-building-you-can-reach](https://leetcode.com/problems/furthest-building-you-can-reach)|||Medium|
 |1768|1628|[design-an-expression-tree-with-evaluate-function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function)|:lock:||Medium|
+|1769|1646|[get-maximum-in-generated-array](https://leetcode.com/problems/get-maximum-in-generated-array)||[:memo:](https://leetcode.com/articles/get-maximum-in-generated-array/)|Easy|
+|1770|1647|[minimum-deletions-to-make-character-frequencies-unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique)|||Medium|
+|1771|1648|[sell-diminishing-valued-colored-balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls)|||Medium|
+|1772|1649|[create-sorted-array-through-instructions](https://leetcode.com/problems/create-sorted-array-through-instructions)||[:memo:](https://leetcode.com/articles/create-sorted-array-through-instructions/)|Hard|
 |1774|1634|[add-two-polynomials-represented-as-linked-lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists)|:lock:||Medium|
 |1780|1644|[lowest-common-ancestor-of-a-binary-tree-ii](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii)|:lock:||Medium|

@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-11-15 11:39:42
+Update time:  2020-11-19 11:39:48
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1510** problems
-while there are **237** problems still locked.
+I have solved **335   /   1511** problems
+while there are **238** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -1485,7 +1485,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1725|1621|[number-of-sets-of-k-non-overlapping-line-segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments)|||Medium|
 |1726|1620|[coordinate-with-maximum-network-quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality)|||Medium|
 |1728|1622|[fancy-sequence](https://leetcode.com/problems/fancy-sequence)|||Hard|
-|1729|1586|[binary-search-tree-iterator-ii](https://leetcode.com/problems/binary-search-tree-iterator-ii)|:lock:||Medium|
+|1729|1586|[binary-search-tree-iterator-ii](https://leetcode.com/problems/binary-search-tree-iterator-ii)|:lock:|[:memo:](https://leetcode.com/articles/binary-search-tree-iterator-ii/)|Medium|
 |1730|1608|[special-array-with-x-elements-greater-than-or-equal-x](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x)|||Easy|
 |1731|1609|[even-odd-tree](https://leetcode.com/problems/even-odd-tree)|||Medium|
 |1732|1611|[minimum-one-bit-operations-to-make-integers-zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero)|||Hard|
@@ -1526,3 +1526,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1778|1659|[maximize-grid-happiness](https://leetcode.com/problems/maximize-grid-happiness)|||Hard|
 |1780|1644|[lowest-common-ancestor-of-a-binary-tree-ii](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii)|:lock:||Medium|
 |1790|1650|[lowest-common-ancestor-of-a-binary-tree-iii](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)|:lock:||Medium|
+|1796|1660|[correct-a-binary-tree](https://leetcode.com/problems/correct-a-binary-tree)|:lock:||Medium|

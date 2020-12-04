@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-11-29 11:40:00
+Update time:  2020-12-04 11:39:47
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1524** problems
-while there are **239** problems still locked.
+I have solved **335   /   1525** problems
+while there are **240** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -980,7 +980,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1052|1057|[campus-bikes](https://leetcode.com/problems/campus-bikes)|:lock:||Medium|
 |1053|1058|[minimize-rounding-error-to-meet-target](https://leetcode.com/problems/minimize-rounding-error-to-meet-target)|:lock:||Medium|
 |1054|1009|[complement-of-base-10-integer](https://leetcode.com/problems/complement-of-base-10-integer)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1054-1009(complement-of-base-10-integer)/complement-of-base-10-integer.java)|[:memo:](https://leetcode.com/articles/complement-of-base-10-integer/)|Easy|
-|1055|1010|[pairs-of-songs-with-total-durations-divisible-by-60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1055-1010(pairs-of-songs-with-total-durations-divisible-by-60)/pairs-of-songs-with-total-durations-divisible-by-60.java)|[:memo:](https://leetcode.com/articles/pairs-of-songs-with-total-durations-divisible-by-60/)|Easy|
+|1055|1010|[pairs-of-songs-with-total-durations-divisible-by-60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1055-1010(pairs-of-songs-with-total-durations-divisible-by-60)/pairs-of-songs-with-total-durations-divisible-by-60.java)|[:memo:](https://leetcode.com/articles/pairs-of-songs-with-total-durations-divisible-by-60/)|Medium|
 |1056|1011|[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|||Medium|
 |1057|1012|[numbers-with-repeated-digits](https://leetcode.com/problems/numbers-with-repeated-digits)|||Hard|
 |1058|1061|[lexicographically-smallest-equivalent-string](https://leetcode.com/problems/lexicographically-smallest-equivalent-string)|:lock:||Medium|
@@ -1227,7 +1227,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1391|1426|[counting-elements](https://leetcode.com/problems/counting-elements)|:lock:|[:memo:](https://leetcode.com/articles/counting-elements/)|Easy|
 |1395|1266|[minimum-time-visiting-all-points](https://leetcode.com/problems/minimum-time-visiting-all-points)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1395-1266(minimum-time-visiting-all-points)/minimum-time-visiting-all-points.java)||Easy|
 |1396|1267|[count-servers-that-communicate](https://leetcode.com/problems/count-servers-that-communicate)|||Medium|
-|1397|1268|[search-suggestions-system](https://leetcode.com/problems/search-suggestions-system)|||Medium|
+|1397|1268|[search-suggestions-system](https://leetcode.com/problems/search-suggestions-system)||[:memo:](https://leetcode.com/articles/search-suggestions-system/)|Medium|
 |1398|1269|[number-of-ways-to-stay-in-the-same-place-after-some-steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps)|||Hard|
 |1400|1275|[find-winner-on-a-tic-tac-toe-game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1400-1275(find-winner-on-a-tic-tac-toe-game)/find-winner-on-a-tic-tac-toe-game.java)||Easy|
 |1401|1276|[number-of-burgers-with-no-waste-of-ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients)|||Medium|
@@ -1472,7 +1472,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1709|1604|[alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period)|||Medium|
 |1710|1606|[find-servers-that-handled-most-number-of-requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests)|||Hard|
 |1711|1605|[find-valid-matrix-given-row-and-column-sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums)|||Medium|
-|1713|1570|[dot-product-of-two-sparse-vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)|:lock:||Medium|
+|1713|1570|[dot-product-of-two-sparse-vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors)|:lock:|[:memo:](https://leetcode.com/articles/dot-product-of-two-sparse-vectors/)|Medium|
 |1714|1592|[rearrange-spaces-between-words](https://leetcode.com/problems/rearrange-spaces-between-words)|||Easy|
 |1715|1593|[split-a-string-into-the-max-number-of-unique-substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings)|||Medium|
 |1716|1594|[maximum-non-negative-product-in-a-matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix)|||Medium|
@@ -1540,3 +1540,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1794|1675|[minimize-deviation-in-array](https://leetcode.com/problems/minimize-deviation-in-array)||[:memo:](https://leetcode.com/articles/minimize-deviation-in-array/)|Hard|
 |1796|1660|[correct-a-binary-tree](https://leetcode.com/problems/correct-a-binary-tree)|:lock:||Medium|
 |1810|1666|[change-the-root-of-a-binary-tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree)|:lock:||Medium|
+|1816|1676|[lowest-common-ancestor-of-a-binary-tree-iv](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv)|:lock:||Medium|

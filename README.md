@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-12-04 11:39:47
+Update time:  2020-12-06 11:40:22
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1525** problems
+I have solved **335   /   1529** problems
 while there are **240** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -360,7 +360,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |359|359|[logger-rate-limiter](https://leetcode.com/problems/logger-rate-limiter)|:lock:|[:memo:](https://leetcode.com/articles/logger-rate-limiter/)|Easy|
 |360|360|[sort-transformed-array](https://leetcode.com/problems/sort-transformed-array)|:lock:||Medium|
 |361|361|[bomb-enemy](https://leetcode.com/problems/bomb-enemy)|:lock:|[:memo:](https://leetcode.com/articles/bomb-enemy/)|Medium|
-|362|362|[design-hit-counter](https://leetcode.com/problems/design-hit-counter)|:lock:||Medium|
+|362|362|[design-hit-counter](https://leetcode.com/problems/design-hit-counter)|:lock:|[:memo:](https://leetcode.com/articles/design-hit-counter/)|Medium|
 |363|363|[max-sum-of-rectangle-no-larger-than-k](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k)|||Hard|
 |364|364|[nested-list-weight-sum-ii](https://leetcode.com/problems/nested-list-weight-sum-ii)|:lock:||Medium|
 |365|365|[water-and-jug-problem](https://leetcode.com/problems/water-and-jug-problem)|||Medium|
@@ -1087,7 +1087,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1170|1092|[shortest-common-supersequence](https://leetcode.com/problems/shortest-common-supersequence)|||Hard|
 |1171|1091|[shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)||[:memo:](https://leetcode.com/articles/shortest-path-in-a-binary-matrix/)|Medium|
 |1175|1243|[array-transformation](https://leetcode.com/problems/array-transformation)|:lock:||Easy|
-|1176|1244|[design-a-leaderboard](https://leetcode.com/problems/design-a-leaderboard)|:lock:||Medium|
+|1176|1244|[design-a-leaderboard](https://leetcode.com/problems/design-a-leaderboard)|:lock:|[:memo:](https://leetcode.com/articles/design-a-leaderboard/)|Medium|
 |1177|1245|[tree-diameter](https://leetcode.com/problems/tree-diameter)|:lock:||Medium|
 |1178|1216|[valid-palindrome-iii](https://leetcode.com/problems/valid-palindrome-iii)|:lock:||Hard|
 |1183|1093|[statistics-from-a-large-sample](https://leetcode.com/problems/statistics-from-a-large-sample)|||Medium|
@@ -1539,5 +1539,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1793|1674|[minimum-moves-to-make-array-complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary)|||Medium|
 |1794|1675|[minimize-deviation-in-array](https://leetcode.com/problems/minimize-deviation-in-array)||[:memo:](https://leetcode.com/articles/minimize-deviation-in-array/)|Hard|
 |1796|1660|[correct-a-binary-tree](https://leetcode.com/problems/correct-a-binary-tree)|:lock:||Medium|
+|1797|1678|[goal-parser-interpretation](https://leetcode.com/problems/goal-parser-interpretation)|||Easy|
+|1798|1679|[max-number-of-k-sum-pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)||[:memo:](https://leetcode.com/articles/max-number-of-k-sum-pairs/)|Medium|
+|1799|1681|[minimum-incompatibility](https://leetcode.com/problems/minimum-incompatibility)|||Medium|
+|1800|1680|[concatenation-of-consecutive-binary-numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers)||[:memo:](https://leetcode.com/articles/concatenation-of-consecutive-binary-numbers/)|Medium|
 |1810|1666|[change-the-root-of-a-binary-tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree)|:lock:||Medium|
 |1816|1676|[lowest-common-ancestor-of-a-binary-tree-iv](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv)|:lock:||Medium|

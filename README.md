@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-12-06 11:40:22
+Update time:  2020-12-10 11:40:31
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1529** problems
-while there are **240** problems still locked.
+I have solved **335   /   1530** problems
+while there are **241** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -1062,7 +1062,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1138|1052|[grumpy-bookstore-owner](https://leetcode.com/problems/grumpy-bookstore-owner)|||Medium|
 |1139|1053|[previous-permutation-with-one-swap](https://leetcode.com/problems/previous-permutation-with-one-swap)|||Medium|
 |1140|1054|[distant-barcodes](https://leetcode.com/problems/distant-barcodes)|||Medium|
-|1141|1196|[how-many-apples-can-you-put-into-the-basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket)|:lock:||Easy|
+|1141|1196|[how-many-apples-can-you-put-into-the-basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket)|:lock:|[:memo:](https://leetcode.com/articles/how-many-apples-can-you-put-into-the-basket/)|Easy|
 |1142|1197|[minimum-knight-moves](https://leetcode.com/problems/minimum-knight-moves)|:lock:||Medium|
 |1143|1198|[find-smallest-common-element-in-all-rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows)|:lock:|[:memo:](https://leetcode.com/articles/find-smallest-common-element-in-all-rows/)|Medium|
 |1144|1168|[optimize-water-distribution-in-a-village](https://leetcode.com/problems/optimize-water-distribution-in-a-village)|:lock:||Hard|
@@ -1088,8 +1088,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1171|1091|[shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)||[:memo:](https://leetcode.com/articles/shortest-path-in-a-binary-matrix/)|Medium|
 |1175|1243|[array-transformation](https://leetcode.com/problems/array-transformation)|:lock:||Easy|
 |1176|1244|[design-a-leaderboard](https://leetcode.com/problems/design-a-leaderboard)|:lock:|[:memo:](https://leetcode.com/articles/design-a-leaderboard/)|Medium|
-|1177|1245|[tree-diameter](https://leetcode.com/problems/tree-diameter)|:lock:||Medium|
-|1178|1216|[valid-palindrome-iii](https://leetcode.com/problems/valid-palindrome-iii)|:lock:||Hard|
+|1177|1245|[tree-diameter](https://leetcode.com/problems/tree-diameter)|:lock:|[:memo:](https://leetcode.com/articles/tree-diameter/)|Medium|
+|1178|1216|[valid-palindrome-iii](https://leetcode.com/problems/valid-palindrome-iii)|:lock:|[:memo:](https://leetcode.com/articles/valid-palindrome-iii/)|Hard|
 |1183|1093|[statistics-from-a-large-sample](https://leetcode.com/problems/statistics-from-a-large-sample)|||Medium|
 |1184|1094|[car-pooling](https://leetcode.com/problems/car-pooling)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1184-1094(car-pooling)/car-pooling.java)|[:memo:](https://leetcode.com/articles/car-pooling/)|Medium|
 |1185|1095|[find-in-mountain-array](https://leetcode.com/problems/find-in-mountain-array)|||Hard|
@@ -1144,7 +1144,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1250|1143|[longest-common-subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1250-1143(longest-common-subsequence)/longest-common-subsequence.java)|[:memo:](https://leetcode.com/articles/longest-common-subsequence/)|Medium|
 |1251|1147|[longest-chunked-palindrome-decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition)|||Hard|
 |1252|1328|[break-a-palindrome](https://leetcode.com/problems/break-a-palindrome)|||Medium|
-|1253|1329|[sort-the-matrix-diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally)|||Medium|
+|1253|1329|[sort-the-matrix-diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally)||[:memo:](https://leetcode.com/articles/sort-the-matrix-diagonally/)|Medium|
 |1254|1302|[deepest-leaves-sum](https://leetcode.com/problems/deepest-leaves-sum)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1254-1302(deepest-leaves-sum)/deepest-leaves-sum.java)|[:memo:](https://leetcode.com/articles/deepest-leaves-sum/)|Medium|
 |1255|1330|[reverse-subarray-to-maximize-array-value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value)|||Hard|
 |1256|1331|[rank-transform-of-an-array](https://leetcode.com/problems/rank-transform-of-an-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1256-1331(rank-transform-of-an-array)/rank-transform-of-an-array.java)||Easy|
@@ -1304,7 +1304,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1493|1377|[frog-position-after-t-seconds](https://leetcode.com/problems/frog-position-after-t-seconds)|||Hard|
 |1496|1380|[lucky-numbers-in-a-matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1496-1380(lucky-numbers-in-a-matrix)/lucky-numbers-in-a-matrix.java)||Easy|
 |1497|1381|[design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation)|||Medium|
-|1498|1379|[find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)|||Medium|
+|1498|1379|[find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)||[:memo:](https://leetcode.com/articles/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|Medium|
 |1499|1383|[maximum-performance-of-a-team](https://leetcode.com/problems/maximum-performance-of-a-team)|||Hard|
 |1500|1399|[count-largest-group](https://leetcode.com/problems/count-largest-group)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1500-1399(count-largest-group)/count-largest-group.java)||Easy|
 |1501|1401|[circle-and-rectangle-overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping)|||Medium|
@@ -1541,7 +1541,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1796|1660|[correct-a-binary-tree](https://leetcode.com/problems/correct-a-binary-tree)|:lock:||Medium|
 |1797|1678|[goal-parser-interpretation](https://leetcode.com/problems/goal-parser-interpretation)|||Easy|
 |1798|1679|[max-number-of-k-sum-pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)||[:memo:](https://leetcode.com/articles/max-number-of-k-sum-pairs/)|Medium|
-|1799|1681|[minimum-incompatibility](https://leetcode.com/problems/minimum-incompatibility)|||Medium|
+|1799|1681|[minimum-incompatibility](https://leetcode.com/problems/minimum-incompatibility)|||Hard|
 |1800|1680|[concatenation-of-consecutive-binary-numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers)||[:memo:](https://leetcode.com/articles/concatenation-of-consecutive-binary-numbers/)|Medium|
 |1810|1666|[change-the-root-of-a-binary-tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree)|:lock:||Medium|
 |1816|1676|[lowest-common-ancestor-of-a-binary-tree-iv](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv)|:lock:||Medium|
+|1822|1682|[longest-palindromic-subsequence-ii](https://leetcode.com/problems/longest-palindromic-subsequence-ii)|:lock:||Medium|

@@ -1,22 +1,35 @@
-// Given a triangle, find the minimum path sum from top to bottom. Each step you may move to adjacent numbers on the row below.
+// Given a triangle array, return the minimum path sum from top to bottom.
 //
-// For example, given the following triangle
+// For each step, you may move to an adjacent number on the row below.
 //
-//
-// [
-//      [2],
-//     [3,4],
-//    [6,5,7],
-//   [4,1,8,3]
-// ]
+//  
+// Example 1:
 //
 //
-// The minimum path sum from top to bottom is 11 (i.e., 2 + 3 + 5 + 1 = 11).
+// Input: triangle = [[2],[3,4],[6,5,7],[4,1,8,3]]
+// Output: 11
+// Explanation: The minimum path sum from top to bottom is 11 (i.e., 2 + 3 + 5 + 1 = 11).
 //
-// Note:
 //
-// Bonus point if you are able to do this using only O(n) extra space, where n is the total number of rows in the triangle.
+// Example 2:
 //
+//
+// Input: triangle = [[-10]]
+// Output: -10
+//
+//
+//  
+// Constraints:
+//
+//
+// 	1 <= triangle.length <= 200
+// 	triangle[0].length == 1
+// 	triangle[i].length == triangle[i - 1].length + 1
+// 	-104 <= triangle[i][j] <= 104
+//
+//
+//  
+// Follow up: Could you do this using only O(n) extra space, where n is the total number of rows in the triangle?
 
 
 public class Solution {

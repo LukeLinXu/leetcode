@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2020-12-24 11:40:34
+Update time:  2020-12-27 11:40:43
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1544** problems
+I have solved **335   /   1552** problems
 while there are **243** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -142,7 +142,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |124|124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0124-0124(binary-tree-maximum-path-sum)/binary-tree-maximum-path-sum.java)|[:memo:](https://leetcode.com/articles/binary-tree-maximum-path-sum/)|Hard|
 |125|125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome)||[:memo:](https://leetcode.com/articles/valid-palindrome/)|Easy|
 |126|126|[word-ladder-ii](https://leetcode.com/problems/word-ladder-ii)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0126-0126(word-ladder-ii)/word-ladder-ii.java)||Hard|
-|127|127|[word-ladder](https://leetcode.com/problems/word-ladder)||[:memo:](https://leetcode.com/articles/word-ladder/)|Medium|
+|127|127|[word-ladder](https://leetcode.com/problems/word-ladder)||[:memo:](https://leetcode.com/articles/word-ladder/)|Hard|
 |128|128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0128-0128(longest-consecutive-sequence)/longest-consecutive-sequence.java)|[:memo:](https://leetcode.com/articles/longest-consecutive-sequence/)|Hard|
 |129|129|[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)||[:memo:](https://leetcode.com/articles/sum-root-to-leaf-numbers/)|Medium|
 |130|130|[surrounded-regions](https://leetcode.com/problems/surrounded-regions)||[:memo:](https://leetcode.com/articles/surrounded-regions/)|Medium|
@@ -338,7 +338,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |337|337|[house-robber-iii](https://leetcode.com/problems/house-robber-iii)||[:memo:](https://leetcode.com/articles/house-robber-iii/)|Medium|
 |338|338|[counting-bits](https://leetcode.com/problems/counting-bits)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0338-0338(counting-bits)/counting-bits.java)|[:memo:](https://leetcode.com/articles/counting-bits/)|Medium|
 |339|339|[nested-list-weight-sum](https://leetcode.com/problems/nested-list-weight-sum)|:lock:|[:memo:](https://leetcode.com/articles/nested-list-weight-sum/)|Easy|
-|340|340|[longest-substring-with-at-most-k-distinct-characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|:lock:|[:memo:](https://leetcode.com/articles/longest-substring-with-at-most-k-distinct-characters/)|Hard|
+|340|340|[longest-substring-with-at-most-k-distinct-characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|:lock:|[:memo:](https://leetcode.com/articles/longest-substring-with-at-most-k-distinct-characters/)|Medium|
 |341|341|[flatten-nested-list-iterator](https://leetcode.com/problems/flatten-nested-list-iterator)||[:memo:](https://leetcode.com/articles/flatten-nested-iterator/)|Medium|
 |342|342|[power-of-four](https://leetcode.com/problems/power-of-four)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0342-0342(power-of-four)/power-of-four.java)|[:memo:](https://leetcode.com/articles/power-of-four/)|Easy|
 |343|343|[integer-break](https://leetcode.com/problems/integer-break)|||Medium|
@@ -1048,7 +1048,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1122|1044|[longest-duplicate-substring](https://leetcode.com/problems/longest-duplicate-substring)||[:memo:](https://leetcode.com/articles/longest-duplicate-substring/)|Hard|
 |1123|1165|[single-row-keyboard](https://leetcode.com/problems/single-row-keyboard)|:lock:||Easy|
 |1124|1153|[string-transforms-into-another-string](https://leetcode.com/problems/string-transforms-into-another-string)|:lock:||Hard|
-|1125|1166|[design-file-system](https://leetcode.com/problems/design-file-system)|:lock:||Medium|
+|1125|1166|[design-file-system](https://leetcode.com/problems/design-file-system)|:lock:|[:memo:](https://leetcode.com/articles/design-file-system/)|Medium|
 |1126|1167|[minimum-cost-to-connect-sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks)|:lock:|[:memo:](https://leetcode.com/articles/minimum-cost-to-connect-sticks/)|Medium|
 |1127|1046|[last-stone-weight](https://leetcode.com/problems/last-stone-weight)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1127-1046(last-stone-weight)/last-stone-weight.java)|[:memo:](https://leetcode.com/articles/last-stone-weight/)|Easy|
 |1128|1047|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1128-1047(remove-all-adjacent-duplicates-in-string)/remove-all-adjacent-duplicates-in-string.java)|[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string/)|Easy|
@@ -1189,6 +1189,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1320|1209|[remove-all-adjacent-duplicates-in-string-ii](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii)||[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string-ii/)|Medium|
 |1321|1208|[get-equal-substrings-within-budget](https://leetcode.com/problems/get-equal-substrings-within-budget)|||Medium|
 |1322|1210|[minimum-moves-to-reach-target-with-rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations)|||Hard|
+|1324|1706|[where-will-the-ball-fall](https://leetcode.com/problems/where-will-the-ball-fall)|||Medium|
 |1325|1514|[path-with-maximum-probability](https://leetcode.com/problems/path-with-maximum-probability)|||Medium|
 |1329|1217|[minimum-cost-to-move-chips-to-the-same-position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1329-1217(minimum-cost-to-move-chips-to-the-same-position)/minimum-cost-to-move-chips-to-the-same-position.java)|[:memo:](https://leetcode.com/articles/minimum-cost-to-move-chips-to-the-same-position/)|Easy|
 |1330|1218|[longest-arithmetic-subsequence-of-given-difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference)|||Medium|
@@ -1548,6 +1549,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1798|1679|[max-number-of-k-sum-pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)||[:memo:](https://leetcode.com/articles/max-number-of-k-sum-pairs/)|Medium|
 |1799|1681|[minimum-incompatibility](https://leetcode.com/problems/minimum-incompatibility)|||Hard|
 |1800|1680|[concatenation-of-consecutive-binary-numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers)||[:memo:](https://leetcode.com/articles/concatenation-of-consecutive-binary-numbers/)|Medium|
+|1802|1700|[number-of-students-unable-to-eat-lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch)|||Easy|
+|1803|1701|[average-waiting-time](https://leetcode.com/problems/average-waiting-time)|||Medium|
+|1804|1702|[maximum-binary-string-after-change](https://leetcode.com/problems/maximum-binary-string-after-change)|||Medium|
+|1805|1703|[minimum-adjacent-swaps-for-k-consecutive-ones](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones)|||Hard|
 |1806|1688|[count-of-matches-in-tournament](https://leetcode.com/problems/count-of-matches-in-tournament)|||Easy|
 |1807|1689|[partitioning-into-minimum-number-of-deci-binary-numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers)||[:memo:](https://leetcode.com/articles/partitioning-into-minimum-number-of-deci-binary-numbers/)|Medium|
 |1808|1690|[stone-game-vii](https://leetcode.com/problems/stone-game-vii)||[:memo:](https://leetcode.com/articles/stone-game-vii/)|Medium|
@@ -1558,5 +1563,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1815|1697|[checking-existence-of-edge-length-limited-paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths)|||Hard|
 |1816|1676|[lowest-common-ancestor-of-a-binary-tree-iv](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv)|:lock:||Medium|
 |1822|1682|[longest-palindromic-subsequence-ii](https://leetcode.com/problems/longest-palindromic-subsequence-ii)|:lock:||Medium|
+|1823|1704|[determine-if-string-halves-are-alike](https://leetcode.com/problems/determine-if-string-halves-are-alike)||[:memo:](https://leetcode.com/articles/determine-if-string-halves-are-alike/)|Easy|
+|1824|1705|[maximum-number-of-eaten-apples](https://leetcode.com/problems/maximum-number-of-eaten-apples)||[:memo:](https://leetcode.com/articles/maximum-number-of-eaten-apples/)|Medium|
+|1826|1707|[maximum-xor-with-an-element-from-array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array)|||Hard|
 |1828|1692|[count-ways-to-distribute-candies](https://leetcode.com/problems/count-ways-to-distribute-candies)|:lock:||Hard|
-|1838|1698|[number-of-distinct-substrings-in-a-string](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string)|:lock:||Hard|
+|1838|1698|[number-of-distinct-substrings-in-a-string](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string)|:lock:||Medium|

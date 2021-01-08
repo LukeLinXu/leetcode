@@ -1,4 +1,4 @@
-// Given a non-empty binary tree, find the maximum path sum.
+// Given the root of a binary tree, return the maximum path sum.
 //
 // For this problem, a path is defined as any node sequence from some starting node to any node in the tree along the parent-child connections. The path must contain at least one node and does not need to go through the root.
 //
@@ -21,8 +21,9 @@
 // Constraints:
 //
 //
-// 	The number of nodes in the tree is in the range [0, 3 * 104].
+// 	The number of nodes in the tree is in the range [1, 3 * 104].
 // 	-1000 <= Node.val <= 1000
+//
 //
 
 

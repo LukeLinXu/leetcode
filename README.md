@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2021-01-08 11:40:46
+Update time:  2021-01-10 11:41:54
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1558** problems
+I have solved **335   /   1566** problems
 while there are **245** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -499,7 +499,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |507|507|[perfect-number](https://leetcode.com/problems/perfect-number)||[:memo:](https://leetcode.com/articles/perfect-number/)|Easy|
 |508|508|[most-frequent-subtree-sum](https://leetcode.com/problems/most-frequent-subtree-sum)|||Medium|
 |509|510|[inorder-successor-in-bst-ii](https://leetcode.com/problems/inorder-successor-in-bst-ii)|:lock:|[:memo:](https://leetcode.com/articles/inorder-successor-in-a-bst-ii/)|Medium|
-|511|1059|[all-paths-from-source-lead-to-destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination)|:lock:||Medium|
+|511|1059|[all-paths-from-source-lead-to-destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination)|:lock:|[:memo:](https://leetcode.com/articles/all-paths-from-source-lead-to-destination/)|Medium|
 |513|513|[find-bottom-left-tree-value](https://leetcode.com/problems/find-bottom-left-tree-value)|||Medium|
 |514|514|[freedom-trail](https://leetcode.com/problems/freedom-trail)|||Hard|
 |515|515|[find-largest-value-in-each-tree-row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)|||Medium|
@@ -514,6 +514,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |525|525|[contiguous-array](https://leetcode.com/problems/contiguous-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0525-0525(contiguous-array)/contiguous-array.java)|[:memo:](https://leetcode.com/articles/contiguous-array/)|Medium|
 |526|526|[beautiful-arrangement](https://leetcode.com/problems/beautiful-arrangement)||[:memo:](https://leetcode.com/articles/beautiful-arrangement/)|Medium|
 |527|527|[word-abbreviation](https://leetcode.com/problems/word-abbreviation)|:lock:|[:memo:](https://leetcode.com/articles/word-abbreviation/)|Hard|
+|528|1721|[swapping-nodes-in-a-linked-list](https://leetcode.com/problems/swapping-nodes-in-a-linked-list)||[:memo:](https://leetcode.com/articles/swapping-nodes-in-a-linked-list/)|Medium|
 |529|529|[minesweeper](https://leetcode.com/problems/minesweeper)|||Medium|
 |530|530|[minimum-absolute-difference-in-bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0530-0530(minimum-absolute-difference-in-bst)/minimum-absolute-difference-in-bst.java)||Easy|
 |531|531|[lonely-pixel-i](https://leetcode.com/problems/lonely-pixel-i)|:lock:||Medium|
@@ -1563,9 +1564,14 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1814|1696|[jump-game-vi](https://leetcode.com/problems/jump-game-vi)||[:memo:](https://leetcode.com/articles/jump-game-vi/)|Medium|
 |1815|1697|[checking-existence-of-edge-length-limited-paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths)|||Hard|
 |1816|1676|[lowest-common-ancestor-of-a-binary-tree-iv](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv)|:lock:||Medium|
+|1817|1716|[calculate-money-in-leetcode-bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank)|||Easy|
+|1818|1717|[maximum-score-from-removing-substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings)|||Medium|
+|1819|1718|[construct-the-lexicographically-largest-valid-sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence)|||Medium|
+|1820|1719|[number-of-ways-to-reconstruct-a-tree](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree)|||Hard|
 |1822|1682|[longest-palindromic-subsequence-ii](https://leetcode.com/problems/longest-palindromic-subsequence-ii)|:lock:||Medium|
 |1823|1704|[determine-if-string-halves-are-alike](https://leetcode.com/problems/determine-if-string-halves-are-alike)||[:memo:](https://leetcode.com/articles/determine-if-string-halves-are-alike/)|Easy|
 |1824|1705|[maximum-number-of-eaten-apples](https://leetcode.com/problems/maximum-number-of-eaten-apples)||[:memo:](https://leetcode.com/articles/maximum-number-of-eaten-apples/)|Medium|
+|1825|1723|[find-minimum-time-to-finish-all-jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs)|||Hard|
 |1826|1707|[maximum-xor-with-an-element-from-array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array)|||Hard|
 |1828|1692|[count-ways-to-distribute-candies](https://leetcode.com/problems/count-ways-to-distribute-candies)|:lock:||Hard|
 |1829|1710|[maximum-units-on-a-truck](https://leetcode.com/problems/maximum-units-on-a-truck)||[:memo:](https://leetcode.com/articles/maximum-units-on-a-truck/)|Easy|
@@ -1573,4 +1579,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1831|1712|[ways-to-split-array-into-three-subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays)||[:memo:](https://leetcode.com/articles/ways-to-split-array-into-three-subarrays/)|Medium|
 |1832|1713|[minimum-operations-to-make-a-subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence)|||Hard|
 |1838|1698|[number-of-distinct-substrings-in-a-string](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string)|:lock:||Medium|
+|1839|1720|[decode-xored-array](https://leetcode.com/problems/decode-xored-array)|||Easy|
+|1840|1722|[minimize-hamming-distance-after-swap-operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations)|||Medium|
 |1847|1708|[largest-subarray-length-k](https://leetcode.com/problems/largest-subarray-length-k)|:lock:||Easy|

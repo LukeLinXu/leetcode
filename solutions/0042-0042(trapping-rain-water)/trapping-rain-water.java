@@ -24,7 +24,6 @@
 // 	0 <= n <= 3 * 104
 // 	0 <= height[i] <= 105
 //
-//
 
 
 public class Solution {

@@ -5,9 +5,9 @@
 // 	if it occurs within (and including) 60 minutes of another transaction with the same name in a different city.
 //
 //
-// Each transaction string transactions[i] consists of comma separated values representing the name, time (in minutes), amount, and city of the transaction.
+// You are given an array of strings transaction where transactions[i] consists of comma-separated values representing the name, time (in minutes), amount, and city of the transaction.
 //
-// Given a list of transactions, return a list of transactions that are possibly invalid.  You may return the answer in any order.
+// Return a list of transactions that are possibly invalid. You may return the answer in any order.
 //
 //  
 // Example 1:
@@ -37,9 +37,9 @@
 //
 // 	transactions.length <= 1000
 // 	Each transactions[i] takes the form "{name},{time},{amount},{city}"
-// 	Each {name} and {city} consist of lowercase English letters, and have lengths between 1 and 10.
-// 	Each {time} consist of digits, and represent an integer between 0 and 1000.
-// 	Each {amount} consist of digits, and represent an integer between 0 and 2000.
+// 	Each {name} and {city} consist of lowercase English letters, and have lengths between 1 and 10.
+// 	Each {time} consist of digits, and represent an integer between 0 and 1000.
+// 	Each {amount} consist of digits, and represent an integer between 0 and 2000.
 //
 //
 

@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2021-01-15 11:41:02
+Update time:  2021-01-17 11:40:35
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1567** problems
+I have solved **335   /   1571** problems
 while there are **246** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1211,6 +1211,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1360|1239|[maximum-length-of-a-concatenated-string-with-unique-characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)|||Medium|
 |1361|1240|[tiling-a-rectangle-with-the-fewest-squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares)|||Hard|
 |1362|1227|[airplane-seat-assignment-probability](https://leetcode.com/problems/airplane-seat-assignment-probability)|||Medium|
+|1364|1726|[tuple-with-same-product](https://leetcode.com/problems/tuple-with-same-product)|||Medium|
 |1366|1429|[first-unique-number](https://leetcode.com/problems/first-unique-number)|:lock:|[:memo:](https://leetcode.com/articles/first-unique-number/)|Medium|
 |1367|1691|[maximum-height-by-stacking-cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids)|||Hard|
 |1369|1247|[minimum-swaps-to-make-strings-equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal)|||Medium|
@@ -1487,6 +1488,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1723|1601|[maximum-number-of-achievable-transfer-requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests)|||Hard|
 |1725|1621|[number-of-sets-of-k-non-overlapping-line-segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments)|||Medium|
 |1726|1620|[coordinate-with-maximum-network-quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality)|||Medium|
+|1727|1728|[cat-and-mouse-ii](https://leetcode.com/problems/cat-and-mouse-ii)|||Hard|
 |1728|1622|[fancy-sequence](https://leetcode.com/problems/fancy-sequence)|||Hard|
 |1729|1586|[binary-search-tree-iterator-ii](https://leetcode.com/problems/binary-search-tree-iterator-ii)|:lock:|[:memo:](https://leetcode.com/articles/binary-search-tree-iterator-ii/)|Medium|
 |1730|1608|[special-array-with-x-elements-greater-than-or-equal-x](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x)|||Easy|
@@ -1581,5 +1583,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1838|1698|[number-of-distinct-substrings-in-a-string](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string)|:lock:||Medium|
 |1839|1720|[decode-xored-array](https://leetcode.com/problems/decode-xored-array)|||Easy|
 |1840|1722|[minimize-hamming-distance-after-swap-operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations)|||Medium|
+|1843|1725|[number-of-rectangles-that-can-form-the-largest-square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square)|||Easy|
+|1845|1727|[largest-submatrix-with-rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements)|||Medium|
 |1847|1708|[largest-subarray-length-k](https://leetcode.com/problems/largest-subarray-length-k)|:lock:||Easy|
 |1865|1724|[checking-existence-of-edge-length-limited-paths-ii](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii)|:lock:||Hard|

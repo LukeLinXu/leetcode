@@ -1,6 +1,8 @@
-// Let's define a function f(s) over a non-empty string s, which calculates the frequency of the lexicographically smallest character in s. For example, if s = "dcce" then f(s) = 2 because the lexicographically smallest character is "c" and its frequency is 2.
+// Let the function f(s) be the frequency of the lexicographically smallest character in a non-empty string s. For example, if s = "dcce" then f(s) = 2 because the lexicographically smallest character is 'c', which has a frequency of 2.
 //
-// Now, given string arrays queries and words, return an integer array answer, where each answer[i] is the number of words such that f(queries[i]) < f(W), where W is a word in words.
+// You are given an array of strings words and another array of query strings queries. For each query queries[i], count the number of words in words such that f(queries[i]) < f(W) for each W in words.
+//
+// Return an integer array answer, where each answer[i] is the answer to the ith query.
 //
 //  
 // Example 1:
@@ -26,7 +28,7 @@
 // 	1 <= queries.length <= 2000
 // 	1 <= words.length <= 2000
 // 	1 <= queries[i].length, words[i].length <= 10
-// 	queries[i][j], words[i][j] are English lowercase letters.
+// 	queries[i][j], words[i][j] consist of lowercase English letters.
 //
 //
 

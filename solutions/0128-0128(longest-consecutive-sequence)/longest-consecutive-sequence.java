@@ -1,7 +1,5 @@
 // Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.
 //
-// Follow up: Could you implement the O(n) solution? 
-//
 //  
 // Example 1:
 //
@@ -26,6 +24,8 @@
 // 	-109 <= nums[i] <= 109
 //
 //
+//  
+// Follow up: Could you implement the O(n) solution?
 
 
 public class Solution {

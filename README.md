@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2021-01-21 11:40:30
+Update time:  2021-01-24 11:40:32
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1572** problems
+I have solved **335   /   1580** problems
 while there are **247** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1017,7 +1017,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1087|1027|[longest-arithmetic-subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence)|||Medium|
 |1088|1118|[number-of-days-in-a-month](https://leetcode.com/problems/number-of-days-in-a-month)|:lock:||Easy|
 |1089|1119|[remove-vowels-from-a-string](https://leetcode.com/problems/remove-vowels-from-a-string)|:lock:||Easy|
-|1090|1134|[armstrong-number](https://leetcode.com/problems/armstrong-number)|:lock:||Easy|
+|1090|1134|[armstrong-number](https://leetcode.com/problems/armstrong-number)|:lock:|[:memo:](https://leetcode.com/articles/armstrong-number/)|Easy|
 |1091|1120|[maximum-average-subtree](https://leetcode.com/problems/maximum-average-subtree)|:lock:|[:memo:](https://leetcode.com/articles/maximum-average-subtree/)|Medium|
 |1092|1026|[maximum-difference-between-node-and-ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)||[:memo:](https://leetcode.com/articles/maximum-difference-between-node-and-ancestor/)|Medium|
 |1093|1028|[recover-a-tree-from-preorder-traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)|||Hard|
@@ -1581,10 +1581,18 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1830|1711|[count-good-meals](https://leetcode.com/problems/count-good-meals)|||Medium|
 |1831|1712|[ways-to-split-array-into-three-subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays)||[:memo:](https://leetcode.com/articles/ways-to-split-array-into-three-subarrays/)|Medium|
 |1832|1713|[minimum-operations-to-make-a-subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence)|||Hard|
+|1833|1732|[find-the-highest-altitude](https://leetcode.com/problems/find-the-highest-altitude)|||Easy|
+|1834|1733|[minimum-number-of-people-to-teach](https://leetcode.com/problems/minimum-number-of-people-to-teach)|||Medium|
+|1835|1734|[decode-xored-permutation](https://leetcode.com/problems/decode-xored-permutation)|||Medium|
+|1836|1735|[count-ways-to-make-array-with-product](https://leetcode.com/problems/count-ways-to-make-array-with-product)|||Hard|
 |1838|1698|[number-of-distinct-substrings-in-a-string](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string)|:lock:||Medium|
 |1839|1720|[decode-xored-array](https://leetcode.com/problems/decode-xored-array)|||Easy|
 |1840|1722|[minimize-hamming-distance-after-swap-operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations)|||Medium|
 |1843|1725|[number-of-rectangles-that-can-form-the-largest-square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square)|||Easy|
 |1845|1727|[largest-submatrix-with-rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements)|||Medium|
 |1847|1708|[largest-subarray-length-k](https://leetcode.com/problems/largest-subarray-length-k)|:lock:||Easy|
+|1858|1736|[latest-time-by-replacing-hidden-digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits)|||Easy|
+|1859|1737|[change-minimum-characters-to-satisfy-one-of-three-conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions)|||Medium|
+|1860|1738|[find-kth-largest-xor-coordinate-value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value)|||Medium|
+|1861|1739|[building-boxes](https://leetcode.com/problems/building-boxes)|||Hard|
 |1865|1724|[checking-existence-of-edge-length-limited-paths-ii](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii)|:lock:||Hard|

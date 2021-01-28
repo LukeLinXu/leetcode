@@ -1,10 +1,10 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2021-01-24 11:40:32
+Update time:  2021-01-28 11:40:48
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1580** problems
-while there are **247** problems still locked.
+I have solved **335   /   1581** problems
+while there are **248** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
 
@@ -289,7 +289,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |288|288|[unique-word-abbreviation](https://leetcode.com/problems/unique-word-abbreviation)|:lock:|[:memo:](https://leetcode.com/articles/unique-word-abbreviation/)|Medium|
 |289|289|[game-of-life](https://leetcode.com/problems/game-of-life)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0289-0289(game-of-life)/game-of-life.java)|[:memo:](https://leetcode.com/articles/game-of-life/)|Medium|
 |290|290|[word-pattern](https://leetcode.com/problems/word-pattern)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0290-0290(word-pattern)/word-pattern.java)|[:memo:](https://leetcode.com/articles/word-pattern/)|Easy|
-|291|291|[word-pattern-ii](https://leetcode.com/problems/word-pattern-ii)|:lock:||Hard|
+|291|291|[word-pattern-ii](https://leetcode.com/problems/word-pattern-ii)|:lock:||Medium|
 |292|292|[nim-game](https://leetcode.com/problems/nim-game)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0292-0292(nim-game)/nim-game.java)|[:memo:](https://leetcode.com/articles/nim-game/)|Easy|
 |293|293|[flip-game](https://leetcode.com/problems/flip-game)|:lock:||Easy|
 |294|294|[flip-game-ii](https://leetcode.com/problems/flip-game-ii)|:lock:||Medium|
@@ -337,7 +337,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |336|336|[palindrome-pairs](https://leetcode.com/problems/palindrome-pairs)||[:memo:](https://leetcode.com/articles/palindrome-pairs/)|Hard|
 |337|337|[house-robber-iii](https://leetcode.com/problems/house-robber-iii)||[:memo:](https://leetcode.com/articles/house-robber-iii/)|Medium|
 |338|338|[counting-bits](https://leetcode.com/problems/counting-bits)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0338-0338(counting-bits)/counting-bits.java)|[:memo:](https://leetcode.com/articles/counting-bits/)|Medium|
-|339|339|[nested-list-weight-sum](https://leetcode.com/problems/nested-list-weight-sum)|:lock:|[:memo:](https://leetcode.com/articles/nested-list-weight-sum/)|Easy|
+|339|339|[nested-list-weight-sum](https://leetcode.com/problems/nested-list-weight-sum)|:lock:|[:memo:](https://leetcode.com/articles/nested-list-weight-sum/)|Medium|
 |340|340|[longest-substring-with-at-most-k-distinct-characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|:lock:|[:memo:](https://leetcode.com/articles/longest-substring-with-at-most-k-distinct-characters/)|Medium|
 |341|341|[flatten-nested-list-iterator](https://leetcode.com/problems/flatten-nested-list-iterator)||[:memo:](https://leetcode.com/articles/flatten-nested-iterator/)|Medium|
 |342|342|[power-of-four](https://leetcode.com/problems/power-of-four)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0342-0342(power-of-four)/power-of-four.java)|[:memo:](https://leetcode.com/articles/power-of-four/)|Easy|
@@ -619,7 +619,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |666|666|[path-sum-iv](https://leetcode.com/problems/path-sum-iv)|:lock:|[:memo:](https://leetcode.com/articles/path-sum-iv/)|Medium|
 |667|667|[beautiful-arrangement-ii](https://leetcode.com/problems/beautiful-arrangement-ii)||[:memo:](https://leetcode.com/articles/beautiful-arrangement-ii/)|Medium|
 |668|668|[kth-smallest-number-in-multiplication-table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table)||[:memo:](https://leetcode.com/articles/kth-smallest-number-in-multiplication-table/)|Hard|
-|669|669|[trim-a-binary-search-tree](https://leetcode.com/problems/trim-a-binary-search-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0669-0669(trim-a-binary-search-tree)/trim-a-binary-search-tree.java)|[:memo:](https://leetcode.com/articles/trim-a-binary-search-tree/)|Easy|
+|669|669|[trim-a-binary-search-tree](https://leetcode.com/problems/trim-a-binary-search-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0669-0669(trim-a-binary-search-tree)/trim-a-binary-search-tree.java)|[:memo:](https://leetcode.com/articles/trim-a-binary-search-tree/)|Medium|
 |670|670|[maximum-swap](https://leetcode.com/problems/maximum-swap)||[:memo:](https://leetcode.com/articles/maximum-swap/)|Medium|
 |671|671|[second-minimum-node-in-a-binary-tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)||[:memo:](https://leetcode.com/articles/second-minimum-node-in-a-binary-tree/)|Easy|
 |672|672|[bulb-switcher-ii](https://leetcode.com/problems/bulb-switcher-ii)||[:memo:](https://leetcode.com/articles/bulb-switcher-ii/)|Medium|
@@ -956,7 +956,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1026|984|[string-without-aaa-or-bbb](https://leetcode.com/problems/string-without-aaa-or-bbb)||[:memo:](https://leetcode.com/articles/string-without-aaa-or-bbb/)|Medium|
 |1027|985|[sum-of-even-numbers-after-queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1027-0985(sum-of-even-numbers-after-queries)/sum-of-even-numbers-after-queries.java)|[:memo:](https://leetcode.com/articles/sum-of-even-numbers-after-queries/)|Easy|
 |1028|986|[interval-list-intersections](https://leetcode.com/problems/interval-list-intersections)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1028-0986(interval-list-intersections)/interval-list-intersections.java)|[:memo:](https://leetcode.com/articles/interval-list-intersections/)|Medium|
-|1029|987|[vertical-order-traversal-of-a-binary-tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/vertical-order-traversal-of-a-binary-tree/)|Medium|
+|1029|987|[vertical-order-traversal-of-a-binary-tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/vertical-order-traversal-of-a-binary-tree/)|Hard|
 |1030|988|[smallest-string-starting-from-leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf)||[:memo:](https://leetcode.com/articles/smallest-string-starting-from-leaf/)|Medium|
 |1031|989|[add-to-array-form-of-integer](https://leetcode.com/problems/add-to-array-form-of-integer)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/1031-0989(add-to-array-form-of-integer)/add-to-array-form-of-integer.java)|[:memo:](https://leetcode.com/articles/add-to-array-form-of-integer/)|Easy|
 |1032|990|[satisfiability-of-equality-equations](https://leetcode.com/problems/satisfiability-of-equality-equations)||[:memo:](https://leetcode.com/articles/satisfiability-of-equality-equations/)|Medium|
@@ -1596,3 +1596,4 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1860|1738|[find-kth-largest-xor-coordinate-value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value)|||Medium|
 |1861|1739|[building-boxes](https://leetcode.com/problems/building-boxes)|||Hard|
 |1865|1724|[checking-existence-of-edge-length-limited-paths-ii](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii)|:lock:||Hard|
+|1883|1740|[find-distance-in-a-binary-tree](https://leetcode.com/problems/find-distance-in-a-binary-tree)|:lock:||Easy|

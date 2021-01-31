@@ -1,46 +1,61 @@
-// We are given an array A of N lowercase letter strings, all of the same length.
+// You are given an array of n strings strs, all of the same length.
 //
-// Now, we may choose any set of deletion indices, and for each string, we delete all the characters in those indices.
+// The strings can be arranged such that there is one on each line, making a grid. For example, strs = ["abc", "bce", "cae"] can be arranged as:
 //
-// For example, if we have an array A = ["abcdef","uvwxyz"] and deletion indices {0, 2, 3}, then the final array after deletions is ["bef", "vyz"], and the remaining columns of A are ["b","v"], ["e","y"], and ["f","z"].  (Formally, the c-th column is [A[0][c], A[1][c], ..., A[A.length-1][c]]).
 //
-// Suppose we chose a set of deletion indices D such that after deletions, each remaining column in A is in non-decreasing sorted order.
+// abc
+// bce
+// cae
 //
-// Return the minimum possible value of D.length.
+//
+// You want to delete the columns that are not sorted lexicographically. In the above example (0-indexed), columns 0 ('a', 'b', 'c') and 2 ('c', 'e', 'e') are sorted while column 1 ('b', 'c', 'a') is not, so you would delete column 1.
+//
+// Return the number of columns that you will delete.
 //
 //  
 // Example 1:
 //
 //
-// Input: A = ["cba","daf","ghi"]
+// Input: strs = ["cba","daf","ghi"]
 // Output: 1
-// Explanation: 
-// After choosing D = {1}, each column ["c","d","g"] and ["a","f","i"] are in non-decreasing sorted order.
-// If we chose D = {}, then a column ["b","a","h"] would not be in non-decreasing sorted order.
+// Explanation: The grid looks as follows:
+//   cba
+//   daf
+//   ghi
+// Columns 0 and 2 are sorted, but column 1 is not, so you only need to delete 1 column.
 //
 //
 // Example 2:
 //
 //
-// Input: A = ["a","b"]
+// Input: strs = ["a","b"]
 // Output: 0
-// Explanation: D = {}
+// Explanation: The grid looks as follows:
+//   a
+//   b
+// Column 0 is the only column and is sorted, so you will not delete any columns.
 //
 //
 // Example 3:
 //
 //
-// Input: A = ["zyx","wvu","tsr"]
+// Input: strs = ["zyx","wvu","tsr"]
 // Output: 3
-// Explanation: D = {0, 1, 2}
+// Explanation: The grid looks as follows:
+//   zyx
+//   wvu
+//   tsr
+// All 3 columns are not sorted, so you will delete all 3.
 //
 //
 //  
 // Constraints:
 //
 //
-// 	1 <= A.length <= 100
-// 	1 <= A[i].length <= 1000
+// 	n == strs.length
+// 	1 <= n <= 100
+// 	1 <= strs[i].length <= 1000
+// 	strs[i] consists of lowercase English letters.
 //
 //
 

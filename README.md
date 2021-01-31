@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2021-01-28 11:40:48
+Update time:  2021-01-31 11:41:55
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **335   /   1581** problems
+I have solved **335   /   1585** problems
 while there are **248** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -615,7 +615,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |662|662|[maximum-width-of-binary-tree](https://leetcode.com/problems/maximum-width-of-binary-tree)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0662-0662(maximum-width-of-binary-tree)/maximum-width-of-binary-tree.java)|[:memo:](https://leetcode.com/articles/maximum-width-of-binary-tree/)|Medium|
 |663|663|[equal-tree-partition](https://leetcode.com/problems/equal-tree-partition)|:lock:|[:memo:](https://leetcode.com/articles/equal-tree-partition/)|Medium|
 |664|664|[strange-printer](https://leetcode.com/problems/strange-printer)||[:memo:](https://leetcode.com/articles/strange-printer/)|Hard|
-|665|665|[non-decreasing-array](https://leetcode.com/problems/non-decreasing-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0665-0665(non-decreasing-array)/non-decreasing-array.java)|[:memo:](https://leetcode.com/articles/non-decreasing-array/)|Easy|
+|665|665|[non-decreasing-array](https://leetcode.com/problems/non-decreasing-array)|[Java](https://github.com/LukeLinXu/leetcode/blob/dev_luke/solutions/0665-0665(non-decreasing-array)/non-decreasing-array.java)|[:memo:](https://leetcode.com/articles/non-decreasing-array/)|Medium|
 |666|666|[path-sum-iv](https://leetcode.com/problems/path-sum-iv)|:lock:|[:memo:](https://leetcode.com/articles/path-sum-iv/)|Medium|
 |667|667|[beautiful-arrangement-ii](https://leetcode.com/problems/beautiful-arrangement-ii)||[:memo:](https://leetcode.com/articles/beautiful-arrangement-ii/)|Medium|
 |668|668|[kth-smallest-number-in-multiplication-table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table)||[:memo:](https://leetcode.com/articles/kth-smallest-number-in-multiplication-table/)|Hard|
@@ -1589,6 +1589,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1839|1720|[decode-xored-array](https://leetcode.com/problems/decode-xored-array)|||Easy|
 |1840|1722|[minimize-hamming-distance-after-swap-operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations)|||Medium|
 |1843|1725|[number-of-rectangles-that-can-form-the-largest-square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square)|||Easy|
+|1844|1742|[maximum-number-of-balls-in-a-box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box)|||Easy|
 |1845|1727|[largest-submatrix-with-rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements)|||Medium|
 |1847|1708|[largest-subarray-length-k](https://leetcode.com/problems/largest-subarray-length-k)|:lock:||Easy|
 |1858|1736|[latest-time-by-replacing-hidden-digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits)|||Easy|
@@ -1596,4 +1597,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1860|1738|[find-kth-largest-xor-coordinate-value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value)|||Medium|
 |1861|1739|[building-boxes](https://leetcode.com/problems/building-boxes)|||Hard|
 |1865|1724|[checking-existence-of-edge-length-limited-paths-ii](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii)|:lock:||Hard|
-|1883|1740|[find-distance-in-a-binary-tree](https://leetcode.com/problems/find-distance-in-a-binary-tree)|:lock:||Easy|
+|1866|1743|[restore-the-array-from-adjacent-pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs)|||Medium|
+|1871|1745|[palindrome-partitioning-iv](https://leetcode.com/problems/palindrome-partitioning-iv)|||Hard|
+|1872|1744|[can-you-eat-your-favorite-candy-on-your-favorite-day](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day)|||Medium|
+|1883|1740|[find-distance-in-a-binary-tree](https://leetcode.com/problems/find-distance-in-a-binary-tree)|:lock:||Medium|
